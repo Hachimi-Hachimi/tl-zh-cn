@@ -1,0 +1,40 @@
+{
+    "no_wrap": true,
+    "title": "迎向神赞纪念",
+    "text_block_list": [
+        {
+            "name": "大树快车",
+            "text": "呀呼！\n终于来到“神赞纪念”的日子了！",
+            "choice_data_list": [
+                "有没有信心？",
+                "有没有信心？"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Well～我听说这是场重赏比赛，\n有许多跑得很快的对手，所以很难victory。",
+            "color_text_info_list": [
+                "重赏比赛"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "可是！我不会输的！"
+        },
+        {
+            "name": "大树快车",
+            "text": "我会朝着“年度代表赛马娘”──\nDash！Dash！！",
+            "choice_data_list": [
+                "你一定能获胜！"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Yes！我也这么觉得♪"
+        },
+        {
+            "name": "大树快车",
+            "text": "请你好好看着！我会用powerful的跑法\n把大家统统甩开的！"
+        }
+    ]
+}

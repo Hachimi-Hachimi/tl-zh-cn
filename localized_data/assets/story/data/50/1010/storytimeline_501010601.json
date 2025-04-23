@@ -1,0 +1,36 @@
+{
+    "no_wrap": true,
+    "title": "这次一定要获胜！",
+    "text_block_list": [
+        {
+            "name": "大树快车",
+            "text": "呵呵呵……训练员！\n今天的我special spice！",
+            "choice_data_list": [
+                "呛辣！？"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Well～该说是比平常还good吗……\n记得日文是说one taste……？",
+            "choice_data_list": [
+                "你是指独树一格？"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Yes！That's right！\n今天的我独树一格！"
+        },
+        {
+            "name": "大树快车",
+            "text": "……要是像之前那样子输掉，\n替我加油的大家会伤心的。"
+        },
+        {
+            "name": "大树快车",
+            "text": "所以我想赢得今天的比赛，\n开一场大家都happy的派对！"
+        },
+        {
+            "name": "大树快车",
+            "text": "不论阻挡在前面的是谁……BANG！\n我会用自己的跑法开个大洞的♪"
+        }
+    ]
+}

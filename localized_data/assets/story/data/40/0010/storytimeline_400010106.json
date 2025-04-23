@@ -1,0 +1,17 @@
+{
+    "no_wrap": true,
+    "title": "Brimming with Motivation",
+    "text_block_list": [
+        {
+            "name": "圣烈特",
+            "text": "<chrname>的表情……\n呵呵，充满了干劲呢。",
+            "choice_data_list": [
+                "（说起来……）"
+            ]
+        },
+        {
+            "name": "独白",
+            "text": "<chrname>现在的状态很好！\n让训练更加充实，\n期待她进一步的成长吧！"
+        }
+    ]
+}

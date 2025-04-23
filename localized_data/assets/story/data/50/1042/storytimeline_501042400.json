@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "title": "采珠登场！",
+    "text_block_list": [
+        {
+            "name": "采珠",
+            "text": "我的名字是采珠！我的存在是为了\n让全世界的人们看见梦想，拯救他们脱离绝望！",
+            "color_text_info_list": [
+                "采珠"
+            ]
+        },
+        {
+            "name": "采珠",
+            "text": "Everyone，我会让你们看见！！\n我在国内百战百胜，以及──达成特雷森学园最初\n拿下“欧洲GⅠ胜利”的瞬间！",
+            "color_text_info_list": [
+                "特雷森学园",
+                "GⅠ"
+            ]
+        },
+        {
+            "name": "采珠",
+            "text": "首先是英里短距离和三后冠，\n我必须从中choose一个作为目标！\n如果选择走英里短距离路线──",
+            "color_text_info_list": [
+                "三后冠"
+            ]
+        },
+        {
+            "name": "采珠",
+            "text": "之后阻挡在我面前的高墙，\n就会是大树快车！\n但对手越强越能让我的斗志burning！",
+            "color_text_info_list": [
+                "大树快车"
+            ]
+        }
+    ]
+}

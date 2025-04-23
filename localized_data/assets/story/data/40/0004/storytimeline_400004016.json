@@ -1,0 +1,33 @@
+{
+    "no_wrap": true,
+    "title": "达成！优秀的表现！",
+    "text_block_list": [
+        {
+            "name": "独白",
+            "text": "<chrname>达成了\n<achievement_name>。"
+        },
+        {
+            "name": "独白",
+            "text": "<achievement_info>"
+        },
+        {
+            "text": "某一天，\n秋川理事长向我搭话。"
+        },
+        {
+            "name": "秋川理事长",
+            "text": "漂亮！！"
+        },
+        {
+            "name": "秋川理事长",
+            "text": "<chrname>的优异表现\n可说是印象深刻！有望！"
+        },
+        {
+            "name": "秋川理事长",
+            "text": "做得好！\n你们展现的优秀表现，\n值得作为其他赛马娘的目标！"
+        },
+        {
+            "name": "独白",
+            "text": "秋川理事长亲自称赞了我们……！\n看来我们缔造了好成绩！"
+        }
+    ]
+}

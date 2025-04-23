@@ -1,0 +1,20 @@
+{
+    "no_wrap": true,
+    "title": "迎向日本德比",
+    "text_block_list": [
+        {
+            "name": "独白",
+            "text": "特别的比赛“日本德比”。\n菱钻奇宝认为自己果然跟这里格格不入，\n因此感到非常胆怯。",
+            "color_text_info_list": [
+                "日本德比"
+            ]
+        },
+        {
+            "name": "独白",
+            "text": "她认为今天的主角是\n谷野美酒和吉兆，\n自己只是来客串演出的。",
+            "color_text_info_list": [
+                "吉兆"
+            ]
+        }
+    ]
+}

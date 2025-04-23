@@ -1,0 +1,17 @@
+{
+    "no_wrap": true,
+    "title": "关于继承",
+    "text_block_list": [
+        {
+            "name": "骏川手纲",
+            "text": "继续进行育成准备吧。"
+        },
+        {
+            "name": "骏川手纲",
+            "text": "首先去一趟三女神像前吧。",
+            "color_text_info_list": [
+                "三女神像"
+            ]
+        }
+    ]
+}

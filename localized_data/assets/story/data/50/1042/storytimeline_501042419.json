@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "title": "出道战结束后．出乎意料的rivals",
+    "text_block_list": [
+        {
+            "name": "采珠",
+            "text": "呵～呵呵呵！这就是我的实力！\n心脏是不是都jumping个不停了啊！\n面对大树我也要顺着这股气势拿下victory！"
+        },
+        {
+            "name": "采珠",
+            "text": "──什么，大树暂时无法出道！？\n这样我burning的soul该怎么办才好！"
+        },
+        {
+            "name": "采珠",
+            "text": "既然如此，myself就在新马级大闹一场！\n首先在“每日杯新马级S”上look at me！",
+            "color_text_info_list": [
+                "新马级",
+                "每日杯新马级S"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "no_wrap": true,
+    "title": "决战！Grand Masters",
+    "text_block_list": [
+        {
+            "name": "独白",
+            "text": "到了与三女神正面交锋的──\n“Grand Masters”开赛日当天。"
+        },
+        {
+            "name": "独白",
+            "text": "为了让她们见识到\n我与<chrname>共同努力的成果──"
+        },
+        {
+            "name": "独白",
+            "text": "并且，为了朝赛马娘的顶点迈进──"
+        },
+        {
+            "name": "独白",
+            "text": "我将和<chrname>\n一起赢得胜利……！"
+        }
+    ]
+}

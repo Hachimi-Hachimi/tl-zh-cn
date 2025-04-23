@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "title": "夏季集训（第三年）开始！",
+    "text_block_list": [
+        {
+            "text": "今年又再次来到了“夏季集训”的时期。"
+        },
+        {
+            "name": "大树快车",
+            "text": "I'll be back～！！\n我回来了！"
+        },
+        {
+            "name": "大树快车",
+            "text": "我们要先做什么呢？\n劈西瓜？烟火大会？还是烧烤大会？"
+        },
+        {
+            "name": "大树快车",
+            "text": "Oh，当然不只有那样！\n最重要的还是训练！"
+        },
+        {
+            "name": "大树快车",
+            "text": "针对“短途马锦标”的\nhard训练，come on！",
+            "color_text_info_list": [
+                "短途马锦标"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "来吧，训练员！\n我们要以victory为目标，let's training！"
+        },
+        {
+            "text": "就这样，集训开始了。"
+        }
+    ]
+}

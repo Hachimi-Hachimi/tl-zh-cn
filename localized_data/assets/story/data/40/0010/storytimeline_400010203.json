@@ -1,0 +1,12 @@
+{
+    "no_wrap": true,
+    "title": "目标达成！",
+    "text_block_list": [
+        {
+            "text": "顺利达成了与\n<chrname>共同设定的目标。"
+        },
+        {
+            "text": "向着新的目标，继续努力吧！"
+        }
+    ]
+}

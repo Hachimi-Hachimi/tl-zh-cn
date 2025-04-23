@@ -1,0 +1,29 @@
+{
+    "no_wrap": true,
+    "title": "挑战夹娃娃机失败……",
+    "text_block_list": [
+        {
+            "name": "大树快车",
+            "text": "Oh～no……！\nDrop掉了……",
+            "choice_data_list": [
+                "抱歉……",
+                "抱歉啊……"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Don't worry！训练员，\n请你别放在心上！"
+        },
+        {
+            "name": "大树快车",
+            "text": "俗话说“人有lost足”！\n以及“who能无过”对吧？"
+        },
+        {
+            "name": "大树快车",
+            "text": "谁都会有状况no good的时候。\n这也没办法……"
+        },
+        {
+            "text": "留下令人遗憾的结果……"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "no_wrap": true,
+    "title": "Grand Masters．胜利",
+    "text_block_list": [
+        {
+            "name": "独白",
+            "text": "在实现三女神的心愿──为所有赛马娘\n留下荣耀与成就而举办的“Grand Masters”中，\n<chrname>漂亮地获胜。"
+        },
+        {
+            "name": "独白",
+            "text": "借助奔驰于过去的赛马娘们留下的知识，\n<chrname>光荣地登上了\n奔驰于现在的赛马娘之顶点。"
+        },
+        {
+            "name": "独白",
+            "text": "三女神赞扬她的功绩，\n露出满足的微笑。"
+        }
+    ]
+}

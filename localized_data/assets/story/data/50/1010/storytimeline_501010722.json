@@ -1,0 +1,31 @@
+{
+    "no_wrap": true,
+    "title": "因头痛而忧郁",
+    "text_block_list": [
+        {
+            "name": "大树快车",
+            "text": "Ouch！Ouch、ouch！\n我受到attack了！"
+        },
+        {
+            "text": "大树快车显得很难受……！？"
+        },
+        {
+            "name": "大树快车",
+            "text": "有人闯进了my head！\n铁定是japanese ninja！"
+        },
+        {
+            "name": "大树快车",
+            "text": "感觉刺刺的，有时候还会一直抽痛！\n苦无对我展开了rhythmical的攻击！",
+            "choice_data_list": [
+                "意思是你头痛吗？"
+            ]
+        },
+        {
+            "name": "大树快车",
+            "text": "Oh，要怎么形容都好！\n速速离去、南无三、good bye pain！！"
+        },
+        {
+            "text": "大树快车就这样为头痛所苦……"
+        }
+    ]
+}

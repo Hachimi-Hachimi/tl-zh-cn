@@ -1,0 +1,16 @@
+{
+    "no_wrap": true,
+    "title": "继续挑战",
+    "text_block_list": [
+        {
+            "text": " （铃铃铃铃铃……）",
+            "choice_data_list": [
+                "啊……原来是梦啊",
+                "啊……原来是梦啊"
+            ]
+        },
+        {
+            "text": "今天是重要的竞赛之日。忘了做过的梦，\n快点去找<chrname>吧──"
+        }
+    ]
+}
