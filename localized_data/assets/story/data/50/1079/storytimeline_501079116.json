@@ -1,0 +1,321 @@
+{
+  "Title": "私たちの町、私たちの色",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "中央不具备的光芒……。\n另一种的强大……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那究竟是……。\n嗯……。",
+      "ChoiceDataList": [
+        "怎么了、狂怒乐章？",
+        "怎么了、狂怒乐章？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "漫步在船桥的街头、\n我询问起陷入沉思的狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "之前、我们有商量过吧？\u3000要发掘并打磨出\n中央没有的、独属于船桥的特色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果没有自己的特色、总觉得赢不了\n全方面强大的中央……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘A",
+      "Text": "啊、狂怒乐章！\u3000你回来啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘B",
+      "Text": "我们也在努力哦！\n绝对不会辜负你给予的勇气！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "感谢各位。\n让我们共同努力吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "随着狂怒乐章的活跃\n『反正赢不了中央』的消极想法\n正在逐渐消散。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诚然、船桥特雷森的赛马娘们的积极性大涨。\n可是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "面对庞然巨物般的中央、\n这样还是不足以抗衡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我自己、能否超越飞鹰同学和希望同学。\n以及……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "未来、挑战中央的赛马娘们、\n又能否与其分庭抗礼呢……。",
+      "ChoiceDataList": [
+        "说的是啊、还不能高兴得太早",
+        "说的是啊、还不能高兴得太早"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――中央的强大。\n如果直白点讲……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――就是规模的巨大。\n创升曾纵横世界级舞台、\n为整个国家带来希望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "醒目飞鹰的粉丝遍布全国。\n将万千应援转化为力量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、每当我遥想中央时……\n脑海中、总会浮现出那位赛马娘的身影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那是数年前的『日本杯』。\n聚集了海外各路豪强的比赛――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本杯"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是她丝毫没有退缩、\n背负着国家荣誉奔跑――最终取胜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我认为那正是中央精神的代表。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那位赛马娘、我当然也知道。",
+      "ChoiceDataList": [
+        "是特别周啊",
+        "是特别周啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。被誉为“日本总大将”的赛马娘。\n她最卓越之处在于……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本总大将"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "能够承载人们的期许、\n背负一切仍绽放光芒……\n那无与伦比的『器量』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我自知永远无法成为她那样的存在……。\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "若是不能练就另一种可以比肩的力量、\n便无法为船桥唤来春天。",
+      "ChoiceDataList": [
+        "比肩的力量吗。确实如此啊……",
+        "比肩的力量吗。确实如此啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "中央传承着“必须强大”的责任感。\n那么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥又有什么呢？\n船桥独有的力量是什么呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥路人A",
+      "Text": "船桥独有的、啊。\n果然还是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥路人A",
+      "Text": "“购物天堂”吧？\n沿海有好多时尚店铺呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥路人B",
+      "Text": "不、应该是“名校”吧。\n足球、戏剧、吹奏乐。\n好多有知名社团的名校都在这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥路人C",
+      "Text": "是“炸物”啦、“炸物”。\n每家居酒屋都有自己的招牌、而且都很好吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "购物天堂、名校、炸物……。\n或许都是船桥的特色吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是好像\n都与比赛无关啊……。",
+      "ChoiceDataList": [
+        "确实……。但是！",
+        "确实……。但是！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许那两个孩子会知道。\n她们既了解船桥和比赛、\n又是可靠的好朋友。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "小乐章、训练员\n什么事啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "有想问我们的事情吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个……两位、\n说到只有船桥拥有的事物、\n会想到什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "独属船桥的……东西？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "啊、我想到啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "人家也是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不愧是值得信赖的两人。\n那她们的回答是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "购物中心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "好大的公园！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……训练员。",
+      "ChoiceDataList": [
+        "嗯……白问了",
+        "嗯……白问了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "咦、不是购物中心吗……？\n那里卖的松饼、\n小乐章也夸它最好吃的呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "诶～、是公园啦公园。那个旋转的大风车、\n我们三个不是被那么大的尺寸吓傻过来着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――调查失败。\n很遗憾、没能找到对抗中央的独特优势……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但我们依然会找下去。\n在日复一日训练的同时、\n探寻打倒中央的突破口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

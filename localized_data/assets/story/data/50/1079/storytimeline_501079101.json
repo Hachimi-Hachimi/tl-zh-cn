@@ -1,0 +1,357 @@
+{
+  "Title": "新年的抱负",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "――新年假期。\n虽然这段时间里\n闪耀系列赛自然处于休赛期……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "加油――！\u3000还有机会！\n从这里开始还能逆转……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "是啊、让她们见识下、船桥的骨气――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哒哒哒哒哒哒）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "啊～、真可惜。\n明明就差那一点了～。\n是吧、训练员？",
+      "ChoiceDataList": [
+        "是啊、不过下次应该就能赢了",
+        "是啊、不过下次应该就能赢了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是在地方比赛场、\n无论年初年末各地都会举办赛事。\n而且――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便是非主办地的比赛场、\n也会做实况转播。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "新年伊始就开始、\n为船桥赛马娘加油助威……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是独属于我们的新年。",
+      "ChoiceDataList": [
+        "……没错",
+        "……没错"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章回到船桥后、\n尽情享受着家乡的过年氛围。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "围绕赛事的日常生态。这一点\n地方也和中央有着天壤之别。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "说起来训练员。\n有关经典级的目标――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想再和你、详细地探讨一下。\n如何？",
+      "ChoiceDataList": [
+        "这个嘛……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "从去年年底开始、一直有件事、\n让我这个做训练员的耿耿于怀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一个或许会极大影响狂怒乐章的未来的\n重要因素……。",
+      "ChoiceDataList": [
+        "关于“草地路线”、你怎么看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "草地路线吗……。\n其实我也挺在意的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "还在船桥的时候、说实话、\n我从未考虑过这方面。\n但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "眼下环境已经改变……尝试去挑战\n也未尝不失为一种选项。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "去年、伏特加与真弓快车\n在草地路线的激烈交锋、\n确实令观众们热血沸腾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "难得有特別留学的机会、就该让狂怒乐章\n尝试所有的可能性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么训练员。今年、最初的目标就、\n定为“挑战草地路线”吧。",
+      "ChoiceDataList": [
+        "嗯嗯、就这么定了！",
+        "嗯嗯、就这么定了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当然、不会立刻安排正式比赛。\n回到中央特雷森之后、\n首先要进行适应性测试。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不过、距离回到中央\n还有几天时间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "既然难得回到故乡、\n这期间就尽情欢度船桥的新年吧。\n我们要怎么度过呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "欢度船桥新年……。\n提到这个、就应该是……。",
+      "ChoiceDataList": [
+        "去船桥童话公园做运动",
+        "去吃特色酱汁拉面",
+        "去大型百货购物"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "船桥童话公园……。\n是家乡的著名景点呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "一座遍布各种雕像的广阔公园……。\n那么、就去跑个步放松一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼、呼、呼、呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、这个是……\n『人鱼公主』的雕像呢。",
+      "ChoiceDataList": [
+        "是呢、『人鱼公主』很出名啊",
+        "是呢、『人鱼公主』很出名啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『人鱼公主』。对人类的王子一见钟情、\n所以来到人类的世界中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是那份恋情终究没有修成正果\n最后她化作海中泡沫的悲伤故事……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "独自踏上前往遥远人类世界的旅途……。\n虽然能从中感到些许共鸣。但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "荒谬至极！\u3000抛弃故乡之海、\n到別的地方定居什么的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我绝对不会这么做。不管怎样、\n将来一定要回到船桥。而且――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "竟然看上了外地的王子、\n不可理喻……。\n要找另一半必须是本地的。只能是本地人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员",
+      "Text": "狂怒乐章与人鱼公主不同、\n看来她对故乡的感情坚不可摧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "酱汁拉面……。说的也是。\n机会难得、就去重温下\n本地的特色美食吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "来了、就是这个、嗯嗯。\n啊啊、这香气、真令人怀念……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么、我开动了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（吃面中……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "真好吃啊……。但是要把这个味道、\n解释给没吃过的人很难。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "虽然不及酱汁那般的甜、\n但是饱含了其中独有的果香……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "吃下去后感觉疲劳被一扫而空。\n这是水果的精华成分带来的效果吗？",
+      "ChoiceDataList": [
+        "也许是哦！",
+        "也许是哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "果然如此！\u3000既然对抗疲劳有效果、\n真希望能引进中央特雷森的自助餐厅啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "吃到了家乡的著名美食、\n狂怒乐章变得精神十足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "大型百货……。说的是呢、不去那里逛逛、\n就感觉没有真正回到故乡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "从船桥特雷森出发只要五分钟就能到！\n我们走吧、训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "哇……这里还是老样子、\n满是其他商场难得一见的店铺呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "即使本地特雷森的设施不敌中央、\n但在购物场所方面绝对不落下风。",
+      "ChoiceDataList": [
+        "没错、这里是故乡的骄傲啊",
+        "没错、这里是故乡的骄傲啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――海岸开发。借着这股浪潮、\n这座大型购物中心应运而生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥绝非古老的旧城。\n而是老城区与新开发区交融并存的、\n混合型都市！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "还在船桥特雷森的时候、\n我们可是每天都会来这里逛呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "今天久违地逛遍每家商铺吧。\n说不定还开了新的店家呢。",
+      "ChoiceDataList": [
+        "好啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、我们两人兴致盎然地、\n穿梭于琳琅满目的店铺之间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

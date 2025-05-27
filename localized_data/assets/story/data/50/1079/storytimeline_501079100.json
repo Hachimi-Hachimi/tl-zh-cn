@@ -1,0 +1,327 @@
+{
+  "Title": "狂怒乐章登场！",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "（这里就是――中央特雷森学院。\n出道战……已经近在眼前了）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "中央特雷森学院",
+        "出道战"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（而和我一样、即将出道的、\n中央特雷森所属的赛马娘们――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "哼！\n伏特加、人家就让你见识一下。\n同期里、谁才是第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "伏特加"
+      ]
+    },
+    {
+      "Name": "伏特加",
+      "Text": "哈！\u3000看我反杀你、大和赤骥！\n会跑在最前面的、是本大爷！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "大和赤骥"
+      ]
+    },
+    {
+      "Name": "真弓快车",
+      "Text": "然后甩开正在争吵的两人、夺得头筹的\n就是人家小真啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小真"
+      ]
+    },
+    {
+      "Name": "大和赤骥＆伏特加",
+      "Text": "喂！！\n等下！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（同期的赛马娘们、\n都在友好地“打闹”。\n虽然看上去是针锋相对的关系、其中却……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（没有不是你死就是我亡的紧张感。\n但是――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我――不一样。对于从地方的船桥特雷森学院、\n作为特別留学生来到此地的我来说。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "船桥特雷森学院"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这里是――敌营。只是站在这里、\n就感到身心俱疲……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我的目標是『打倒中央』。为了展示船桥的实力。\n一定要将其实现。",
+      "ChoiceDataList": [
+        "狂怒乐章！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊、训练员。您辛苦了。\n这一天……终于到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "闪耀系列赛的“开战”。",
+      "ChoiceDataList": [
+        "嗯、确实是“开战”呢",
+        "嗯、确实是“开战”呢"
+      ],
+      "ColorTextInfoList": [
+        "闪耀系列赛"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "我身为船桥特雷森训练员、\n作为狂怒乐章的搭档、\n一同来到了这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "狂怒乐章"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "我们要达成的目标\n不是『实现梦想』这样天真的东西。\n而是……。",
+      "ChoiceDataList": [
+        "绝对不能输的、战斗啊",
+        "绝对不能输的、战斗啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没错。如果我们败了、\n就会变成船桥不敌中央。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我不认为船桥的赛马娘\n在才能上略逊一筹。但是现如今的实力\n确实不及中央……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没想到、会让世人看到\n那样屈辱的比赛……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员",
+      "Text": "屈辱的比赛。\n指的是在船桥比赛场举办的、\n地方交流重赏赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "重赏赛"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『闪长岩纪念』、此刻冲线！！\n第一名是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "闪长岩纪念"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "中央所属的『绯红新星』！\n后面、前四名都由中央的赛马娘拿下！！\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "绯红新星"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "3.3秒！\u30003.3秒啊！\n拉开了如此巨大的差距。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "怎么……怎么会……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥的赛马娘被获胜的中央赛马娘\n拉开了3.3秒的巨大差距吞下惨败。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不能坐以待毙。\n再这样下去、一切\n都会被中央抢走的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "荣誉、关注、还有骄傲全部都会……。\n如果被中央甩开的话……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们的故乡、船桥比赛场、\n那里的粉丝\n会被尽数抢走吧。再是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "比赛场周边的街道、\n可能很快就变得冷清。\n那些养育了我们的……最爱的街道啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――一定要守护下来。\n为此、我们首先\n不能被中央打败。",
+      "ChoiceDataList": [
+        "啊啊、目标是成为沙土之王！",
+        "嗯嗯、目标是成为沙土之王！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不管在中央还是船桥、沙土场地就是沙土场地。\n只要踩在沙土上、就能发挥出锻炼至今的实力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当然中央的沙土赛马娘很强大。但是\n只要凭特別留学生的身份、使用中央的设施训练、\n就一定能……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么训练员、今天就此告辞。\n从明日开始、请多多指教。",
+      "ChoiceDataList": [
+        "狂怒乐章、今天接下来有什么打算？",
+        "狂怒乐章、今天接下来有什么打算？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "打算、吗？\n这个嘛、也就回房间里……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "晚上一个人、吃鸡肉沙拉吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一个人吃晚饭。\n感觉那副光景过于寂寞了……。",
+      "ChoiceDataList": [
+        "那么、晚上一起吃饭吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊、好的……。那我恭敬不如从命了。\n不好意思总是麻烦你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、非常感谢。\n今晚也带我一起吃饭。",
+      "ChoiceDataList": [
+        "没事、不客气",
+        "没事、不客气"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章没有住进特雷森学院的宿舍\n她在学校外租的房子里一个人住……。",
+      "ChoiceDataList": [
+        "住进宿舍会更方便吧？",
+        "住进宿舍会更方便吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、只有这个做不到。\n中央里都是敌人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在同一屋檐下共同生活的话、\n可能会被同化的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们是、从船桥来的刺客。\n是只有彼此的同志。\n我只有在训练员面前可以放松警惕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只有这条底线绝对要守住。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员也不要被他们蛊惑哦。\n然后、总有一天――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "实现超越中央、将一切握在手中、\n给船桥带来春天吧。",
+      "ChoiceDataList": [
+        "嗯……！",
+        "嗯……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在的我们一无所有。\n有的只是、同乡抱团带来的些微温暖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是同样出身船桥的羁绊坚不可摧。\n只要齐心协力、必能实现打倒中央的目标。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

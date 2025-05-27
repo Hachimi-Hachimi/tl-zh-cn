@@ -1,0 +1,353 @@
+{
+  "Title": "情人節",
+  "TextBlockList": [
+    {
+      "Name": "狂怒樂章",
+      "Text": "情人節的巧克力。\n果然要買的話……還是該去像樣的店！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "這家店、因為太貴了、\n平時都只是路過而已……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巧克力店店員",
+      "Text": "歡迎光臨――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "（嗚嗚……不過、\n我要是在這種店裡買的話……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "給、訓練員！\u3000情人節巧克力♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船橋賽馬娘A",
+      "Text": "……那是什麼？\n那孩子居然會做這麼時髦的事？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船橋賽馬娘B",
+      "Text": "是中央啊、被中央傳染啦！\n肯定是在中央留学的時候、被那邊帶壞了啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "不行……不能隨便買……。\n買了絕對會被說出賣了靈魂……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "果然還要得構思出符合我們風格的巧克力、\n自己動手做才行……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "美浦宿舍長、我厚著臉皮來請求您。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "能借用下宿舍的廚房嗎。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "好好想想、要做什麼樣的巧克力。\n要是中央的賽馬娘、\n送出比我更好的巧克力給訓練員的話……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "訓練員可能會被虛假的甜蜜蠱惑……、\n失去重要之物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "為了阻止這種情況發生、要往、\n巧克力裡……灌注船橋魂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在情人節當天。\n我被狂怒樂章叫來了某處……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "――――",
+      "ChoiceDataList": [
+        "哪啊！？這裡！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "中央特雷森附近的渓流。\n話說訓練員……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "還記得在船橋比賽場、\n經常出沒的生物是什麼嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "說來船橋比賽場常見的生物……。",
+      "ChoiceDataList": [
+        "……賽馬娘？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "雖然確實沒錯、但是還有一種。\n給你提示――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "就是這樣的地方。\n通常棲息在這樣的水邊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……水邊。這下我恍然大悟。",
+      "ChoiceDataList": [
+        "小龍蝦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "沒錯、就是小龍蝦。\n它們經常闖進賽場呢。\n其實我也養了幾隻、所以……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "這個送給訓練員。",
+      "ChoiceDataList": [
+        "難道是……小龍蝦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "不、這次猜的太離譜了。\n請打開看看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我打開了盒子……\n裡頭裝著一塊小龍蝦型的巧克力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "以我飼養的小龍蝦“薩里郎”為原型、\n忠実地還原它本來的姿態。命名為……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "憤怒薩里郎巧克力。\n這個仰天怒吼的造型、\n象徵着船橋的鬥志。",
+      "ChoiceDataList": [
+        "謝、謝謝……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "巧克力製作地異常精巧。\n以狂怒樂章的認真勁兒、\n一定埋頭苦幹了許久才完成的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "訓練員、明年還會送你一隻。",
+      "ChoiceDataList": [
+        "謝、謝謝你……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "後年也是。\n完成度還會逐年升級的。",
+      "ChoiceDataList": [
+        "是嗎、真了不起的上進心啊……",
+        "是嗎、真了不起的上進心啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "所以請不要被中央蠱惑了、\n要珍重我們的羈絆、然後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "一同集齊小龍蝦家族吧！",
+      "ChoiceDataList": [
+        "家族……我知道了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就這樣、我收到了意義不明的小龍蝦巧克力\n家族套裝的第一位成員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "感謝你特意過來、訓練員。",
+      "ChoiceDataList": [
+        "為什麼、要來公園？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "理由嘛……是因為有那個。\n請看看眼前的池塘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "以前、我們在船橋經常划船對吧。",
+      "ChoiceDataList": [
+        "對啊、經常划船……",
+        "對啊、經常划船……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我與狂怒樂章兩人、常常一起划船……。\n那個時候心裡只裝著夢想……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便如此每天也很快樂。\n如今回想起來已經過了好久了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "請一邊回憶過去的日子……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "這個、給你。一邊打開看看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我拆開了包裝、裡面是……。",
+      "ChoiceDataList": [
+        "哇、船型的巧克力！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "是的。我把船橋的船做成了巧克力。\n和我們以前常划的船一模一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "光是看著腦內就湧起許多回憶。\n回想起那時候、兩人曾說過的話……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "訓練員、總有一天不僅要讓船橋比賽場、\n還有這個公園……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "要讓過來玩的游客絡繹不絕。\n要讓整個城市變得熱鬧非凡。約好了啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "仔細想來、好像從那時起……\n我們就始終乘著一葉扁舟航行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "就這樣一直、在中央的汪洋裡、\n共同面對翻湧的波濤……。",
+      "ChoiceDataList": [
+        "是啊……",
+        "是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且、這趟旅途……除非抵達心之所向、\n否則不會終結。不會結束。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "我們的扁舟雖小。\n但只要有著彼此便無所畏懼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "等到徹底實現目標的那天、\n再一起回到船橋特雷森吧。",
+      "ChoiceDataList": [
+        "嗯……！",
+        "嗯……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "這艘雙人小舟……依然會破浪前行。\n此時此刻、仍在未竟的旅途之中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我們一起分食著同一塊巧克力。\n一同品味著、那微甜與恰到好處的咸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

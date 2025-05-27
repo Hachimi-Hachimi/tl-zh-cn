@@ -1,0 +1,600 @@
+{
+  "Title": "这是中央、简直是天堂……？",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、从船桥特雷森转学过来以后、\n我就一直在想……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这所中央特雷森学园、\n条件未免太好了吧？……。",
+      "ChoiceDataList": [
+        "……这个嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我切身体会到了何谓天壤之别……。\n果然这里设施的完善程度、\n要比船桥特雷森高出好几级。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "全种类的跑道都有。\n连木屑跑道也有。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "修理和杂物\n都有专人负责。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "午餐是――自助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "还能安排远征比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "梦之旅",
+      "Text": "无论天涯海角我亦能带您前往。\n纵使那地狱最底端。――开玩笑的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "更甚者、路上还能恰好路过\n蜂蜜饮品店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个……我要一杯普通、普通、普通的就行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "条件优渥固然是好。但是、\n若安于现状，精神难免会懈怠吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果丢掉了拼搏的执念、\n我们便不再是自己了。",
+      "ChoiceDataList": [
+        "……同感"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "怎么说呢、\n现在像是浸泡在奢华的温泉里……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "獠牙日渐被磨钝的恐惧\n萦绕心头。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "啊、狂怒乐章同学、你好啊！\n呐呐、训练结束后\n有小惊喜哦――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "要不要来看我的演出？\n就在特别申请来的、\n特雷森学院里的露天舞台！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "飞鹰同学……。难道说连演出\n也能在校内看啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "飞鹰"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "这位赛马娘叫醒目飞鹰。\n正在做马娘偶像。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "醒目飞鹰"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "同时也是一名沙土场地的好手、\n目前尚未出道、\n但是未来可期。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "呐呐、两位都眉头紧锁的、\n是遇到什么烦恼了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "如果愿意的话要不要找我商量？\n马娘偶像飞鹰子的烦恼咨询角！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "飞鹰子"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、不用……不算什么烦恼……。\n而且我也不想麻烦\n中央的飞鹰同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就算说了、恐怕你也不会理解吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "好啦好啦、别这么说嘛！\n机会难得诶、呐？\u3000呐？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呜……被你这么亲切地一说……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果还是拗不过醒目飞鹰、\n狂怒乐章对她坦白了\n优渥环境带来的危机感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "啊――、我多少理解这种心情。\n打个比方的话……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "最初是亲手操办演出、\n但走红之后就全部交给别人包办了。\n就是这样的感觉吧？",
+      "ChoiceDataList": [
+        "嗯、差不多就是这样",
+        "嗯、差不多就是这样"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "设施完善本身固然是好。\n不过――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我担心这样反而会带来负面影响。\n想到可能会滋生自满和依赖心理就\n觉得可怕……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "这样啊――。狂怒乐章同学\n非常正经呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "虽然能理解这份心情、但我觉得\n并没有多可怕哦。",
+      "ChoiceDataList": [
+        "为什么……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "嗯、这个嘛……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "比起讲的还是亲眼去看更直观吧。\n不如带你看看大家日常的模样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "稍微跟我来一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊、好的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "到底要让我们看什么呢。\n我们决定跟着醒目飞鹰一探究竟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之后我们来到了训练场。\n看到在那里的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "搞毛啊？\n狂怒乐章和飞鹰子、你们过来干嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "希望同学、接下来要训练吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "希望"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "看就知道吧。一会儿、\n老娘要狠狠跑个痛快啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这位赛马娘叫希望城。\n虽然是还未出道的叛逆期辣妹、\n但同样是沙土场地的好手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "希望城"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘跑过以后、只怕寸草不生噢。\n整维修员大叔、\n做好跑道一塌糊涂的准备吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整维修员大叔",
+      "Text": "没事、希酱。不用客气。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好嘞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那种跑法……着实惊人。\n是字面意思上的、踢散场地沙土的狂奔――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "转眼间跑道便被席卷得遍地狼藉。\n然后在她小憩期间……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "维修员大叔",
+      "Text": "好嘞小子们！\n开干啦、赶紧的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "维修员们",
+      "Text": "好……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "维修班驾驶平路车、\n把跑道修复地焕然一新。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "哇、仿佛闪闪发亮诶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跑道转眼间复原。休息时间刚过、\n就又回到之前整洁的模样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就是这个、这就是我说的好过头。\n正常哪有这么快就修好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在这种环境里迟早会……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "嗯、是吗？\n我倒觉得不至于哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好嘞、那么马上、再跑一回！\n老娘可没有刹车。不跑穿不算完！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "维修员大叔、\n老娘还没使唤够你们呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "维修员大叔",
+      "Text": "没问题、尽管撒欢吧。\n我们随时都能恢复场地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜哦噢啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城、心无旁骛地奔跑着。\n毫无顾忌地、只顾全力奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "希望同学……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈、哈……今天也跑了个爽呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "回头见了狂怒乐章。想找我陪跑的话、\n老娘随时奉陪！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊……好的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "呐？\u3000其实环境好\n并不代表大家会松懈啦？\n不如说正因此、才能够加倍训练嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "还有啊、人家的演出\n可不是闹着玩的！\u3000这就让你们见识下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "大家――！\u3000感谢今天对我的支持――♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "人家用歌声与舞蹈、给各位注满元气后、\n明天也要继续努力哦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "奔跑、应援、再奔跑！\n让我们一起嗨起来――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘们",
+      "Text": "噢――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、这是……。",
+      "ChoiceDataList": [
+        "嗯、不是单纯的放松娱乐……",
+        "嗯、不是单纯的放松娱乐……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……同感。大家、在尽情享受的同时……\n不光只在娱乐、还把这份能量……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "转化为第二天的动力……。\n既然身处优渥的环境、就要将其全部化为力量……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是中央特雷森学园的\n“日常”吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、我、好像搞错了。\n应该更贪婪地！\u3000乘上这股浪潮才是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "再这样瞻前顾后下去、\n只会被甩到后头。所以！",
+      "ChoiceDataList": [
+        "嗯……！",
+        "嗯……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "从第二天起、狂怒乐章的留学生活\n有了细微的变化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啥啊、并跑训练？\n居然主动向我挑战、胆子不小嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的、请多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乐章＆希望",
+      "Text": "哈啊啊啊啊！！\n欧拉啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "舞蹈特训？\n当然可以啦、不过、怎么突然？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "为了更好地成长。\n我想掌握吸收各种技能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "啊哈、狂怒乐章同学、变得好积极呢。\n那么跟着我的节奏。一二！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "左右、转圈♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啧、狂怒乐章……。你的跑法、\n变得可够凶残的啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "没错没错、舞蹈也进步神速呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "非常感谢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来她终于开始适应、\n在中央学习的生活了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当步调变得一致、能与周围融洽相处的时候。\n她与中央赛马娘的距离也会逐渐……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊、但是……。有件事\n必须事先声明、我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没想和你们建立交情。\n没有的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "之后也请多指教。\n我们走吧、训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言不由衷的保持距离的宣言。\n彰显她始终不忘拼搏的执念\n这就是狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "Title": "夏季集训（第2年）途中",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "参赛计划……不明？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这是怎么回事？\n一点消息也没有吗？",
+      "ChoiceDataList": [
+        "嗯、其实绯红新星她……",
+        "嗯、其实绯红新星她……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "绯红新星上次参加的比赛是、\n春季在迪拜举办的国际GⅠ。\n在那场比赛结束以后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她回国后、便完全没有了动静。\n应该是在等待重回赛场的时机吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果不清楚她会参加哪场比赛的话、\n我们连发起挑战的机会都没有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "真是头疼啊……。",
+      "ChoiceDataList": [
+        "是啊……",
+        "是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她是故意不想让竞争对手掌握自己的动向吧。\n这样的话、恐怕找训练员也很难打听到吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "盛夏之谜。\n绯红之炎、究竟会燃向何处。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正当我独自徘徊在夜晚的海边、\n苦思冥想的时候……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哈喽哈喽、那边的小哥。",
+      "ChoiceDataList": [
+        "嗯！？谁、谁啊！！",
+        "嗯！？谁、谁啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "别那么害怕啦～。\n咱又不是幽灵。\n比起这个……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "要买情报不、情报？\n特别给你打折哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我循着那可疑的声音探头望向岩石后面――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "你好你好、咱是创升。\n你是哪位训练员酱对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "创升"
+      ]
+    },
+    {
+      "Name": "创升",
+      "Text": "现在正值夏季大促小活动中哦。\n所以啦、不买点情报嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "无论什么独家消息、都给你特惠价哦。\n买不？",
+      "ChoiceDataList": [
+        "我买……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "创升。有关她的传言我早有耳闻。\n据说是在中央特雷森学院暗地里活跃的、\n情报屋赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "据传她的情报网遍布全球、\n号称没有拿不到手的消息。\n也许她的话……。",
+      "ChoiceDataList": [
+        "你知道绯红新星的动向吗？",
+        "你知道绯红新星的动向吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "绯红新星、吗。\n嗯哼嗯哼、稍等片刻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "好嘞好嘞、找到了哟。\n你看看这个怎么样？",
+      "ChoiceDataList": [
+        "这是……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "手机上面记载着她之后的参赛计划。\n根据这份清单……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "11月『JBC经典赛』。\n12月前半『冠军杯』。\n12月后半『东京大赏典』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "冠军杯",
+        "东京大赏典"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "虽然目前只是暂定的计划、\n但是能掌握到这种程度已属不易。",
+      "ChoiceDataList": [
+        "帮大忙了、谢谢你！情报费是多少？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "哼嗯、也是呢。总之今天就算特别服务好啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "作为交换\n以后你那有什么有用的情报记得告诉我哦――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "因为咱是主攻沙土比赛的、\n所以尤其欢迎沙土赛相关的情报哦。\nOK？",
+      "ChoiceDataList": [
+        "OK！我一定会回报你的！",
+        "OK！我一定会回报你的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今晚散歩的收获非比寻常。\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好、好厉害的情报啊。\n不愧是创升同学……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我立刻与狂怒乐章分享了这些消息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『JBC经典赛』\n『冠军杯』\n然后是『东京大赏典』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "居然在今年内GⅠ赛事三连战啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "既然如此我也要积攒经验、\n尽可能缩小差距。",
+      "ChoiceDataList": [
+        "是啊……",
+        "是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章尚属经典级。\n虽然已经具备参加古马级混合赛的资格了\n但是身体还在发育中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "目前与绯红新星的差距还很悬殊。\n但是只要在挑战她前、身心一同成长下去的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、既然目标已经明确了\n训练部分就拜托你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我必须要变得更强大！\n绝不能让悲剧再次上演。",
+      "ChoiceDataList": [
+        "是啊！",
+        "是啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然摸清了对手的动向。\n接下来只需心无旁骛地备战了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呀啊啊啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（对手固然强大。但是我们也有自己的武器。\n也就是――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（“屈辱”！\n那一天、船桥赛马娘被完虐的屈辱\n我们绝不会忘记）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（要把这份屈辱――\n化作无穷的力量！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "既然对手也是赛马娘、那就必能还以颜色！\n哈啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [
+        "上啊、狂怒乐章！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是、训练员！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章一丝不苟地完成了枯燥的重复训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼……到自由时间了吗……。\n但我不想虚度这段时光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想做些对比赛有帮助的事情。\n……训练员有什么推荐吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既对比赛有益……。\n又能放松身心的事情吗……。",
+      "ChoiceDataList": [
+        "沙滩足球比赛！",
+        "沉浸乐器演奏"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在沙滩踢足球吗。说起来、\n我多少有些经验的。",
+      "ChoiceDataList": [
+        "是吗？",
+        "是吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。毕竟、在船桥\n是有足球名校的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那就召集选手来场较量吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "请多指教、狂怒乐章同学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱钻奇宝",
+      "Text": "请多指教――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "热爱足球的赛马娘们陆续集结。\n其中有优等生委员长成田路。\n超平凡赛马娘菱钻奇宝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成田路",
+        "菱钻奇宝"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "那么比赛开始、我来开球。\n嘿呀啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路一记大力抽射把球踢得又高又远。然而――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "咦、怎么不动……？\n我还以为会被球带着跑呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "怎能被眼前的诱饵钓着走。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（首先要仔细地纵览全场。\n然后――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "反击――！\n就是这里！\u3000喝啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "――！！\u3000什么！？\n这洞察力……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是船桥足球。\n时刻冷静地掌握局势！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章展现出与赛场上如出一辙的、\n冷静判断力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "狂怒乐章同学、我好兴奋。\n虽然今天只是玩玩……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好期待有一天我们赛马娘之间、\n能来一场真正的较量啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好、一言为定。\n下次就不是在沙滩――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "去国立竞技场！",
+      "ChoiceDataList": [
+        "说的不是赛跑啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "此刻俨然足球选手模样的二人相约球场……。\n就这样狂怒乐章通过踢沙滩足球锻炼了腰腿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "沉浸乐器演奏吗。\n其实我多少有些经验的。",
+      "ChoiceDataList": [
+        "你会乐器吗？",
+        "你会乐器吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "会的。在船桥也有吹奏乐名校的。\n那么、请看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接着狂怒乐章拿出来的乐器是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――――",
+      "ChoiceDataList": [
+        "……这个？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的、就是这个。钹。",
+      "ChoiceDataList": [
+        "不是管类的乐器吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "…我曾试过铜管和木管类的、\n但是没学会……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "请播放曲目吧。\n我会配合曲子演奏。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "手机开始播放吹奏音乐。\n然后在曲子的最后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（锵！）",
+      "ChoiceDataList": [
+        "就这！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就这。仅此1音画龙点睛、\n升华整首乐曲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "再来一次吧。\n请再从头开始播放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章耐心地等待着漫长曲目的终结。\n于是她的忍耐力得到了锻炼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（锵！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
