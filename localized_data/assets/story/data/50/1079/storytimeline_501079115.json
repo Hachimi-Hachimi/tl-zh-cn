@@ -2,82 +2,82 @@
   "Title": "蒼天飲泣、你卻駐足不前",
   "TextBlockList": [
     {
-      "Name": "狂怒樂章",
+      "Name": "狂怒乐章",
       "Text": "哈啊、哈啊、呼呼、呼……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我和狂怒樂章為了備戰『閃長岩紀念』\n回到了船橋比賽場。",
+      "Text": "我和狂怒乐章为了备战『闪长岩纪念』\n回到了船桥比赛场。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "為了彌補那3.3秒的差距……\n回到這裡。",
+      "Name": "狂怒乐章",
+      "Text": "为了弥补那3.3秒的差距……\n回到这里。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "此刻正是……在故鄉賽場上！\n咳咳、嗚……。",
+      "Name": "狂怒乐章",
+      "Text": "此刻正是……在故乡赛场上！\n咳咳、呜……。",
       "ChoiceDataList": [
-        "狂怒樂章……"
+        "狂怒乐章……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "她因執念驅策的特訓。\n……積攢下了過多的疲勞。",
+      "Text": "她因执念驱策的特训。\n……积攒下了过多的疲劳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "但我已經……無法阻止她了。\n彷彿現在就要降下明日的制裁。",
+      "Text": "但我已经……无法阻止她了。\n彷彿现在就要降下明日的制裁。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "但――哪怕最後再問一次。",
+      "Text": "但――哪怕最后再问一次。",
       "ChoiceDataList": [
-        "真的……要這麼做嗎？",
-        "真的……要這麼做嗎？"
+        "真的……要这么做吗？",
+        "真的……要这么做吗？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
+      "Name": "狂怒乐章",
       "Text": "…………。",
       "ChoiceDataList": [
-        "做好覺悟了嗎？……化作鬼神",
-        "做好覺悟了嗎？……化作鬼神"
+        "做好觉悟了吗？……化作鬼神",
+        "做好觉悟了吗？……化作鬼神"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "――是的、要做。\n在眾人的見證下。",
+      "Name": "狂怒乐章",
+      "Text": "――是的、要做。\n在众人的见证下。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "向着血染的終局、那制裁的激流\n已經無人可擋。但是――",
+      "Text": "向着血染的终局、那制裁的激流\n已经无人可挡。但是――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "上天、有時候――\n會將人類的意志盡數摧毀。",
+      "Text": "上天、有时候――\n会将人类的意志尽数摧毁。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "訓練員！？\u3000這是……！？",
+      "Name": "狂怒乐章",
+      "Text": "训练员！？\u3000这是……！？",
       "ChoiceDataList": [
         "太……太大了！快趴下！！",
         "太……太大了！快趴下！！"
@@ -86,432 +86,432 @@
     },
     {
       "Name": "",
-      "Text": "――3月中旬。巨大的地震災害、\n襲擊了船橋。",
+      "Text": "――3月中旬。巨大的地震灾害、\n袭击了船桥。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不僅是船橋。\n災害波及東日本全土。這等規模前所未有――",
+      "Text": "不仅是船桥。\n灾害波及东日本全土。这等规模前所未有――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "大家――！！\u3000還好嗎――！？",
+      "Name": "狂怒乐章",
+      "Text": "大家――！！\u3000还好吗――！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "船橋賽馬娘・薩米",
-      "Text": "小樂章！\u3000我們沒事！\n可是……可是……！！",
+      "Name": "船桥赛马娘・萨米",
+      "Text": "小乐章！\u3000我们没事！\n可是……可是……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "船橋賽馬娘・繆",
-      "Text": "我們的……比賽場……被……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "景象……慘不忍睹。\n第3彎道至第4彎道間、\n賽道上佈滿了數不盡的裂痕――",
+      "Name": "船桥赛马娘・缪",
+      "Text": "我们的……比赛场……被……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "跑道與看臺的地基嚴重液化……。\n還有多處凹陷、連走上去都危險重重……。",
+      "Text": "景象……惨不忍睹。\n第3弯道至第4弯道间、\n赛道上布满了数不尽的裂痕――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "好慘……我們的……船橋竟然……。",
+      "Name": "",
+      "Text": "跑道与看台的地基严重液化……。\n还有多处凹陷、连走上去都危险重重……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "這樣子……別說比賽了……。",
+      "Name": "狂怒乐章",
+      "Text": "好惨……我们的……船桥竟然……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "訓練員！\n我去查看有沒有人受傷……！",
+      "Name": "狂怒乐章",
+      "Text": "这样子……别说比赛了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员！\n我去查看有没有人受伤……！",
       "ChoiceDataList": [
-        "不行啊、首先應該避難！",
-        "不行啊、首先應該避難！"
+        "不行啊、首先应该避难！",
+        "不行啊、首先应该避难！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
+      "Name": "狂怒乐章",
       "Text": "但是……！！",
       "ChoiceDataList": [
-        "不行！現在是緊急事態！",
-        "不行！現在是緊急事態！"
+        "不行！现在是紧急事态！",
+        "不行！现在是紧急事态！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "緊急……事態……。\n說的……是啊……。",
+      "Name": "狂怒乐章",
+      "Text": "紧急……事态……。\n说的……是啊……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "我強行制止了她。\n當務之急是確保自身的安全。",
+      "Text": "我强行制止了她。\n当务之急是确保自身的安全。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "那之後過了数日、全國陷入了大混乱。\n『閃長岩紀念』自然、取消了。",
+      "Text": "那之后过了数日、全国陷入了大混乱。\n『闪长岩纪念』自然、取消了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "閃耀系列賽也面臨停辦危機。\n但是……中央的應對十分迅速。",
+      "Text": "闪耀系列赛也面临停办危机。\n但是……中央的应对十分迅速。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "URA工作人員",
-      "Text": "――綜上所述、\n想聽取学園方的意見。\n比賽場地有希望修復完成嗎。",
+      "Name": "URA工作人员",
+      "Text": "――综上所述、\n想听取学园方的意见。\n比赛场地有希望修复完成吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "呼姆、深思……。\n這種狀況下、是否應該舉辦比賽。",
+      "Name": "秋川理事长",
+      "Text": "呼姆、深思……。\n这种状况下、是否应该举办比赛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "賽馬娘們恐怕也難以保持平常心參賽吧。\n學生会長怎麼想？",
+      "Name": "秋川理事长",
+      "Text": "赛马娘们恐怕也难以保持平常心参赛吧。\n学生会长怎么想？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "魯道夫象徵",
-      "Text": "我的話――",
+      "Name": "魯道夫象征",
+      "Text": "我的话――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "魯道夫象徵",
-      "Text": "――我認為應該舉辦。\n只要能確保選手和粉絲的安全。",
+      "Name": "魯道夫象征",
+      "Text": "――我认为应该举办。\n只要能确保选手和粉丝的安全。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "URA工作人員",
-      "Text": "賽馬娘們的心態……\n沒問題嗎？",
+      "Name": "URA工作人员",
+      "Text": "赛马娘们的心态……\n没问题吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "魯道夫象徵",
-      "Text": "沒問題。我們的職責、\n就是通過賽跑、\n為人們帶來歡樂與勇氣。",
+      "Name": "魯道夫象征",
+      "Text": "没问题。我们的职责、\n就是通过赛跑、\n为人们带来欢乐与勇气。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "魯道夫象徵",
-      "Text": "不論比賽場内外、\n我們都會全力以赴。\n一切都是為了――復興。",
+      "Name": "魯道夫象征",
+      "Text": "不论比赛场内外、\n我们都会全力以赴。\n一切都是为了――复兴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "希望城",
-      "Text": "盛岡――！\u3000給老孃鉚足勁修整呀！",
+      "Text": "盛冈――！\u3000给老孃铆足劲修整呀！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "希望城",
-      "Text": "豈能讓充滿回憶的比賽場、\n就此荒廢啊。\n趕緊把瓦礫清乾淨啦！",
+      "Text": "岂能让充满回忆的比赛场、\n就此荒废啊。\n赶紧把瓦砾清干净啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金巨匠",
-      "Text": "出場的時刻――來臨了。\n雖因興致缺失、屢嘗敗績。",
+      "Text": "出场的时刻――来临了。\n虽因兴致缺失、屡尝败绩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "黃金巨匠",
-      "Text": "但此刻――余必須有所展現。",
+      "Text": "但此刻――余必须有所展现。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "廣播員",
-      "Text": "全國各地的賽馬娘們、\n都在持續開展充滿活力的行動。",
+      "Name": "广播员",
+      "Text": "全国各地的赛马娘们、\n都在持续开展充满活力的行动。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "廣播員",
-      "Text": "関東地區的比賽也將於4月重啟。\n收穫了粉絲們驚天動地的喝彩。",
+      "Name": "广播员",
+      "Text": "关东地区的比赛也将于4月重启。\n收获了粉丝们惊天动地的喝彩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "好厲害……。\n這種状況下也能開比賽……。",
+      "Name": "狂怒乐章",
+      "Text": "好厉害……。\n这种状况下也能开比赛……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "訓練員、這就是……。",
+      "Name": "狂怒乐章",
+      "Text": "训练员、这就是……。",
       "ChoiceDataList": [
-        "沒錯、這就是中央啊……",
-        "沒錯、這就是中央啊……"
+        "没错、这就是中央啊……",
+        "没错、这就是中央啊……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "即使遭遇如此規模的災害、\n奔跑的意志也毫不動搖。",
+      "Text": "即使遭遇如此规模的灾害、\n奔跑的意志也毫不动摇。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "不如說正相反、那份意志變得更加閃耀。\n為了給人們帶去歡樂與勇氣、\n她們都在全力以赴。",
+      "Text": "不如说正相反、那份意志变得更加闪耀。\n为了给人们带去欢乐与勇气、\n她们都在全力以赴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "何等的……信念……。\n對待比賽的態度竟有如此差距……。",
+      "Name": "狂怒乐章",
+      "Text": "何等的……信念……。\n对待比赛的态度竟有如此差距……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "雖然她們圧倒性的強大、\n有時顯得傲慢……。",
+      "Name": "狂怒乐章",
+      "Text": "虽然她们圧倒性的强大、\n有时显得傲慢……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "但她們絕非憑藉不甘就能超越的泛泛之輩……。",
+      "Name": "狂怒乐章",
+      "Text": "但她们绝非凭借不甘就能超越的泛泛之辈……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "這份……崇高的尊嚴……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "狂怒樂章的執念……\n正在逐漸消散。而此刻――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "創晟",
-      "Text": "樂章、最近怎麼樣……？\n咱這邊現在有些迷茫呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "狂怒樂章",
-      "Text": "創晟同學、你怎麼了？",
+      "Name": "狂怒乐章",
+      "Text": "这份……崇高的尊严……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "狂怒樂章接到了電話。\n來自正在迪拜備戰国際GⅠ的創晟。",
+      "Text": "狂怒乐章的执念……\n正在逐渐消散。而此刻――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
-      "Text": "那啥、咱、現在有點糾結。\n國內正處於困難時期……。",
+      "Name": "创升",
+      "Text": "乐章、最近怎么样……？\n咱这边现在有些迷茫呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
-      "Text": "這時候繼續留在海外、\n參加比賽合適嗎。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "創晟",
-      "Text": "或許有更重要的事情需要我去做吧、\n什麼的。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "創晟",
-      "Text": "雖然覺得遺憾又不甘心……\n咱在考慮要不要退賽……。",
+      "Name": "狂怒乐章",
+      "Text": "创升同學、你怎么了？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "即便同屬中央、国内外的氛圍也截然不同。\n遠征組似乎都籠罩在自我克制的愁雲下――",
+      "Text": "狂怒乐章接到了电话。\n来自正在迪拜备战国际GⅠ的创升。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
+      "Name": "创升",
+      "Text": "那啥、咱、现在有点纠结。\n国内正处于困难时期……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "这时候继续留在海外、\n参加比赛合适吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "或许有更重要的事情需要我去做吧、\n什么的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "虽然觉得遗憾又不甘心……\n咱在考虑要不要退赛……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便同属中央、国内外的氛围也截然不同。\n远征组似乎都笼罩在自我克制的愁云下――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
       "Text": "…………。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "――請去參賽吧、創晟同學。",
+      "Name": "狂怒乐章",
+      "Text": "――请去参赛吧、创升同学。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
-      "Text": "……樂章？",
+      "Name": "创升",
+      "Text": "……乐章？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "現在、中央的賽馬娘們、\n正團結一致展開行動。",
+      "Name": "狂怒乐章",
+      "Text": "现在、中央的赛马娘们、\n正团结一致展开行动。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "沒有放棄比賽、\n反而要通過接著奔跑鼓舞人心。",
+      "Name": "狂怒乐章",
+      "Text": "没有放弃比赛、\n反而要通过接着奔跑鼓舞人心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "不愧是中央。令人肅然起敬的賽馬娘們。\n而且――",
+      "Name": "狂怒乐章",
+      "Text": "不愧是中央。令人肃然起敬的赛马娘们。\n而且――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "創晟同學、你也是其中一員。",
+      "Name": "狂怒乐章",
+      "Text": "创升同学、你也是其中一员。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
+      "Name": "创升",
       "Text": "咱……也是……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "是的、大家都對你抱有期待。\n你們是被選中的三隻利箭。\n所以――",
+      "Name": "狂怒乐章",
+      "Text": "是的、大家都对你抱有期待。\n你们是被选中的三只利箭。\n所以――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "比賽不可能沒有意義。\n而且意義重大！\u3000有著超乎想象的意義。",
+      "Name": "狂怒乐章",
+      "Text": "比赛不可能没有意义。\n而且意义重大！\u3000有着超乎想象的意义。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "請繼續奔跑吧。\n若連你們中央都陷入迷茫――",
+      "Name": "狂怒乐章",
+      "Text": "请继续奔跑吧。\n若连你们中央都陷入迷茫――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "追趕你們的、我們地方也會迷茫的。\n所以――請相信自己。",
+      "Name": "狂怒乐章",
+      "Text": "追赶你们的、我们地方也会迷茫的。\n所以――请相信自己。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
-      "Text": "樂章……。嗯、咱懂了。",
+      "Name": "创升",
+      "Text": "乐章……。嗯、咱懂了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "創晟",
-      "Text": "像是被點醒了呢。\n咱們會、證明給大家看的！",
+      "Name": "创升",
+      "Text": "像是被点醒了呢。\n咱们会、证明给大家看的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
+      "Name": "狂怒乐章",
       "Text": "加油、下次再聊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "狂怒樂章靜靜地掛斷了電話。\n然後――",
+      "Text": "狂怒乐章静静地挂断了电话。\n然后――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "被點醒的……\n不只是創晟同學啊。",
+      "Name": "狂怒乐章",
+      "Text": "被点醒的……\n不只是创升同学啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "我也是。其實早就明白了……。\n只是現在不得不承認。",
+      "Name": "狂怒乐章",
+      "Text": "我也是。其实早就明白了……。\n只是现在不得不承认。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
+      "Name": "狂怒乐章",
       "Text": "中央很了不起。\n正因如此――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "我們也要以毫不遜色的信念挑戰她們。",
+      "Name": "狂怒乐章",
+      "Text": "我们也要以毫不逊色的信念挑战她们。",
       "ChoiceDataList": [
-        "狂怒樂章……！"
+        "狂怒乐章……！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "然後、彷彿在迴應狂怒樂章的聲援般。",
+      "Text": "然后、彷彿在回应狂怒乐章的声援般。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "実況",
-      "Text": "迪拜国際GⅠ！\n日本陣營、包攬冠亞！！",
+      "Name": "实况解说",
+      "Text": "迪拜国际GⅠ！\n日本阵营、包揽冠亚！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "実況",
-      "Text": "奇跡般的連冠衝線！\n雖然略遜一籌、\n但是創晟憑第二名展現出驚人實力！",
+      "Name": "实况解说",
+      "Text": "奇迹般的连冠冲线！\n虽然略逊一筹、\n但是创晟凭第二名展现出惊人实力！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "訓練員……！",
+      "Name": "狂怒乐章",
+      "Text": "训练员……！",
       "ChoiceDataList": [
         "啊啊……！",
         "啊啊……！"
@@ -520,25 +520,25 @@
     },
     {
       "Name": "",
-      "Text": "――大災害。以此為契機、\n所有的宿命被一併斬斷。現在――",
+      "Text": "――大灾害。以此为契机、\n所有的宿命被一并斩断。现在――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "將以這場迪拜的勝利開啟全面復興。",
+      "Text": "将以这场迪拜的胜利开启全面复兴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "訓練員、我們必須改變對比賽的態度了。\n還有――",
+      "Name": "狂怒乐章",
+      "Text": "训练员、我们必须改变对比赛的态度了。\n还有――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "我們的船橋\n也一定能再次舉辦大型比賽的。",
+      "Name": "狂怒乐章",
+      "Text": "我们的船桥\n也一定能再次举办大型比赛的。",
       "ChoiceDataList": [
         "沒錯、一定能！",
         "沒錯、一定能！"
@@ -546,16 +546,16 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "本來預定5月在船橋舉辦的GⅠ『柏記念』……。",
+      "Name": "狂怒乐章",
+      "Text": "本来预定5月在船桥举办的GⅠ『柏记念』……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "柏記念"
+        "柏记念"
       ]
     },
     {
-      "Name": "狂怒樂章",
-      "Text": "雖然目前尚未正式決定取消。\n若能如期舉行、屆時必會！",
+      "Name": "狂怒乐章",
+      "Text": "虽然目前尚未正式决定取消。\n若能如期举行、届时必会！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
