@@ -1,0 +1,300 @@
+{
+  "Title": "不動の愛、不動の春",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "狂怒乐章特別留学到中央特雷森学园的三年里\n留下了辉煌的战绩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――船桥的英雄、地方的英雄。\n船桥所属的赛马娘里、\n从未有人取得过如此卓越的成绩――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "再提案！\u3000怎么样、狂怒乐章？\n差不多该考虑转籍了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "当然！\u3000我理解你的乡土之情。\n但是你也明白吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "这所中央特雷森是自由的舞台。\n即使转籍、依然不妨碍你心系家乡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "为了支持你更璀璨的未来、\n希望你能考虑一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "感激不尽、理事长……。\n感谢您的邀请。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "上次您递来橄榄枝的时候……\n我还只是个不懂事的孩子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我拒绝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（将您的善意……\n只出于敌意拒绝了……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "现在深刻反省当时还不知道\n赛马娘界的盟主『中央』为何物的自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哦哦、那么……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是这次……\n还请容我拒绝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "纵使前路会因此乌云密布、\n我仍然想把学籍留在船桥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "原、原来如此……这般执着、\n果然是源于乡土情怀吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "也有这份原因。\n但是我……我们……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "无论如何、想为后来者助力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "以船桥所属的、站上闪耀系列赛巅峰的\n赛马娘这一“史实”鼓励后世。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "或许这只是意气用事。\n但唯有客观的历史能传承我们的觉悟……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们――愿为船桥燃尽此身。",
+      "ChoiceDataList": [
+        "对不起、感谢您、理事长"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "唔姆、善哉。\n这份觉悟、我切实明白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "共鸣！\u3000我也相信。\n你们的这份决意、\n定能照亮船桥的未来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一切为了船桥。狂怒乐章长久以来恪守的信念\n――终于开花结果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "哈啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "呀啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……！",
+      "ChoiceDataList": [
+        "啊啊……！",
+        "啊啊……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "亲眼见证了狂怒乐章辉煌的赛马娘们、\n接连斩获重赏赛、甚至制霸了GⅠ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "再有――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥新人赛马娘",
+      "Text": "狂怒乐章前辈、非常感谢！\n我会铭记您的教诲、更加努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "嗯、请坚持自己的道路。\n这样就一定能……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "承袭狂怒乐章的赛马娘们\n在船桥、在地方的比赛中屡创佳绩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥的灯火永不熄灭、照亮这块土地。\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章的名字、也以具象的形式镌刻于历史。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "首届『狂怒乐章传奇杯』、\n终于开幕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "狂怒乐章传奇杯"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "船桥所属的伟大赛马娘、狂怒乐章。\n这是为纪念她的功绩而设立的全新赛事……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "并且是在本尊的见证下召开！\n船桥比赛场人声鼎沸！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……\n没想到还会有这种事情。",
+      "ChoiceDataList": [
+        "是啊、这是我们留下的、指引的明灯",
+        "是啊、这是我们留下的、指引的明灯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『以狂怒乐章为目标』。\n『以冠名赛事为目标』。\n后继的船桥赛马娘们――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不断地奔跑、吸引更多粉丝、\n守护船桥的比赛文化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……我们的付出……有了回报啊……。\n我们成功……唤来了春天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想成为今后的象征。\n成为不变的“船桥总大将”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "然后――永远地见证下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "守望着勇敢向中央发起挑战的\n船桥的新星们。",
+      "ChoiceDataList": [
+        "……嗯！",
+        "……嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（锵！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是闸门再度开启。\n后来者们怀揣着即便身在地方、\n也能实现梦想的信念冲刺。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这世上不乏出身地方、成绩卓越的赛马娘。\n也不乏那些拒绝转籍、贯彻乡土情怀的勇士。\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在她们之中被后世传颂的典范、\n始终是船桥总大将狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

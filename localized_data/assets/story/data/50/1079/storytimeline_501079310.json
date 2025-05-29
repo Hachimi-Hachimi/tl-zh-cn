@@ -1,0 +1,398 @@
+{
+  "Title": "かしわ記念の後に・新たなる船出",
+  "TextBlockList": [
+    {
+      "Name": "实况解说",
+      "Text": "狂怒乐章、第一名冲线！！\n她做到了、在故乡制霸GⅠ――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "在复兴的船桥、船桥赛马娘获胜！\n――现在、重生的礼炮撼天动地！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "这是新时代！\n船桥新时代的开幕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好啊！\u3000好！\n好、好、好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是船桥的胜利啊啊啊！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（唔嗷嗷嗷嗷哦哦哦哦哦哦！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "做到啦、小章章！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "谢谢你！\n谢谢你、拿下了胜利……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沐浴在数倍于往日的欢呼声中。\n全身摆出胜利姿势的狂怒乐章――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "情绪激昂地、跑向观众席。\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们、不会输！\n无论遭遇多么巨大的苦难！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们、不会输！\n无论面对多么强大的对手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（以这场胜利宣誓、\n从这里开始――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（紧紧抓住、我们的明天……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "可恶啊啊啊啊～！！\n老娘才没输啊、魂淡――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "哎呀――、被那种跑法打败了呢～。\n该说不愧是乐章啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "赛后、在休息室里。\n希望城与前来观战的创升谈笑风生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、希望同学、创升同学、\n我今天能取胜……都是多亏了你们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这个春天、\n我们见识到了中央真正的厉害之处。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――永不停止奔跑的觉悟。\n还有――世界级的壮举。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "正是被那样的姿态引领着、\n才有我今天的发挥。\n对吧、训练员？",
+      "ChoiceDataList": [
+        "是啊、就是这样",
+        "是啊、就是这样"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因为见识到了中央直面国难的身姿……\n我们也得以挺直了脊梁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我认为、从今以后要改变态度才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "吼、怎么说。终于服软、\n打算握手言和了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "嗯哼嗯哼、既然芥蒂消除了、\n没有了隔阂的话……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "干脆转籍如何？\u3000过来中央。",
+      "ChoiceDataList": [
+        "咦咦……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "被这玩笑般的邀约困惑了一瞬。\n但……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、我不转籍。\n因为我们深爱着船桥。\n况且――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果说中央闪耀着“高贵”的光辉、\n船桥也一定、拥有别样的光芒……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们要挖掘它、培养它、\n建设能与中央比肩的新船桥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是我们今后的目标。\n对吧、训练员？",
+      "ChoiceDataList": [
+        "没错、我们要一同奋斗",
+        "没错、我们要一同奋斗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正因为更深刻地理解了中央、\n才能探寻未来的自己。我如此坚信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这样啊。既然不打算屈居人下、\n老娘奉陪！\u3000干爆你们！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "但是下次比赛可不容易喽。\n毕竟不在你们主场了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "确实如此……。在船桥以外的地方、\n很难指望像今天这样的地利和声援。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天几乎全场都在为狂怒乐章应援。\n但在船桥比赛场举办的GⅠ比赛只有『柏纪念』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不管选择哪场比赛、\n下次都不会是主场作战了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "『帝王赏』如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "帝王赏"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "有胆量就来『帝王赏』碰碰！\n老娘不躲也不逃――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『帝王赏』……。\n是下个月6月份在大井举办的GⅠ比赛吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "虽然时间很近……\n训练员、我可以参赛吗？",
+      "ChoiceDataList": [
+        "可以、没关系！",
+        "可以、没关系！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今年上半年的沙土中距离GⅠ比赛\n只剩『帝王赏』一场了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所幸她赛后疲劳似乎并不严重\n应该不成问题。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我明白了、希望同学。\n就在『帝王赏』再决胜负吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是――会赢的是我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈、口气倒不小。\n这次老娘可要动真格了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "那个――、两位等下哈。\n虽然在你们起劲的时候插嘴很抱歉……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "胜者未必只在你们两位之间决出哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啥意思啊、创升？\u3000你也要参赛啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "不了不了、咱这次免了。\n不过、有个独家情报……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "听说这次的『帝王赏』……\n她会出来哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "出、出来……！？\n啥、噫嘤嘤嘤……会出来啥！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "不是幽灵之类的会出现啦。你看、最近、\n在地方比赛连战连胜的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "――醒目飞鹰。\n飞鹰酱她、终于要出山了啥的、\n传得沸沸扬扬哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "飞鹰同学吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "看来这将是我们的首次交锋啊、训练员。",
+      "ChoiceDataList": [
+        "是啊、绝不能掉以轻心……",
+        "是啊、绝不能掉以轻心……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "马娘偶像……虽然久闻她的强大、\n但是还未在比赛里交过手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "被称为“砂之无声铃鹿”的、\n恐怖逃战术的赛马娘、\n究竟会展现出何种跑法呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "砂之无声铃鹿"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "求之不得啊。\n放马过来啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "管它会赢的是老娘、是飞鹰、\n还是狂怒乐章。老娘哪也不会逃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "当然。我也不会退缩半步。\n训练员、为了春天的决战――我们开始准备吧！",
+      "ChoiceDataList": [
+        "噢噢！",
+        "噢噢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『帝王赏』。\n面对两名新锐的三方混战、\n看来这会是至今最激烈的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

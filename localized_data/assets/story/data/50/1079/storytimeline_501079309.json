@@ -1,0 +1,432 @@
+{
+  "Title": "二月錦標の後に・下ろせない拳",
+  "TextBlockList": [
+    {
+      "Name": "狂怒樂章",
+      "Text": "哈啊……哈啊……。同樣是跑比賽……\n但是、承受的壓力卻天差地別……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "狂怒樂章！\u3000跑得相當漂亮呢。\n這才是船橋的真正潛力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "果然去年秋季在GⅠ賽事中、\n多次取得的好成績並非虛名！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "若是惨敗、名聲可能會一落千丈。\n雖然這次總算守住了地位、\n但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "打倒……打倒……。\n不管誰來……都打倒……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如今的狂怒樂章身上、\n並沒有中央王者般的氣場。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有的只是――“敵意”。\n僅此而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在承認還是屈服的掙扎中、\n那顆備受煎熬的小小心靈。\n這樣下去真的能……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "實現超越中央的夙願嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "僅靠不甘作為原動力、\n真的能够成為凌駕中央王者的賽馬娘嗎？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "樂章、辛苦了。\n那啥、咱有話想跟你說。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "開門見山直說了……、\n你沒必要鉆牛角尖到這種地步吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "誒……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "雖然為家鄉拚命的心情可以理解……\n但是鄰居不等於敵人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "――世界很廣闊。咱覺得互相認可、\n彼此開開心心地相處更愉快。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "像咱呢、在世界各地都有關係網、\n也有很多的朋友。在咱看來……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "現在的樂章看上去有點痛苦呢。\n所以說……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "痛苦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "請不要……管我……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "我和創晟同學……\n中央的賽馬娘不一樣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "我們好不容易走到今天。\n只差最後……一步……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "只要贏下家鄉的『閃長岩紀念』、\n就能取回船橋的榮耀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "現在這才是……最優先的事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "樂章……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船橋賽馬娘・薩米",
+      "Text": "就是就是――！\n我們絕對不能輸啊――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船橋賽馬娘・繆",
+      "Text": "小章章她、\n可是我們的代表呀～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "地方vs中央。這道鴻溝不會被輕易抹平、\n対抗意識也不會輕易消除。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "抱歉抱歉。咱明明只是個情報販子、\n好像說了些越界的話啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "今天多謝啦。咱會把這次比賽當做跳板、\n去實現自己的目標啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "樂章有樂章的夢想、咱有咱的嘛。\n這也算是所謂的多樣性吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――接著幾天後。電視上公佈了、\n震撼整個賽馬娘界的重磅消息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視主持人",
+      "Text": "居然！\u30003位日本賽馬娘、\n決定參加迪拜的国際GⅠ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視主持人",
+      "Text": "堪稱宏大的夢想！\n這是向着從未有人摘下的桂冠發起的壯麗挑戰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "電視主持人",
+      "Text": "首先有請迷人景致和創晟小姐、\n談談自己的參賽感想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "迷人景致"
+      ]
+    },
+    {
+      "Name": "迷人景致",
+      "Text": "這個嘛。\n既然被視為國家代表參賽、\n希望我能跑出與之相稱的成績！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "哇哦、不愧是景緻醬。\n大家的偶像呢～。\n咱的話比起為國爭光……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "景緻"
+      ]
+    },
+    {
+      "Name": "創晟",
+      "Text": "更想結識世界各地的人。\n這方面的願望更強烈些。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "畢竟、咱想要不斷擴展交友的圈子嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "創晟",
+      "Text": "所以、官方發言就拜託景緻醬啦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――海外遠征。這對我們而言是遙不可及的概念。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在我們遙望中央的時候、\n創晟已經在打量著世界。\n那遙遠彼岸的天地……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "迪拜遠征……。肩負國家的期待……。\n這就是……中央啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "作為賽馬娘界的盟主、\n坦然接受挑戦……。\n然後、向着更宏大的目標進發……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "中央或許並非驕傲自大。\n但是……即便如此也無論如何……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "必須……做出了結……！",
+      "ChoiceDataList": [
+        "狂怒樂章……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "越是瞭解中央的內情與偉大。\n她對中央的敵意越是消退。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我覺得差不多……到極限了。\n雖然預定參加下場的『閃長岩紀念』……。",
+      "ChoiceDataList": [
+        "――停下來吧、狂怒樂章"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "訓練員……？",
+      "ChoiceDataList": [
+        "現在該停下來了。繼續這樣下去的話……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "繼續這樣……你究竟想說什麼……？",
+      "ChoiceDataList": [
+        "無法超越中央、隻會令你崩潰的",
+        "無法超越中央、隻會令你崩潰的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "――！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "其實你想承認她們、稱讚她們、\n想與她們一同進步\n卻一直強迫自己去憎恨……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然打倒中央的願望不可能實現。\n那麼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "……不要。",
+      "ChoiceDataList": [
+        "……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "我……不要！\n拜託了、訓練員！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "至少讓我參加『閃長岩紀念』吧！\n請讓我放手一搏！\n船橋並不弱小！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "我要贏……要証明……。\n我就是高舉這樣的旗幟、走到今天……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便你真的做到了――",
+      "ChoiceDataList": [
+        "最終也只會徒留空虛啊……？",
+        "最終也只會徒留空虛啊……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "你只會更痛苦吧。即便如此……",
+        "你只會更痛苦吧。即便如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "即便如此――我已做好貫徹到底的覚悟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "打倒中央。在故鄉打倒緋紅新星。\n船橋的明天只能建立於此之上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "這早已不是我個人感情的問題。\n身為船橋代表就該予以制裁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "求你了……訓練員。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我思考良久。然後――",
+      "ChoiceDataList": [
+        "――我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "訓練員……。",
+      "ChoiceDataList": [
+        "參加『閃長岩紀念』吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒樂章",
+      "Text": "……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "復仇迎來了終點\n但是心境沒有得來釋然……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『閃長岩紀念』。\n我終究沒能……、\n阻止狂怒樂章邁向這沒有救贖的決戰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

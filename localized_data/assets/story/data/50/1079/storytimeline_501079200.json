@@ -1,0 +1,194 @@
+{
+  "Title": "迎向出道战",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "东京……阪神……函馆……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "东京……阪神……函馆……。\n唔嗯……。",
+      "ChoiceDataList": [
+        "果然该选……东京？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在这三个中选的话、还得是东京吧。\n但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "即便是距离最近的东京比赛场、\n离船桥还是有些远啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出道战的赛场要选哪里。\n迟迟定不下来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "无论如何、我想让更多的船桥同胞\n来到赛场。\n来观看比赛……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "为此应该……。",
+      "ChoiceDataList": [
+        "对啦！我想到一个好主意！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员？\u3000好主意是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "灵光一现的好点子。能否实现就不知道了\n但是、有调查一番的价值。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后到了出道战当天――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "竟然！\u3000今天、在船桥比赛场――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "狂怒乐章登场了！\n这位中央特別留学生中的期待之星、\n把出道战定在了故乡的场地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（训练员、感激不尽。\n你最棒了）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看着面带凛然微笑的狂怒乐章、\n我也回以笑容。\n那之后我去对照规章制度……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "发现地方所属的船桥比赛场\n也可以举办出道赛。\n于是、我们得以在故乡出道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（果然还是想从这里开始。\n想要船桥的人们――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（见证我代表船桥的\n首战――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "小乐章、加油――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "乐章"
+      ]
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "气势不错呢～。\n嘛～、也不是去打架就是了～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我把目光转向对狂怒乐章\n打招呼的两人。",
+      "ChoiceDataList": [
+        "啊、你们是……！",
+        "啊、你们是……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "没错！\u3000我们是乐章酱的朋友！\n在船桥特雷森里经常在一起的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "虽然没有跟训练员说过多少话\n还记得我们真是太好了～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（那是……萨米？\n还有旁边的是、缪……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（你们都来啦。那么――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章举拳回应前来应援的好朋友。\n但是船桥其他的赛马娘……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘A",
+      "Text": "说回来……。\n打倒中央什么的、她来真的啊。\n虽然听说是在那边训练的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘B",
+      "Text": "怎么看也做不到的吧？\n肯定很快就会回来了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "热情就没有多么高涨了。\n我们高举的打倒中央的旗帜、\n对她们而言是无比遥远的梦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（首先――就在这里\n踏出决意的第一歩。然后――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（向船桥的众人展示！\n我和训练员怀抱着怎样的决心！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

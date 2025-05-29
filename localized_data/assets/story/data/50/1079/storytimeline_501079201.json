@@ -1,0 +1,196 @@
+{
+  "Title": "迎向全日本新马优骏",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、我们总算\n走到这一步了啊。\nGⅠ『全日本新马优骏』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "新马级沙土赛马娘的巅峰对决。\n今天还有中央的强力赛马娘出战。",
+      "ChoiceDataList": [
+        "是啊、但是凭狂怒乐章的天赋！",
+        "是啊、但是凭狂怒乐章的天赋！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在这样的大舞台上、也能赢得第一吗。",
+      "ChoiceDataList": [
+        "没错、拿出你的自信！",
+        "没错、拿出你的自信！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在经验尚浅的新马级赛事里、\n比赛直觉才是决胜的关键。而这一点……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章的赛场嗅觉堪称顶尖。\n定能在这场比赛里大放异彩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "非常感谢。\n我定当不负所望！\n只是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "即便训练员这样想、\n赛场里的粉丝、\n未必也是这么看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "加油啊――！\n让他们见识下、中央的厉害――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "就是就是！\n看好你们――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（果然中央赛马娘的知名度和\n赛前评价都更高。但是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（名声与实力――是两回事。\n即使无人为我呐喊也……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "碾碎她们――、狂怒乐章！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、这个声音是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别输了呀！\u3000把所有人都干翻、\n踩成川崎的铁渣――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "乐章、乐章、乐章章♪\nLOVE YOU 乐章――！",
+      "ChoiceDataList": [
+        "你们两位、为什么来应援……？"
+      ],
+      "ColorTextInfoList": [
+        "乐章"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "才不是来加油的。\n要是变成干架、老娘倒是可以再添把火。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "因为是狂怒乐章同学的重要比赛嘛。\n当然会来啊。",
+      "ChoiceDataList": [
+        "谢、谢谢你们……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "两人虽然是中央赛马娘。\n但这份温柔依然令人动容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且、来的不止她们两人……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的赛马娘・萨米",
+      "Text": "乐章酱、加油――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的赛马娘・缪",
+      "Text": "加油啊～、FIGHT～。",
+      "ChoiceDataList": [
+        "你们也……？",
+        "你们也……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的赛马娘・缪",
+      "Text": "姑、姑且～……过来加油的哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的赛马娘・萨米",
+      "Text": "虽然考虑过很多、但是乐章酱果然\n还是我们船桥的代表啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章向来寡言少语。\n即便如此――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她对船桥的思念、\n仍能透过行动清楚地传达。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（飞鹰同学……希望同学……。\n还有萨米和缪也……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（原来……我也有支持自己的人。\n那么――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "连同她们的份一起、我更不能输了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就算是船桥所属的赛马娘、\n也定要展现出自己的实力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

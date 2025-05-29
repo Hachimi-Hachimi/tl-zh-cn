@@ -1,0 +1,193 @@
+{
+  "Title": "迎向日本沙土德比",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "――『日本沙土德比』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "天气可真够糟糕的啊、\n训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "赛场变得泥泞不堪……。\n但是我们决不能退缩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这场比赛是沙土赛马娘的『日本德比』！\n是经典级的天王山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "若不能在此彰显存在感、\n就谈不上实现打倒中央的目标。",
+      "ChoiceDataList": [
+        "嗯、说的没错！",
+        "嗯、说的没错！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "必须要向世人证明、\n狂怒乐章是同期里的杰出赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在这种天气下，来加油的观众肯定寥寥无几吧。\n即便如此我们依然要……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "人家觉得肯定还会有过来加油的女孩子哦♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "飞鹰子同学？\u3000为什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "为什么、肯定是过来看比赛的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘也在啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "希望同学也。\n……是吗、原来如此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这场比赛是中央和地方选手都有的混战。\n所以两位是来为中央加油的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊！？\u3000少扯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别给我自作多情！\n中央又怎样、地方又怎样！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "我们只是因为有朋友参赛才过来的。\n仅此而已哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "不会因为是中央的就支持、\n是地方的就不支持的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……这样啊。\n对不起……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哼！\n不过啊、今天天气可真够糟的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "即便这样、我相信真正的光芒不会因此变得黯淡。\n全力以赴吧、狂怒乐章同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "无所谓中央和地方……。\n当面听到这种话……\n心情有些复杂……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "虽然我理解这种想法、\n但是也不能否认……\n自己果然无法轻易释怀啊。",
+      "ChoiceDataList": [
+        "是啊、我也……",
+        "是啊、我也……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“打倒中央”。这不仅仅是个目标、\n更是我们的动力源泉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、如果我这次\n能在『日本沙土德比』中\n取得像样的成绩――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "有件事我必须要做。\n为了今后、不得不做。",
+      "ChoiceDataList": [
+        "这样吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。\n为了朝着那个目标迈进――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这场比赛、我一定要使出全力！\n无论有怎样的艰难险阻都要跨越！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这场『日本沙土德比』、\n会成为我们的里程碑。更是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "迎接真正挑战的、\n崭新征程的起点！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

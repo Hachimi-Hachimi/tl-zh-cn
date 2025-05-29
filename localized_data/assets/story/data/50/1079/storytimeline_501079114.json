@@ -1,0 +1,477 @@
+{
+  "Title": "命运的分叉路、沙还是草",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "为挑战草地路线。\n狂怒乐章先是简单试验下适应性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼、呼、呼……。",
+      "ChoiceDataList": [
+        "怎么样、感觉如何？",
+        "怎么样、感觉如何？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "还不坏。只要加以习惯、\n应该能发挥出一定水平。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只是问题在于……。",
+      "ChoiceDataList": [
+        "在于……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "问题在于、即使适应了新赛道\n是否就能与“顶尖选手较量”这一点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "想验证这一点、必须与活跃在草地路线的赛马娘\n较量一番才行……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "确实如此。但是眼下同期的草地选手们\n都在全力备战春季的GⅠ比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "恐怕很难找到陪跑的对象吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "诶、模拟赛的对手吗……？\n还是现在突然换到草地赛道的马娘的……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "实在抱歉、人家爱莫能助……。\n为了迎战3月的『郁金香赏』、\n档期已经排满了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "郁金香赏"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "看来找同期实在不行。\n所以换做去找高年级的实力选手帮忙――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "模拟赛？\u3000当然OK呀！\n可以把你们打得落花流水吧！？",
+      "ChoiceDataList": [
+        "还、还是算了吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "为什么呀～！？\n人家真的不会手下留情的啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "二重凰冠的赛马娘、川上公主\n试着向她发出邀请、可是她有些过于凶暴了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "川上公主"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "实力差距太悬殊的话、也没办法当做参考。\n果然还是得想办法找同期的高手才行啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "嘿诶、从沙土转战草地啊。\n太乱来了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "不过这种莽劲、老子并不讨厌呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――伏特加同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "狂怒乐章前辈、听说你在寻找草地赛道的对手啊。\n你要是真的在做这种大梦――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "本大爷倒是可以奉陪到底哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "伏特加同学……。\n谢谢、请多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "伏特加是同期最强的草地选手之一。\n作为对手自然无可挑剔。\n于是便找她来做陪练了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "呼！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――！？\u3000这起跑！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "怎么啦？\u3000还只是热身罢了。\n真正的较量现在才开始。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "欧拉啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是――\n草地路线的顶尖速度……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "狂怒乐章前辈、让我见识下你的觉悟吧。\n踏上这绿荫草地、\n你到底是想要实现什么啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "若是胸怀不输给老子的宏大梦想、\n这场较量才有看头呀！\u3000哈啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在草地比赛里……想要实现的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我要！\u3000我要在草地夺冠、\n吹响船桥之名、然后――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "然后……。然后……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（接着跑下去？\n就这样在中央的草地上……跑下去？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "乌拉啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――胜负已分。\n不、正确的讲并没有分出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "凰冠路线的主角之一、伏特加、\n是狂怒乐章无法匹敌的强者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "哈啊……哈啊……。\n以后、不论我如何锻炼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "恐怕、也达不到伏特加同学的水平。\n果然我……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "也许你真的不适合这片草地吧。\n更何况――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "你啊……是真的想要跑在草地上吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "我没有从你的奔跑中、\n感受到一丁点那样的渴望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "若没有非赢不可的执念、\n怎能突破适性的桎梏。\n……你有吗？\u3000有想在草地上实现的愿望吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "想在草地上实现的……。\n我……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我真正想要实现的是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『船桥的春天』……。\n虽然现在被中央完全压制、\n但终有一天要――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "让更多的人愿意来到船桥。\n要证明我们船桥的赛马娘、\n也具备与中央抗衡的实力……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是啊、这么一想……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "即便我在草地赛道崭露头角、\n恐怕也无法为后辈开辟道路……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "整理了一下思路。\n草地赛事的高关注度固然诱人……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但这并非是我们真正的追求。\n因而自然在奔跑的时候少了灵魂的共鸣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我的梦想并不在草地上。\n但是伏特加同学……你不一样呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "凰冠路线的春天的GⅠ『樱花赏』、\n『日本橡树大赛』你都非赢不可。\n所以、才能展现出这样惊人的实力……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本橡树大赛"
+      ]
+    },
+    {
+      "Name": "伏特加",
+      "Text": "呵、从『樱花赏』到『日本橡树大赛』吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "说的不对哦。\n本大爷的梦想不是这个。",
+      "ChoiceDataList": [
+        "不对吗？",
+        "不对吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "不对、老子才不做那种平庸的梦。\n爷的梦想是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "达成前无古人的壮举。\n从『樱花赏』开始――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "制霸『日本德比』！\n怎么样、这个！？\u3000够燃吧！！",
+      "ChoiceDataList": [
+        "从『樱花赏』到『日本德比』！？"
+      ],
+      "ColorTextInfoList": [
+        "日本德比"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "近年来、没有哪个赛马娘通过这样的路线\n问鼎经典级最高峰的『日本德比』……。",
+      "ChoiceDataList": [
+        "这样打破常规的暴行……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "打破常规？\u3000那又如何？\n那种莫名的规矩可拦不住老子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "就是要达成谁也没想到的德比制霸、\n让所有人都喊出\n『没有比她更帅的赛马娘了』！\u3000成为传说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "能够实现的、不过是目标。\n正因为拼尽全力都难以企及的、才配叫梦想啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "乱来又如何呢。\n就是要这样的燃才有追赶的价值咧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "走了、拜。\n有缘再会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "伏特加背过身、潇洒离去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "伏特加同学……真帅啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不是、才没有被她蛊惑哦？\n虽然真的没有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在选择的道路前方……\n是否真有自己渴求之物吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果少了追求的执念、\n再多的奔跑也缺乏灵魂啊。",
+      "ChoiceDataList": [
+        "是啊、看来是这样啊……",
+        "是啊、看来是这样啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然发生了一些小插曲。但它们绝不多余、\n反而令本来的主路更加清晰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、让我们重新订立目标吧。\n下一个比赛就定在『日本沙土德比』！",
+      "ChoiceDataList": [
+        "啊啊、就这么定了！",
+        "啊啊、就这么定了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正在我们重拾初心的时候。\n听到了远处传来的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "唔噢噢噢噢噢、完美发挥呀！！\n老子、超帅啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……不知从何处、传来了暴露的心声。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

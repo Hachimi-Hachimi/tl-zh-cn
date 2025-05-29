@@ -1,0 +1,381 @@
+{
+  "Title": "全日本新马级优骏结束后・诶嘿♪",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "好、能在这样的大舞台上、\n跑出这样的成绩！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这就是船桥赛马娘的实力！\n我们绝不逊色于任何人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "小章章……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "好厉害……好厉害呀、小乐章！",
+      "ChoiceDataList": [
+        "狂怒乐章、NICE RUN！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便面对中央的强大赛马娘、\n狂怒乐章也能力压群雄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她今天的表现超乎想象。\n能跑到这种程度、明年必将大有可为。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "接下来就是赛后的采访环节。\n狂怒乐章选手、你辛苦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "各位也辛苦。\n非常感谢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "从船桥转学到中央后、\n你是不是感觉自己找到了适合的舞台？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个――为避免误会、\n请允许我事先声明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我并没有转学。\n只是特別留学、所以还是船桥所属。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我是船桥赛马娘、狂怒乐章！\n船桥赛马娘、狂怒乐章！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "请多多支持船桥出身的狂怒乐章。\n也请务必多多光临船桥比赛场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "我、我明白了……。\n真是了不得的故乡情呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正当狂怒乐章卖力宣传家乡的时候……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "那么关于明年的赛事安排\n请问――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "…………♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好的、明年我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "诶嘿嘿……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "你、你是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真弓快车",
+      "Text": "请不用在意小真哦～。\n人家会乖乖待在这里的啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "真……真……真弓快车选手！？\n为什么会在这里……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "真弓快车"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "众人都惊了。突然闯入画面的竟然是、\n同期的真弓快车。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她是一名立志成为全民吉祥物的赛马娘。\n虽然外表看起来甜美动人……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "其实力却不容小觑。\n她已经在中央的重赏赛中多次夺冠……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正在与同期的、追求酷炫美学的赛马娘、\n伏特加上演着王牌之争。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "为什么中央的草地王牌选手、\n会现身川崎……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "小真、别擅自跑出来啊！\n今天说好只是来观摩的啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小真"
+      ]
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "说到底都怪你啦、伏特加。\n只顾着找摩托、稍不留神就。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "伏特加！？\n还有……大和赤骥！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "大和赤骥"
+      ]
+    },
+    {
+      "Name": "记者B",
+      "Text": "我的天、明年的凰冠路线的种子选手们\n竟然齐聚一堂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "凰冠"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "继伏特加登场后、永远执着于第一名的赛马娘、\n大和赤骥也现身了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现场顿时炸开了锅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "伏特加选手、大和赤骥选手、\n今天为什么会来到川崎比赛场！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "3位的目标、都是明年春天的\n『樱花赏』对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樱花赏"
+      ]
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "没错、正是如此。\n不过最后会赢的肯定是本小姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "伏特加",
+      "Text": "哈、梦话就该梦里讲。\n只要有本大爷在、谁都别想跑我前面！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真弓快车",
+      "Text": "……茄子♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（这般……关注度……。\n如此吵闹的场面……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（是吗、果然……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章一脸严肃地旁观着\n这场突如其来的喧闹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、多亏有你\n我今天得以充分发挥。不过――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "中央的主流果然在“那边”呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“那边”。既是――",
+      "ChoiceDataList": [
+        "是啊、主流果然是草地路线啊",
+        "是啊、主流果然是草地路线啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "草地路线……。对于船桥出身的我来说、\n根本是另一个次元的路线啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "基本上地方比赛場、\n都不配置草地赛道。\n所以……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "对地方赛马娘而言、那是条遥不可及的道路。\n一丁点实感也没有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "曾经只能在电视里见到的世界、\n如今、却真实地呈现在眼前……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "中央的世界十分广阔、\n且艰深啊……。",
+      "ChoiceDataList": [
+        "是啊……",
+        "是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是必须要在这其中、\n敲定下一场的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、今天拿下了新马级\n最大的沙土比赛。\n所以明年――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "把目标定在\n经典级最大的沙土比赛吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典级"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "经典级最大的沙土比赛。\n也就是――",
+      "ChoiceDataList": [
+        "『日本沙土德比』",
+        "『日本沙土德比』"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。夏季在大井举办的沙土GⅠ。\n那个一生仅有一次的舞台――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我作为船桥的代表。\n无论如何都要……！",
+      "ChoiceDataList": [
+        "好、就定在那里吧！",
+        "好、就定在那里吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "向着经典级的沙土No.1赛马娘迈进。\n明年、应当征服的高山已然清晰。\n但……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "通往『日本沙土德比』的道路有千万条\n在这片广袤的中央大地上如何前行、\n必须要深思熟虑……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本沙土德比"
+      ]
+    }
+  ]
+}
