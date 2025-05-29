@@ -1,0 +1,137 @@
+{
+  "Title": "粉丝信",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "我好像收到了粉丝寄来的信。\n现在读给你听。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『看到狂怒乐章奔跑的身姿后\n我也想要努力一把！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『狂怒乐章是我们的明星！\n请不要输给中央的赛马娘！\n要一直赢哦！\u3000我们在船桥支持你！』",
+      "ChoiceDataList": [
+        "真令人高兴啊！！",
+        "真令人高兴啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……以上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "接下来还有比赛、\n要开始训练吗？",
+      "ChoiceDataList": [
+        "当然"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好的、那之前我要出去买东西。\n训练员请慢慢来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章把信纸放到桌子上、\n然后快步走向训练场外。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "啊！\u3000狂怒乐章同学的训练员先生！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "请问……狂怒乐章同学怎么了？\n刚才路过的时候、表情很严肃……。",
+      "ChoiceDataList": [
+        "其实……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "诶！\u3000从本地寄来了粉丝信吗？\n那么、她刚才的表情是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "的确不是笑容。但是、\n深爱着船桥的她不可能不高兴。\n所以――",
+      "ChoiceDataList": [
+        "狂怒乐章肯定、很开心的哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "是、这样吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "总感觉你们2人心有灵犀呢、\n真好啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "啊、训练员。辛苦了。\n刚好东西买完了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我正准备回训练员室。",
+      "ChoiceDataList": [
+        "你出去买了什么？",
+        "你出去买了什么？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这个吗？\n我买的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "保存信纸用的文件夹。\n我想尽快把它们留好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没想到、信里有山茶花树枝。\n因为是市树、我很中意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼呼。是很好看的树枝呢。\n训练完后、就给你看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "Title": "JBC经典赛にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "中央vs地方。\n王者绯红新星vs船桥的狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "超级巨星与地方英雄的对战、\n令粉丝与媒体兴奋不已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "狂怒乐章、加油啊――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "大家、都来为你加油啦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "非常感谢各位！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有种说法叫做“恻隐之心”。\n人们容易对稚嫩的挑战者那边抱有好感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人",
+      "Text": "要是狂怒乐章战胜了绯红新星、\n那可是惊天动地的壮举啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解说员",
+      "Text": "说的是啊。\n光是勇于发起挑战就很了不起了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "终于到了『JBC经典赛』当天。\n激动人心的“那一时刻”来了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、那人该不会是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（锵！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那身决胜服……。\n走过来的那个人是――",
+      "ChoiceDataList": [
+        "没错……就是她……",
+        "没错……就是她……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那身在脑中挥之不去的装束……。\n那一天、伫立在夕阳下的身影、\n正是名副其实的“红莲魔神”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――绯红新星。\n中央沙土场地最強的选手之一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔呲、咔呲、咔呲、咔呲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（锵）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "请多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "强忍着发颤的脊背……\n勉强挤出问候的话语已是极限。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "睥睨众生的眼眸。千锤百炼的肉体。\n以及骇人的气魄。这便是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "绯红…新星…。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "刚才朝这边瞥了一眼吗。\n不、是错觉吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔呲、咔呲、咔呲、咔呲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……最终、绯红新星不发一语地径自离去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（刚才那副样子……。\n是根本没把我们放在眼里吗）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在我遥望着不甘地杵在亮相圈的狂怒乐章时……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "果、果然还是不来比较好吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "呜呜呜、同感～……。\n小章章、可能会遭大罪的吧～。",
+      "ChoiceDataList": [
+        "你们是……？",
+        "你们是……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "啊、那个……我们来给小乐章加油的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "虽然不敢过来看比赛、\n但是终究还是想亲眼见证啊～。",
+      "ChoiceDataList": [
+        "是吗、你们也一样啊……",
+        "是吗、你们也一样啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一直在与恐惧做斗争的\n并非只有狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也有其他的赛马娘们\n在直面船桥鲜血淋漓的现实。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（三连战的首战。\n首先在这场战斗里――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（叫她注意到我们的存在！\n一定要！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（我们可不是――\n一直被你踩在脚下的弱者）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不要小看――船桥啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

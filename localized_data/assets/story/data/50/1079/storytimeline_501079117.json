@@ -1,0 +1,372 @@
+{
+  "Title": "決戦前夜",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "清晨的船桥、回荡着此起彼伏的蹄音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘A",
+      "Text": "船桥――！\u3000FIGHT――！\nFIGHT――！\u3000FIGHT――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘们",
+      "Text": "FIGHT――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这已经是当地人习以为常的光景。\n与众多名校一样、\n船桥特雷森也拧成了一股绳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "开始加快速度！\n大家、都跟上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘们",
+      "Text": "噢――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跑在最前头的是狂怒乐章。在她身后、\n目光炯炯有神的赛马娘们紧跟不舍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "从这里开始全速奔跑！\n呀啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "哈、哈、哈……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘B",
+      "Text": "训练员、并跑第1班、已经到极限了！\n请指示？",
+      "ChoiceDataList": [
+        "第2班接替！3班4班开始热身！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘B",
+      "Text": "收到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了狂怒乐章、也为了自己、\n更为了船桥、\n赛马娘们纷纷踏上跑道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘C",
+      "Text": "好啦、慰问品来喽。\n阿姨们准备了饭团和配料十足的味增汤哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的阿姨",
+      "Text": "没有你说的那么豪华啦。\n但是里面放了好多本地的新鲜蔬菜哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "阿姨们……真的太感谢了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的阿姨",
+      "Text": "客气、这也是为了船桥啊。\n一定要赢啊、小乐章！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是、一定会的――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、这种凝聚力……。\n还有无私支援的大家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只要有这样的力量。",
+      "ChoiceDataList": [
+        "嗯……我们就能一较高下！",
+        "う嗯……我们就能一较高下！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "时光飞逝。\n在这期间――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "请安排并跑训练！\n耐力还远远不够！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果可以的话、希望不只来2人、\n最好是能来3个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘D",
+      "Text": "包在我身上！\u3000要多少人都有！\n船桥特雷森全员都是你的陪练！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的大叔",
+      "Text": "噢、训练员！\n这些是我们带来的慰问品。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的大叔",
+      "Text": "胡萝卜、运动饮料、热毛巾！\n都是船桥人自发募集来的、\n放开用吧！",
+      "ChoiceDataList": [
+        "非常感谢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘E",
+      "Text": "今晚进行18人模拟赛。\n对起跑有自信的集合。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘E",
+      "Text": "别让狂怒乐章冲出去！\n我们要演练所有的比赛可能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘A",
+      "Text": "船桥――！\u3000FIGHT――！\nFIGHT――！\u3000FIGHT――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘们",
+      "Text": "FIGHT――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "众人齐心、共逐一胜。\n这等团结和热忱绝对是中央不曾拥有过的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后在『JBC经典赛』誓师大会上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "作为船桥的代表。\n狂怒乐章昂首挺胸站在众人面前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "船桥特雷森的各位赛马娘、\n以及各位工作人员。感谢大家的鼎力相助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、相助的说法……不太准确。\n我们的目标本就是一致的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在参加『JBC经典赛』之前、\n我有些话想对各位说――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "“我们究竟为何而奔跑”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章挺直了脊梁、\n――娓娓道来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "中央的赛马娘们、\n是为了芸芸众生奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "与千万人相系、传递喜悦、带去幸福。\n还有时――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "会掀起举国沸腾的盛大狂潮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那庞大的规模与责任感、\n正是中央的力量源泉。\n这点毋庸置疑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "世人皆道。『要见识大海』、\n『要广结人脉』、『规模即力量』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是――当真如此吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我不认为规模即是一切。\n因为我知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "有一群人珍视着养育自己的土地、\n珍视着家乡的伙伴而活……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "纵使那里天窄地缩、无处伸展\n仍怀着比任何人更炽热的心为建设家乡而活。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "与更多的人建立联系并非唯一的坦途。\n与少数的人构筑牢不可破的羁绊亦是可行之途。\n换言之……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――地域的团结。\n这才是船桥的力量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是唯一能与中央分庭抗礼的、我们骄傲的武器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "若是终生困守在家乡反而无法察觉到这一优势。\n正因有特別留学的经历才得以领悟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "为了宏大抱负而奔跑的中央固然可敬。\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "珍视细微之物的船桥、\n同样不遑多让。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "所以、让我们来证明吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "谁言星火不及皓月之辉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "让我们齐心协力！\u3000我们怀抱着、\n世上独一无二的珍宝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "让我们取得胜利、为了挚爱船桥的未来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不是打倒而是超越中央！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘们",
+      "Text": "噢――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "崭新的宣言响彻云霄。\n超越而非打倒中央。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥vs中央。双方的信念、\n将会在『JBC经典赛』激烈碰撞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

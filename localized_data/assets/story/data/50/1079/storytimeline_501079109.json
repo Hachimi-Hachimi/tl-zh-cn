@@ -1,0 +1,385 @@
+{
+  "Title": "圣诞节",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "――圣诞节。\n每年、船桥比赛场都会举办圣诞节活动……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了帮忙、我和狂怒乐章会回来这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "圣诞快乐！\n欢迎各位来到船桥比赛场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "与吉祥物的互动场地在这边。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥比赛场自然也有吉祥物。\n没错……。",
+      "ChoiceDataList": [
+        "说到船桥、就是chuan……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "请适可而止、训练员！",
+      "ChoiceDataList": [
+        "咦、为什么？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "虽然那个卡通形象知名度很高、\n但它并非船桥市官方认证。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "受版权影响，也不能随意提及。\n请严守界限。",
+      "ChoiceDataList": [
+        "好的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在这方面、狂怒乐章总是非常严谨。\n顺便声明、船桥比赛场的吉祥物不是那个形象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "吉祥物互动场地在这边。\n吉祥物互动场地在……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小女孩粉丝",
+      "Text": "呐呐、狂怒乐章姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "你好、有什么事？\n要去吉祥物互动场地的话、往这边……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小女孩粉丝",
+      "Text": "人家可以拍一张狂怒乐章姐姐的照片吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、不去拍吉祥物而是我吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "当然可以。\n请吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小女孩粉丝",
+      "Text": "谢谢你♪\u3000那、我拍啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小女孩粉丝",
+      "Text": "茄子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔嚓！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "狂怒乐章、我也可以拍吗？\n请摆出酷酷的造型。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "好嘞、茄子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔嚓！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "狂怒乐章、还有我。\n请摆出阳光开朗的样子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "好、茄子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔嚓！）",
+      "ChoiceDataList": [
+        "（造型摆的可以啊……）",
+        "（造型摆的可以啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章应粉丝的要求、\n行云流水般摆出完美的姿势。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "粉丝们自然是连连道谢。\n现场氛围热烈欢声不断……。",
+      "ChoiceDataList": [
+        "平时有专门练习摆POSE吗？",
+        "平时有专门练习摆POSE吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、并没有。\n只是一被人请求……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "身体就会自动反应、\n停在恰好的位置。",
+      "ChoiceDataList": [
+        "这样啊……",
+        "这样啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "天赋……与其这么说。\n更像是与生俱来的“聪颖”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "瞬间的分析力与身体协调能力、\n竟能在摄影场合大放异彩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼、今天辛苦了、训练员。\n能让大家都开心再好不过。",
+      "ChoiceDataList": [
+        "是啊、今年好热闹呀！",
+        "是啊、今年好热闹呀！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "确实。接下来是自由时间了呢。\n难得的圣诞节、我们还什么也没……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "话虽如此……\n毎年也没做什么特别的事情吧。\n要说每年的固定节目……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "也只是趁店里打烊前买打折的整装蛋糕、\n两个人分着吃而已。但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这样也不坏呢。喝着咖啡分享蛋糕什么的。",
+      "ChoiceDataList": [
+        "啊啊、惯例的那个啊",
+        "啊啊、惯例的那个啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这是在船桥特雷森时期的习惯。\n两人在训练员室里一起吃圣诞节蛋糕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "虽然不热闹、\n但就数这样的日常最舒适了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "今年我们去哪里呢？\n训练员室、我家、训练员的家里。\n我都可以！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是今年也一如往常、\n两人度过了一个简单而温馨的圣诞节。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "确实。接下来是自由时间了呢。\n难得的圣诞节、我们还什么也没……。",
+      "ChoiceDataList": [
+        "我也想拍张狂怒乐章的照片",
+        "我也想拍张狂怒乐章的照片"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、我、我吗？\n倒也不是不行……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是不会觉得没有新鲜感吗？\n毕竟天天见面。",
+      "ChoiceDataList": [
+        "那也是、机会难得嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好、好吧。\n那么、请多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我拿出手机对准她……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这、这可难办了……。\n我不知道你想要我摆什么姿势。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "毕竟我的样子都被你看遍了。\n训练员、有什么要求吗？",
+      "ChoiceDataList": [
+        "自由发挥！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "让我自由发挥、反而……。\n那我就按自己的想法试试……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这样……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不、这样呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……失礼了。\n我太失态了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我虽然知道这个不适合我、\n但想着这么少见的话……。",
+      "ChoiceDataList": [
+        "啊、现在这个感觉就不错欸"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、这个表情吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "会这么害羞的狂怒乐章可是难得一见啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么……请拍吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔嚓！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呜呜、换做平时瞬间就能摆好姿势的……\n现在只觉得浑身不自在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、刚才的照片务必不要外传。\n实在太害羞了……。",
+      "ChoiceDataList": [
+        "了解！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、我拿到了狂怒乐章的稀有瞬间、\n圣诞节纪念款。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

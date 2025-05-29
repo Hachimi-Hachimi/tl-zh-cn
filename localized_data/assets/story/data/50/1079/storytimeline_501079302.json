@@ -1,0 +1,523 @@
+{
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、真是抱歉……。\n让你破费买了卫生间的芳香剂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章因为独居、\n各方面开销都挺大。\n这天我们从商店街采买完日用品回去时……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "瞧一瞧看一看、现正举办新春・大抽奖啦～！\n特奖可是『温泉旅行券』哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "1等奖是『特等胡萝卜汉堡排』\n2等奖是『一整堆胡萝卜』\n3等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "都看一看啊、超有趣的抽奖哟！\n那边英姿飒爽的赛马娘小姐、\n不来试试嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "感谢您的邀请。\n如果可以的话――我想试试。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要说能不能抽一次试试、答案是能的。",
+      "ChoiceDataList": [
+        "那就试试吧。用这张券"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这样好吗？\n这个、明明是训练员的奖券……。",
+      "ChoiceDataList": [
+        "无妨、因为这是作为船桥的挑战！",
+        "无妨、因为这是作为船桥的挑战！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "作为船桥……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――也是啊。既然这么说了、\n我们就作为船桥的代表、\n一同发起挑战吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哎、哎呀、你们俩还真是兴致高昂啊。\n不过加油吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好的！\u3000那么训练员、\n一起握住抽奖机的把手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "一边唱“那首歌”一边转动吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "Let's go！\u3000FuwaFuwa！",
+      "ChoiceDataList": [
+        "Let's go！FuwaFuwa！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "伴随着船桥比赛场的著名吶喊声、\n我们一起转动抽奖机。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "竟然！\u3000恭喜你们～～～～！！\n抽到了、特奖『温泉旅行券』～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――特奖！？\u3000成功了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、我们成功啦！\n你我齐心、抽到了最高奖……！！",
+      "ChoiceDataList": [
+        "是啊！好开心啊！",
+        "是啊！好开心啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这是……船桥的胜利啊……。",
+      "ChoiceDataList": [
+        "说得没错……！",
+        "说得没错……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么奖品、就归船桥市了。",
+      "ChoiceDataList": [
+        "不、那也太奇怪了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感动归感动、所有权必须分清楚。\n奖品是属于我们的。",
+      "ChoiceDataList": [
+        "这个就给中奖的狂怒乐章用吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……。说的也是、\n既然是提供了奖券的训练员这样说的话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那就两个人一起去吧。\n……真是漫长啊、这一路。",
+      "ChoiceDataList": [
+        "有吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我倒没觉得有特意踏上过什么抽奖之路……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "从前……在船桥比赛场的旁边、\n也有温泉施设的。但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "现在已不复存在了。\n我们这代人、连去看一眼的机会都没有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "终于能去了呢、向往已久的温泉！",
+      "ChoiceDataList": [
+        "原来如此、这么回事啊……",
+        "原来如此、这么回事啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跨越时空的夙愿。\n只要在闪耀系列赛里取得佳绩、\n就会有特大号奖励在等着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果能让我去、不会奢求太多。\n就算是简单的旅行也好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "反而、我希望是一趟可以细细品味喜悦的旅程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章并不喜欢铺张。\n即便如此她的内心仍雀跃不已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜你们、1等奖～！\n奖品是『特等胡萝卜汉堡排』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、这是……！\n抽中了相当不错的东西呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "中心有一大根胡萝卜吗……。\n中心……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――！\u3000对了。\n我有个好主意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我们一起回到家里――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "久等了、训练员。\nNEW『特等胡萝卜汉堡排』做好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我把中心的胡萝卜吃掉、\n换成了船桥产的。\n毕竟船桥的胡萝卜以美味著称呢。",
+      "ChoiceDataList": [
+        "哦哦、这是升级版吗",
+        "哦哦、这是升级版吗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "变成了更符合我们风格的汉堡排。\n于是怀着对胡萝卜农户的敬意……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那么。\n我开动了。",
+      "ChoiceDataList": [
+        "我开动了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我们就这样美美品尝了\n带有故乡风味的NEW汉堡排。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "2等奖～！！\n奖品是『一整堆胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这个分量……真实感激不尽。\n伙食费可以省下不少。而且……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "有这么多的话、就能尝试各种想做的料理了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、机会难得、\n要不要来试吃看看？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "最近、我的厨艺突飞猛进呢。 \n能帮我试试味道吗？",
+      "ChoiceDataList": [
+        "是吗。那我就不客气了",
+        "是吗。那我就不客气了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我来陪狂怒乐章做料理研究。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个、这份是『腌渍胡萝卜』、\n这份是冲縄料理『胡萝卜炒蛋』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "味道如何？",
+      "ChoiceDataList": [
+        "好吃……！",
+        "好吃……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "食材处理的很到位。\n不仔细烹调可做不出这样的味道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "多谢夸奖！\n合你的口味真是太好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "其实我还做了其他尝试、\n也请尝尝看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样我们两人享用了胡萝卜套餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "3等奖～！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只有一根吗……。\n有些可惜啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员。我、可以用胡萝卜、\n做到某件事。",
+      "ChoiceDataList": [
+        "某件事……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就是“胡萝卜鉴定”。\n只要吃一口、\n就能分辨出是否是船桥产的。",
+      "ChoiceDataList": [
+        "原來如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以前、好像在哪里听到过这种能力。\n如果真能做到、倒是挺厉害的技术呢……。",
+      "ChoiceDataList": [
+        "那么、你试试吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔哧咔哧咔哧咔哧……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……我尝出来了。",
+      "ChoiceDataList": [
+        "真厉害！那结果是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不是……船桥产的……。\n很遗憾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "难道是被其他产地打压了吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然这项特技货真价实、\n但是没什么大用。\n起码肚子稍微填饱了些。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "可惜了、没中奖！\n参与奖是『纸巾』哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没中奖……吗……。\n总觉得给船桥的顔面抹黑了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不过、纸巾永远不嫌多。\n带回去用吧。",
+      "ChoiceDataList": [
+        "是呢、总有用处的……",
+        "是呢、总有用处的……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "对于独居的狂怒乐章来说、\n确实是必需品……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "其实房间里有很多的面巾纸。\n为了节省开支、有打折就忍不住多买。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在船桥的时候明明不会这样的。\n感觉自己越来越穷酸了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章的脸上笼罩了些许阴霾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

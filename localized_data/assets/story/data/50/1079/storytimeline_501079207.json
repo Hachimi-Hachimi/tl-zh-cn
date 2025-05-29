@@ -1,0 +1,205 @@
+{
+  "Title": "柏纪念にむけて",
+  "TextBlockList": [
+    {
+      "Name": "实况解说",
+      "Text": "――所有人翘首以盼的这一天！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "历经了千辛万苦。\n我们终于迎来啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "复兴支援比赛。\nGⅠ『柏纪念』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "船桥比赛場场已经恢复到\n能够举办GⅠ比赛的水准。于是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "那位远征中央的故乡英雄、\n于此凯旋！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……。\n终于等到了这一天啊。",
+      "ChoiceDataList": [
+        "是啊、这是新的……起点",
+        "是啊、这是新的……起点"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。历经种种变故、\n许多事物都有了改变……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "全国各地逐渐恢复以往、\n我的心境也有了巨大转变。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如今已经不会想对中央、\n宣泄不甘了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我只想比那些好对手跑得更好、\n我要超越她们――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "今日正巧有一位绝佳的对手应战呢。",
+      "ChoiceDataList": [
+        "是啊……！",
+        "是啊……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然比赛是为了纪念复兴。\n但参赛者本人、恐怕毫无庆贺之意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘要干翻你们、欧拉！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "希望同学……。\n请多指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢哦、狂怒乐章。听说你这家伙、\n想跟中央的新世代干架是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "既然你已经收拾掉了第一个的创升、\n第二个就由老娘对付你、欧拉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "看我把手塞你鼻孔里、\n给那脑袋瓜打得稀巴烂口牙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "怎么做到的……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……虽然不太明白、\n看样子希望城战意十足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "还有啊。\n慈善演出啊募捐啊这类玩意儿、\n老娘可没兴趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "比起那些、老娘……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要往比赛里灌注所有气势、\n给你们见识下啥叫狠货！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "收下吧、狂怒乐章。\n这是老娘带来的礼物啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――正合我意。\n放马过来吧、希望同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这场比赛、我绝不退让。\n为了船桥的――未来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "论实力或许你我不相上下。\n但论今天的斗志、我定在你之上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就让你们见识下吧、船桥的意志！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "没错――！！\u3000赢下来――――！！！！！\n绝对要赢啊、小乐章！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "我们要从这里重新站起来、\n冲上巅峰呀啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "背负这样的期待、更是主场作战。\n唯独今天绝不可能输。",
+      "ChoiceDataList": [
+        "狂怒乐章！你是大家的希望！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肩负必胜的期许、狂怒乐章的崭新篇章由此展开。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

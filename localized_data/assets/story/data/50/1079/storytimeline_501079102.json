@@ -1,0 +1,558 @@
+{
+  "Title": "新年參拜",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "（咚！\u3000咚咚！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "防守！\n防守！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "好、现在开始反击――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "好耶、罚球！\n冲啊♪\u3000上啊♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哐！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "进了！\n太棒了、训练员！",
+      "ChoiceDataList": [
+        "是啊！这下逆转了！",
+        "是啊！这下逆转了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "船桥本地有职业篮球队。\n――新年伊始。大家一同来观战助威。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后我们两人来到当地的神社做新年参拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我从今年开始就是――古马级。\n今年一定要――“打倒中央”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "面对前辈和后辈一定要取得全胜、\n向世人展现船桥的实力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我自然也是同样的想法。\n今天、船桥的篮球队大获全胜……。",
+      "ChoiceDataList": [
+        "我们也不能输给篮球队、要更加努力呢",
+        "我们也不能输给篮球队、要更加努力呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是啊。船桥的篮球队放眼全国也是顶级的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "今天也是压倒性的强大。\n最后都进入“垃圾时间”了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "对了……说到垃圾时间……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、我在、\n那场『闪长岩纪念』的时候也想过。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "『明明已经到了象是垃圾时间的局面、\n有必要拉开这么大的差距吗？』。",
+      "ChoiceDataList": [
+        "确实……当时胜负早已分明",
+        "确实……当时胜负早已分明"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“垃圾时间”。这是――\n篮球界不成文的规矩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当比分差距悬殊、胜负已定时、\n按照惯例――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "胜利方不应该做出扣篮之类的\n羞辱性质的华丽动作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "胜者手下留情是基本礼仪。\n但是为什么！？\u3000我之前始终疑惑不解。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是现在回顾绯红新星她、\n之所以坚持毫不留情地战斗到最后一刻……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "或许并非出于傲慢、\n而是另有隐情吧。",
+      "ChoiceDataList": [
+        "另有隐情……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。可能是因为背负着绝不能输的“责任感”。\n同样在拼死奋战吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "如果是因为这个原因导致了那场碾压局\n……我的心情就有些复杂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "强大的中央、傲慢的中央。\n原本是因为这样看待中央的\n才会燃起敌忾之心……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "可是一旦体察到了对方的心境后、\n战意难免有些消退。更何况……。",
+      "ChoiceDataList": [
+        "下一世代的强者们、还都是熟人吧？",
+        "下一世代的强者们、还都是熟人吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是啊。现在、实力突飞猛进的是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、狂怒乐章。别以为和绯红新星打完了\n就能得意忘形嘞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "从明年开始老娘来当你对手！\n绝对叫你吃不了兜着走哒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "也带人家一个啦带人家一个。\n人家最近比赛和演唱会的状态都超好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "一定能让大家见识到好多亮晶晶的！\n狂怒乐章同学和粉丝的大家都有♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "希望同学、飞鹰子同学……。\n再加上消息灵通的创升同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这三人正以可怕的速度成长着……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我不能输。\n绝对不能输。可是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "说实话……好难办……。\n明明都是朝夕相处的伙伴、\n可为什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我理解她的苦恼。\n狂怒乐章本就不是好战的性格。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "可以说她为了目标勉强自己保持对中央的憎恶。\n可现在精神上已经快维持不住了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是――即使如此――我们也不能撤回目标。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "打倒中央。只要这个目标不实现、\n就无法回报船桥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "打倒……必须打倒……。\n不论是飞鹰子同学、还是希望同学。",
+      "ChoiceDataList": [
+        "狂怒乐章……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "绝不能停止战斗。\n但如今的狂怒乐章内心充满了矛盾……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她还能战斗下去吗？\n她还能坚守那份初心吗？",
+      "ChoiceDataList": [
+        "总之先别把自己逼得太紧吧",
+        "总之先别把自己逼得太紧吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……。说的是啊……。\n我会尽量放松自己的……。",
+      "ChoiceDataList": [
+        "要不试着许些轻松的小愿望？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章总是一本正经的。\n偶尔随性地向神明祈愿也不错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "轻松的小愿望吗……。\n那么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是狂怒乐章开始许愿、\n并把那个心愿告诉了我。",
+      "ChoiceDataList": [
+        "想吃美味的荞麦面",
+        "想见父亲",
+        "想去滑雪"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想吃……美味的荞麦面。",
+      "ChoiceDataList": [
+        "知道了、这个愿望、我来实现"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、训练员来？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我滑动手机荧幕搜索好吃的荞麦面店。\n于是找到的店家是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是这里吧。荞麦屋『无赖庵』。\n总觉得店名有些耳熟……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（嘎啦嘎啦嘎啦）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "虽然我对荞麦面比较挑剔、\n但是这家店的面――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "好吃到爆啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "成田白仁同学？\n莫非这里是亲戚开的店吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成田白仁"
+      ]
+    },
+    {
+      "Name": "成田白仁",
+      "Text": "不、只是碰巧名字相似而已。\n常客的话――还有其他人在的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摩耶重炮",
+      "Text": "这里的荞麦面为什么这么好吃、\n玛雅、弄明白喽！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "玛雅"
+      ]
+    },
+    {
+      "Name": "烈焰快驹",
+      "Text": "难道说、因为用了好的食材吗？\n还是说、这里水质好的缘故？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名其妙",
+      "Text": "唔姆、店主！\u3000看来你是想用这荞麦面、\n在荞麦面界掀起一场下克上啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "来了好多赛马娘……。\n味道这么有吸引力吗。\n我也尝尝看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（嘶嘶、嘶嘶嘶嘶）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好吃……！\n这充满野性的味道是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "吃下了在部分赛马娘里广受好评的荞麦面、\n狂怒乐章完成了营养补给。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想见父亲。\n虽然在家里也能见到、\n偶尔也想去见见工作中的父亲。",
+      "ChoiceDataList": [
+        "那么、就去他的职场看看吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "说的也是。机会难得呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我们来到的地方是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章的父亲",
+      "Text": "哦、狂怒乐章啊。怎么了？\n又不是比赛日、特地跑过来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "父亲、工作顺利吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章的父亲",
+      "Text": "顺利、船桥比赛场的数字化推进了不少呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章的父亲",
+      "Text": "为了不落后于时代、\n得好好指导员工才行啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章的父亲",
+      "Text": "对了训练员、\n过年期间还在这边吧？\n今天也一起来吃晚饭吧？",
+      "ChoiceDataList": [
+        "好、好的、如果不麻烦您的话……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "父亲……天天都叫人来、会不会太过了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章父亲很温柔。\n受他的人格影响、\n我也变得更豁达了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我想去……滑雪。\n想要在粉雪上面滑……。",
+      "ChoiceDataList": [
+        "好、那我们出发吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "诶、要带我去吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呼……！\u3000哈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、谢谢你！\n果然滑雪最棒了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "直线滑下去是切开风的感觉、\n真的很畅快。",
+      "ChoiceDataList": [
+        "哈哈、你玩得开心就好！",
+        "哈哈、你玩得开心就好！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "过来滑雪的狂怒乐章、\n显得格外开心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "说起来父亲有提过。\n以前在船桥也能滑雪呢。",
+      "ChoiceDataList": [
+        "这样吗？怎么做到的？",
+        "这样吗？怎么做到的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "据说有座巨型人工滑雪场。\n所以放学或者下班后都能去滑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "有点……羡慕呢。",
+      "ChoiceDataList": [
+        "我也是……",
+        "我也是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我们的思绪不禁飘向那个、\n未曾经历过的船桥的旧日时光……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员、难得来一趟、\n再多滑一会儿吧！",
+      "ChoiceDataList": [
+        "好啊！",
+        "好啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之后、我们在滑雪场尽情地享受、\n学会了各种身体的运用技巧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
