@@ -1,8 +1,33 @@
 {
-  "base_url": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-zh-cn/main/localized_data",
-  "zip_url": "https://codeload.github.com/Hachimi-Hachimi/tl-zh-cn/zip/refs/heads/main",
-  "zip_dir": "tl-zh-cn-main/localized_data",
+  "base_url": "http://185.200.65.108:7890/zh-cn/root",
+  "zip_url": "http://185.200.65.108:7890/zh-cn/zip/latest.zip",
+  "zip_dir": "localized_data",
   "files": [
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
+      "hash": "d472f756754f8dba62f23fc1e1dbaa69f9278f17fcbda12e2107c4321679db8b",
+      "size": 1477652
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
+      "hash": "0786f84b21c949012e157099973a6738c7ba448a4497880bf6e6743e565de30f",
+      "size": 461784
+    },
+    {
+      "path": "assets/atlas/home/home.diff.png",
+      "hash": "c1b92140cabf44d1628c852beb9aa742e04f59ead27c90713f3af823dc802a37",
+      "size": 247706
+    },
+    {
+      "path": "assets/atlas/racecommon/RaceCommon.diff.png",
+      "hash": "0afd0a045e1904177b21f485f83f4ed2c9f59e8487fae6900d14ae328910f260",
+      "size": 81543
+    },
+    {
+      "path": "assets/atlas/single/single.diff.png",
+      "hash": "bf46ccac2016c7ff30458a5d86f7bf2ddcc09000688e02eddd819284b267386a",
+      "size": 161532
+    },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
       "hash": "7ac4bbaf580a2514ceee3b690395125ddcfdd2b8c72bf7814f2437a5343e9b93",
@@ -3740,8 +3765,8 @@
     },
     {
       "path": "assets/lyrics/m1093_lyrics.json",
-      "hash": "7219a4d50bd1617902ec7fa3ca47b1fab298ba19749aa28b2276ec86ee9ab46a",
-      "size": 4185
+      "hash": "ad464360a3ba9d722d738fd879eba59aeb96832cdfff632b8b3031194a79cc2a",
+      "size": 4149
     },
     {
       "path": "assets/lyrics/m1094_lyrics.json",
@@ -3750,27 +3775,27 @@
     },
     {
       "path": "assets/lyrics/m1095_lyrics.json",
-      "hash": "006f83209649512be680f144e0bf7ae5654b6faba42dcd4cd1abed742b22796e",
-      "size": 1474
+      "hash": "63ef88590adfed8a66bd00fcd5185fcb8780b4175e88f07639c060af9c578ffe",
+      "size": 1413
     },
     {
       "path": "assets/lyrics/m1126_lyrics.json",
-      "hash": "45650df0013dda421b64c4b14750c64bd250cf264fe764c67923c2dea846026b",
-      "size": 2044
+      "hash": "0a1d7ff209ec0f9802ff7e48ecb98cd4cdef85d82ea337c76f8c24ba30e6bdc6",
+      "size": 2059
     },
     {
       "path": "assets/lyrics/m1150_lyrics.json",
-      "hash": "f0c90a3f1ea7beeb166b0b2dd7ded68d9a2f8125ad603d7368f5283f926a5421",
-      "size": 3148
+      "hash": "f39676d351f08a73a54c2570241a29c1985be01b6c3ace9adb4bd3df2d77e65e",
+      "size": 3174
     },
     {
       "path": "assets/lyrics/m1151_lyrics.json",
-      "hash": "47e0178a15590c8b9c7ce962fc434839553095dc21b25bf08292d7241d556ae2",
-      "size": 3018
+      "hash": "a163d06cff8bab4e8db2c33da7cdc28557192eeb605ec7d087e633346ce93b19",
+      "size": 3089
     },
     {
       "path": "assets/lyrics/m9051_lyrics.json",
-      "hash": "b586b727425dee54a1ae757c7ed9a06fe39877de6a3ba237230b26625b4c5b4a",
+      "hash": "f436cfd88b3636fba028a50c7beb078f7ce8df2fa48d1563c711f9dc4c422691",
       "size": 934
     },
     {
@@ -64929,6 +64954,201 @@
       "size": 3449
     },
     {
+      "path": "assets/story/data/50/1079/storytimeline_501079100.json",
+      "hash": "68e381edcf9e1c6e055029df39161b1056a3234a12a547920e2c9eaaa6e55785",
+      "size": 10485
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079101.json",
+      "hash": "02c2bfeb905c33c43281a952aac05166b8415e7b3e13086c9c7a5da8d168b297",
+      "size": 11515
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079102.json",
+      "hash": "5c262113a978624dc14efecdb7767deae5fab10777b707b900840706a3e5aed9",
+      "size": 17190
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079103.json",
+      "hash": "37b58d4d3ebca1ed4a11940dc174e69bf388a672f33dd27c7aea103f08576d63",
+      "size": 5839
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079104.json",
+      "hash": "0b970b20427bcf27311d4d911a1b13fd07678b7a1f752c1844350a112b3061dc",
+      "size": 16213
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079105.json",
+      "hash": "bc8dd84b48224e87d369574605e00be92289053285cfa7c2e865a395ae85b1dd",
+      "size": 4423
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079107.json",
+      "hash": "5710cbbefc9c0d4fabb5c3bba2b6f2dfa58ed123e1fc3a55f447eca67f27a7bf",
+      "size": 10888
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079108.json",
+      "hash": "bc86fc49fb53babd4c17d360be61a9a83ed8ed79ce3d0ee57cad51a7bb5698ce",
+      "size": 11949
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079109.json",
+      "hash": "ca7ceb9d08ba28fef03f6ff8015136d14fdb14b749535519b5e57240f135ce88",
+      "size": 11233
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079111.json",
+      "hash": "be8272fd3ccbefeb3cb7ed21d14df12c686120dff57cf9f71b547153c24671b9",
+      "size": 9362
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079113.json",
+      "hash": "b1e87cc94e9b48399c65144cc3b0a7d66f95d3796d4aa98eb33206d8750b6b74",
+      "size": 18154
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079114.json",
+      "hash": "06163fdeb2dba68eb45af674a404fbbde47603ea584e7ab615e6a89dde35c36a",
+      "size": 14910
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079115.json",
+      "hash": "c77c3d944e9b1305ddf81f5ec8f587bf300d760eb689f99e6d7ac8e09c4721f1",
+      "size": 17037
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079116.json",
+      "hash": "318d9e6a82054f935a8e4511396590ff70001153d90885a65cb008d6e1d16edc",
+      "size": 9966
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079117.json",
+      "hash": "9f0f9458e2f824f1949e484a534156546209e36f7e2a37dde269794004a8bfd5",
+      "size": 11363
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079200.json",
+      "hash": "ca6d0256270fa9d2998b7d58fbe0ae5b40c452c393047a23a0d59129f4291f1d",
+      "size": 6013
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079201.json",
+      "hash": "b569b70c3c96118c0cb48a20ce0b374a190ddc3c22f420279646050c91c43735",
+      "size": 5914
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079202.json",
+      "hash": "d2d515ad5f00383f68cdefec044e603b2809508cac81fff72ccd8a5df2ce9a37",
+      "size": 5863
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079203.json",
+      "hash": "27010aacec201f09cbe9c8cd66353fb25b73eed1acb40f25efed70f94ceceb64",
+      "size": 6905
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079204.json",
+      "hash": "6857ad94a8ec5e83e2c5671e6cb5e78d7f603506f0d413eff7ebe388a1936f8c",
+      "size": 5236
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079205.json",
+      "hash": "3e71a7e9f87bfcb1b7877da946b569d7a6677854e4675e8514151b783e60b23c",
+      "size": 10659
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079206.json",
+      "hash": "43bc4431d94ad53b8f324f4f05137b900b35ca62e4dc58d5937164320cfe863f",
+      "size": 9084
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079207.json",
+      "hash": "76f63df63a011bbf11bf46ae608f4b4db0fc05677dc06fb0f302153e1596b973",
+      "size": 6173
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079208.json",
+      "hash": "044ac95152ccafd7ae1c9fd1c2999071ebcdcfc72a82cda8ac0b2c89d0f24d45",
+      "size": 6931
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079209.json",
+      "hash": "9339f0f8466dfd56d4de56c4064607194b9ffc571f2216f9669f63aef1af2bb0",
+      "size": 7339
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079300.json",
+      "hash": "10bd362191ed518fb0d02fdca88764b2cd8b4c8cb6af4441284925e777214b05",
+      "size": 7996
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079301.json",
+      "hash": "c233f3c02a7b32c516eb932eb9cfb7307c2714e8385b6eb18939f0bfd129570c",
+      "size": 11541
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079302.json",
+      "hash": "5ffea839a1d42510cd58fb4fccc011221bdf94f0cc78144bd60a37c45209aa5f",
+      "size": 15540
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079303.json",
+      "hash": "e64f0ce81e4ddb1c61b60dee109a8650b647ffd83504c75dada5018411ad822b",
+      "size": 8993
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079304.json",
+      "hash": "f7d23593fe5a8abf7381b4745be72b8df6c9942703b16d7fb7f7129f3956a356",
+      "size": 11394
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079305.json",
+      "hash": "1157de0f8be6de0acd37462d0f7ac60dc59c01a9c3c46af332655ae186d198cb",
+      "size": 6070
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079306.json",
+      "hash": "7144bb0574721b46854089443438612a197aeeb177411404d29f479a3f43c954",
+      "size": 5618
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079307.json",
+      "hash": "23ecd869af7e3481df456fbaa8b04e34fdc483fdecf2ed364c5a6531e3ad20b6",
+      "size": 8087
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079308.json",
+      "hash": "bf70a6c7d7055c730432b780162171baab968d248767dc11c343df3b1e8e08b8",
+      "size": 9793
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079309.json",
+      "hash": "19065aeefe43807888ff56dd0e98eaa7c08eebc4fff2590141600c939a9c94a7",
+      "size": 13196
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079310.json",
+      "hash": "ef54e6ae4e8ab7a39a21a11a838ef61b3277cbd28880c5b5a4951f777bcc9e19",
+      "size": 12306
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079311.json",
+      "hash": "aa1ad9b7d51b0ff5c0e972855140451ecb41d83f5fa4e09cd7956602001fe35f",
+      "size": 12747
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079314.json",
+      "hash": "93c194e89c57c96aeb03d4f3d2447721a8713d1083fef689f56ac34468278c69",
+      "size": 9257
+    },
+    {
+      "path": "assets/story/data/50/1079/storytimeline_501079507.json",
+      "hash": "2f86b42aa2a42068c14d9f902b0457cba48071f9ef601b10e479314c711d69ef",
+      "size": 4000
+    },
+    {
       "path": "assets/story/data/50/1083/storytimeline_501083100.json",
       "hash": "c85adc7a76bb54b6e481574d7f517bb73e84dff459f9c8539f7d46e6b372a6e2",
       "size": 11505
@@ -78619,6 +78839,2886 @@
       "size": 9284
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
+      "hash": "fa5c13f590b3edc1ba48282e888c13004deb30c497c7e1acfb53c1651bea0ce7",
+      "size": 97978
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1002_01.png",
+      "hash": "23e4e5bb3e5f356e966e09d9fb8056c8bff878f13c5d4a6f93a324728709f912",
+      "size": 124522
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1003_01.png",
+      "hash": "cd783e43654278c03663f4aec38c55ca028f72aa338d25ed060d06260256c14f",
+      "size": 120207
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1004_01.png",
+      "hash": "2e3bee07c7abdb91d48d8972d9f69ad4a73f55cb0bd778f0133fdcb5aa38c10b",
+      "size": 120847
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1005_01.png",
+      "hash": "8bc34e6c32f43ba052ff3a34dc8e5caa6b7f684665a13f815a72cae649a8508e",
+      "size": 112246
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1006_01.png",
+      "hash": "5e7bcf9572674b44d898362208638593277e3f3935c73c739eae767b490f4f1e",
+      "size": 100860
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1007_01.png",
+      "hash": "8bb562cf26d0ffa6b291e31c8f50c807b575364832c3f9c2812ffd396b1858fe",
+      "size": 100587
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1008_01.png",
+      "hash": "1445280e3fd5d07cdb1c17b07cf0cdaa7b1a179a58ad5a3bf11632fcd7881721",
+      "size": 107418
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1009_01.png",
+      "hash": "2114d9a8d1482beda8cda8471eff9262030849f0b8960d10de9fc97f43240846",
+      "size": 132867
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1010_01.png",
+      "hash": "7a2772ee37ff0f91bb06169e47c70ba93ff5775189240bc184de2729e391e14e",
+      "size": 135106
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1011_01.png",
+      "hash": "0e37cb2039b644df63bbd5fdfb0a2a91ba37cc8bf32b9bc374e7363a0bec8378",
+      "size": 101213
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1012_01.png",
+      "hash": "4ccb137251db6b81d27d7d0f0b04d1581b88ec4e8cd02fd33a981d7f08c2c69f",
+      "size": 117643
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1013_01.png",
+      "hash": "5a37d4e8d09e8e5f0d40ae89c86b52f0beeb88a6f0b4e4625140391da671ca4d",
+      "size": 106287
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1014_01.png",
+      "hash": "e123210c08f71c6f64d8983efbba67554d8d451ad0cbb95910e9321f183e15dc",
+      "size": 81896
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1015_01.png",
+      "hash": "95649c2c8052045896978cb1f059745e28feb590af7878fa35d2b0204c9d5f91",
+      "size": 103291
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1016_01.png",
+      "hash": "79da0a402b162f4a4026313360b59a6f506e463374ad16af7a96024e0e985fbe",
+      "size": 117113
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1017_01.png",
+      "hash": "968d90343a6487aae951f0bd25d122669e11341ab430e4afe7455a725d5618e0",
+      "size": 143834
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1018_01.png",
+      "hash": "04cc8423d2dfae164840fbcc085b8dc94342565c9799c6b5db1f49713798ec16",
+      "size": 75029
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1019_01.png",
+      "hash": "42a4e65375e550f3d24444c7c72f051a7c4d542b634954728f6a863dafb7b8ba",
+      "size": 119240
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1020_01.png",
+      "hash": "f169fb7d9c59bbc33d1783c0ad93b58f3b0dcabed1258c85cd44e53633cf1c4d",
+      "size": 114675
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1021_01.png",
+      "hash": "34a9d406ba1785b3508d6f281bef4b0c260e1e7c9aff1025020ccaa829b6a01e",
+      "size": 121057
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1022_01.png",
+      "hash": "fc9d66331e3791c90abd2f8b00387ae1c33872a12123e03c8e841a29c643f491",
+      "size": 135922
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1023_01.png",
+      "hash": "313d1ab66875f3c8a4c3f7896a3fd853798e1e5ec82ec573e731a699059c7de0",
+      "size": 111222
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1024_01.png",
+      "hash": "bfa49de6b66cf93b2202ded50a74b22e6acb44c0d45420496556c740167f6949",
+      "size": 114084
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1025_01.png",
+      "hash": "ca8871264b6fa34283b3f7ca82c406b1e6649f09a066048b51948a2b748ce79a",
+      "size": 121298
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1026_01.png",
+      "hash": "774430e2974f970e89b12fe8edb5311302054fabaa433e6e9fa46c851b7af0fd",
+      "size": 129807
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1027_01.png",
+      "hash": "64a6ad8d5f2b3821901cada64e7fbd8cfd772fd640e2c40e6d076b0d5d71dba0",
+      "size": 109031
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1028_01.png",
+      "hash": "7b7e456bb376d5bb7c6ca739a5f601ed18417cb503f986ad7c0b7c808a0f3985",
+      "size": 76422
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1029_01.png",
+      "hash": "aec88c608c654432b44bbe4eaba1ea08931669de858cf8c3662121ed8ae4d8f3",
+      "size": 123642
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1030_01.png",
+      "hash": "187f9a3d0b5f02bf43ffa83c33d0b2366ef26d25eff11e86707eb117547a1ed9",
+      "size": 92267
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1031_01.png",
+      "hash": "cd9ba96b57d964b52d469dd51a89beff278508554f9ca54f5d51e449febc796c",
+      "size": 150644
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1032_01.png",
+      "hash": "7cfa951940057c13f72a26d80ec45c590d66734049b6d1ffecbd1981f956fa60",
+      "size": 115357
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1033_01.png",
+      "hash": "603393851aa1fcdc9784d322b36a92a1e8bc87ce21110813212789b1f4054e40",
+      "size": 125019
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1034_01.png",
+      "hash": "7b60048a05644efde29b763a23bbce118a8d08176e7611053e38880a3de7af2c",
+      "size": 89891
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1035_01.png",
+      "hash": "b84c063941142693123ec7319e08c2556645ef1b46476d8f7eb2479eeb5a614e",
+      "size": 126478
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1036_01.png",
+      "hash": "241037367648c40534e44f4b5b9c91e63372f45e5058d1829420546c85b94a35",
+      "size": 121091
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1037_01.png",
+      "hash": "974902079e5c238dca2822cf1f015321b55ca6750e25871d3600dd31d85d0b5f",
+      "size": 123740
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1038_01.png",
+      "hash": "e318a7f8b23f4384d9fec96eef6803e3958cb16700e3e034c2b25719b7de0c87",
+      "size": 108624
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1039_01.png",
+      "hash": "316fd12b5ff15877d3f5f6e57f1a57f2f6ff7dc43577d51c0ae23c7bff1b5313",
+      "size": 127248
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1040_01.png",
+      "hash": "dd923eb5bcc186ba99a45d798d5c259a8f6cb75d66f430390dcf4b588ae35b8b",
+      "size": 125248
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1041_01.png",
+      "hash": "31387df423a9d62277a0901bc4ddaa2c0c25d97ee93303a7624620e910550306",
+      "size": 117021
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1042_01.png",
+      "hash": "03ed0db6e38ca0eb8a53a907f96fdc7a549d1e257f0c861dec57f8f4ee1c7589",
+      "size": 83719
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1043_01.png",
+      "hash": "c16cb52772aa00923c054f77408ea0aa8990c9ad0f99aa37198870d3bddb0e8d",
+      "size": 110108
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1044_01.png",
+      "hash": "94fc75661724853694300bdc93edd5703ce0ca857be24af11bb467cf3ee4ece1",
+      "size": 127687
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1045_01.png",
+      "hash": "d522e1f5a46712368ca6d3b36574df36650e582be1486b7ab674e0dd88ef9f8f",
+      "size": 131950
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1046_01.png",
+      "hash": "dfdc903f70f2a74214568a9498c8359fab3045e00c286600ad6319d7b4a04653",
+      "size": 113863
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1047_01.png",
+      "hash": "4c5224a68f4835cc7010c9fdc9289fb49180d222cddea5f191fd7d6fafb4445a",
+      "size": 129319
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1048_01.png",
+      "hash": "f4d57490b7ef7cad913c931a3571da374fae55db44837e93dbf17f9c1aa69aea",
+      "size": 129059
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1049_01.png",
+      "hash": "2e117edf3c896d35c288e7701531d16e7f03692236fb42b769383c691d17a4f2",
+      "size": 126557
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1050_01.png",
+      "hash": "60b1ec5afeb7e2a7e07e2c30af00f4be78ae113ef63e929b0573b425cc21e9bf",
+      "size": 131197
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1051_01.png",
+      "hash": "8e6088676886f45aa3da5d97bfc7ea368c387cb24737fc3ba0321994ea1b6a33",
+      "size": 96018
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1052_01.png",
+      "hash": "f09d8cc58eb178054eec5940ff8b5bb372f7b47c7a24d801c06ffdcad7bbbf01",
+      "size": 72391
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1053_01.png",
+      "hash": "0625cd8507fb197963687c2ca0b50b6a95b1ba5568528323fd434e7e1ac7d97a",
+      "size": 114649
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1054_01.png",
+      "hash": "68be430d56aa8d90bd4b1d01410f061c43acbfeb46c69afa74c364d07f6bcec5",
+      "size": 133827
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1055_01.png",
+      "hash": "b525a95c122feb3625c2e298c6d6aee8efe3ac86ae8c68cfc175de45ded47ea7",
+      "size": 107837
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1056_01.png",
+      "hash": "f158cddd52d0a436d24190aee49d5158ca5198b9a59bf0905fe44ea071a8bea4",
+      "size": 121221
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1057_01.png",
+      "hash": "db51f158b397d684927459b11cff13b557620cf5f918745632d6e6656b0c1835",
+      "size": 127972
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1058_01.png",
+      "hash": "86082fc54fc1fed3e3d99d8124feee5c8fe7f9f03efb0de1b369ef8c2d1160fa",
+      "size": 131853
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1059_01.png",
+      "hash": "bac797106c0bd5f162c2fcaae50628c5e0a72cd19a5c1d5d624dceed568a24b4",
+      "size": 115585
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1060_01.png",
+      "hash": "e315014526ca297ad07d9ad65ed0fa582ad1a11771b6a46301e45061eed24ddc",
+      "size": 125928
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1061_01.png",
+      "hash": "3e386ceeb53cded50fe261d810c4d3061ccddabf80a8e26042d0a9ea552fcf0a",
+      "size": 114797
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1062_01.png",
+      "hash": "c17eed382325f2eb4e20cce0d5b54d550f683895abd4f7f25bb59b21ccea3791",
+      "size": 144538
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1063_01.png",
+      "hash": "f320a7fc91ea5f513b1c34f56659c295803374f5d0abb58d05ab6f3301f17a58",
+      "size": 142457
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1064_01.png",
+      "hash": "b382220b3792b6915ecccfebe32014712df38bcd44663ea14c96a640e1af47d6",
+      "size": 106317
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1065_01.png",
+      "hash": "d50be699358b3a685ca49ab727e16898361c346fd597a97abaebbf383884d376",
+      "size": 151575
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1066_01.png",
+      "hash": "05ef97009120c5023aeb8bfee49824db625fd652ea9e65a4746c88d5bef577b0",
+      "size": 106281
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1067_01.png",
+      "hash": "5f5aae379a5d816415d61939d1fa1565a7f8ad81eb625e95b043ad7095fd9da4",
+      "size": 115323
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1068_01.png",
+      "hash": "0442342793a593da003126e3c03d0dec0ad315c5e1e836e1076dd2fd222ded12",
+      "size": 127658
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1069_01.png",
+      "hash": "e0646d3ea1bc58e9dc36dce9bdf4b3a3167da0f50ae7b4fb9835acfdd2175d3d",
+      "size": 147221
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1070_01.png",
+      "hash": "16dda90ae26ed440905ac41ad7b69ceb55d5ad5220ba7438fd79f63a9ecc0db0",
+      "size": 139622
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1071_01.png",
+      "hash": "ec72d56c2aeb4e4bae00344f78e3622978c3ecc14f07c62f0c3629bf600b327d",
+      "size": 136715
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1072_01.png",
+      "hash": "9e38e895070b0c0d83a2069ea57de715a098ac96bf57a6a60e5f2c48d573d4d1",
+      "size": 120281
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1073_01.png",
+      "hash": "9347270b828b71ffc4030d6a80e328d0433199ff1f360833d4168664ea4c35fc",
+      "size": 125918
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1074_01.png",
+      "hash": "33dc6d24d097372f5cac94f469de01bad3032a9a4e8323a4763a2ef017251597",
+      "size": 114917
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1075_01.png",
+      "hash": "3048a29c66e3b92ea77af122fb2c4df7a79879e9b2139d68ec7dc7730120626c",
+      "size": 118870
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1076_01.png",
+      "hash": "5ecb309619774d1377aa2832982e6e840188227a369e3de1049409dbcda19ede",
+      "size": 119614
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1077_01.png",
+      "hash": "ed3de758cde8c078c87e7015b932fc489d233f4f97be7fb97b1d76c9ac23ee25",
+      "size": 98632
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1078_01.png",
+      "hash": "74771bb959b1b02381108f61d471f1530ae156fd56d7e9774a5ffb27c762fe5d",
+      "size": 125516
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1079_01.png",
+      "hash": "7b46ebed10d95fce02dd898f5fd0fdddb5252be946ed47fac76ace06376bdb60",
+      "size": 124740
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1080_01.png",
+      "hash": "62ed31a2871ec40e01ee814260ed4c05d2f8b2a72177b21e63b9fe7457769bfb",
+      "size": 83237
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1081_01.png",
+      "hash": "cb7463d88a395c06dcc7dee3ca13f123f34696925d2c345bd2fb16b435cb4c30",
+      "size": 127570
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1082_01.png",
+      "hash": "df0f34ef39b438203e67ab6a79cecab07cda55c2449531f47481c67d43ca3fd3",
+      "size": 134261
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1083_01.png",
+      "hash": "a912c3b49e801c830263763f2910af2c8ea37ab13860dcd3ee2769f870a3d30e",
+      "size": 76965
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1084_01.png",
+      "hash": "edd9708b73714a757b53c833f532661e79813d8e1f741fda436b477cb8df0afc",
+      "size": 120917
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1085_01.png",
+      "hash": "61528a6c10b41dfba1f2902c68f1f7981d57aa33e1938da03b277fccc1c9dc1f",
+      "size": 132117
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1086_01.png",
+      "hash": "3d8a9df71f83374ea15415a6e2221e91724486b3f809fd16ae1b49201e35e906",
+      "size": 109297
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1087_01.png",
+      "hash": "6a3b5389fafcbcad2bc5d9d7a762403a5f0bbe0ce9d534b6371dabe46f482e7d",
+      "size": 123043
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1088_01.png",
+      "hash": "87ee03d955dfb9c6fb3824413b098231bb8cdfb994686263db691a52e1301b47",
+      "size": 101928
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1089_01.png",
+      "hash": "34a58f552f2f65a6d3b4af92be8fdf775beb74d7b6cda67821b82dca1d59e12a",
+      "size": 123254
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1090_01.png",
+      "hash": "9af6350a3fb8dfc5c904977d93ae7b97a116c636331be95efcf29f428b50d540",
+      "size": 83670
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1091_01.png",
+      "hash": "94746d5d7610cc77f084e5ab2311906993eedd6897a29b3819b3e1e01201bf28",
+      "size": 72602
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1092_01.png",
+      "hash": "4611c3c53fa60b2fd73576713b977af696bf5c04f05b3651778fb20ffad09147",
+      "size": 130499
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1093_01.png",
+      "hash": "0f5c778312366d7aaa3f29e73cf56d25c83195c32d505d5fef38d18b7ade8d5f",
+      "size": 126969
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1094_01.png",
+      "hash": "ae444f86fb76032f8cda88f31721542d13c403df1a763651433b394d1a3cf7bb",
+      "size": 131911
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1095_01.png",
+      "hash": "a5cc9a3c5bb608db613da9ab2e074989dad3489ac74a238eac8966725d011643",
+      "size": 83097
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1096_01.png",
+      "hash": "51abfa2ec55dea2d04795a22435a8cb33bb1a4c20c14e5e02b0ecc198e81bb62",
+      "size": 128785
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1097_01.png",
+      "hash": "8b41ff7214ebcc62e4a07d37666a09726a1964da0787312ff7e4b730130acd20",
+      "size": 123775
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1098_01.png",
+      "hash": "860d66ead38a4826eb34f311da8c6efe3bf6387e33eceb33f40421911180e9f1",
+      "size": 131649
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1099_01.png",
+      "hash": "2754fdcc94ccbf84d9b6978c5b552c00da21ad6460706e887dba9db70d1cb9a8",
+      "size": 135941
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1100_01.png",
+      "hash": "9803cc81d24850c70c205c3d23962d2b29e55d6592e8333148e9c50c758d9e68",
+      "size": 104013
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1101_01.png",
+      "hash": "d152bd34f2703b4fb574d40b9962f8ec8a9cd382f5dfb706b0d307d4c77f219a",
+      "size": 108152
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1102_01.png",
+      "hash": "ac352c3d2f6906480c2907a882daf9f7d639e77d0cd52fe42e25e743b0d8992a",
+      "size": 125068
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1103_01.png",
+      "hash": "19442fb11ee108ebb8363d1aede2274989805e25d5f55919fcd19005c0f757a1",
+      "size": 124546
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1104_01.png",
+      "hash": "e6f8a35505a4d3cb3e2b1dab4ae49c5b6cb1e3ba40535d4bc9930ec6d7fcb492",
+      "size": 114798
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1105_01.png",
+      "hash": "5d294b564391e2c23d4a191e1470ee5dfff6ef5652a5d003e0a076e21ecd3e5a",
+      "size": 103896
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1106_01.png",
+      "hash": "ab4267cfbcc66c5640a2abbbf24b56bfce878cada5e260180d5b37fa722911fb",
+      "size": 118587
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1107_01.png",
+      "hash": "a2c0d8ae1fb64d93129effa5047322b2775b3781d48cef00fb7c8e8bf475fa48",
+      "size": 105719
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1108_01.png",
+      "hash": "5991ac9e59b10401cb8697a67bd9b2bdaf5e35e1dbea53fe6e49f80e9d435a30",
+      "size": 138825
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1109_01.png",
+      "hash": "d83ec96e1278dac39875dd612512c1ae051adcbef4af9318001eee8a012101d6",
+      "size": 117263
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1110_01.png",
+      "hash": "53fc40ae5974d1e2e2a67c6ed0376b1b376cb368e870eab3e9c31902a752f5b5",
+      "size": 117393
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1111_01.png",
+      "hash": "fb062e5bb1af18433db06dc43facc1737105aa7157a481a6d0421656d29c0026",
+      "size": 123242
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1112_01.png",
+      "hash": "d127339be85c6d075bf36bf2d72ea139bad6c54d8930b89dd112b69f171092a7",
+      "size": 130867
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1113_01.png",
+      "hash": "b41517e6628ac6285bb91a0397317368251b6efdaa667f0c0848dce5d16727c5",
+      "size": 147530
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1114_01.png",
+      "hash": "7de44f47c04467819d8b811e6be47ac74d109166424546d3782937bce9d02aed",
+      "size": 133339
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1115_01.png",
+      "hash": "42f126e2b751b00dcb0c374943be412bc62bce51a665ea05ec8d14e29371c3e3",
+      "size": 106091
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1116_01.png",
+      "hash": "e8a50bdd8233ff9d0c0df72c6f5c221a195dc48083ebad21bcdedcb1d403e0dd",
+      "size": 105905
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1117_01.png",
+      "hash": "7f31829164663cc59691f10cec7cc9c52ea871b2f9c2fc26158f40d2a40bb34e",
+      "size": 114737
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1119_01.png",
+      "hash": "7f082cf150ae62c6870b07bbd82aa7df4563b5b4e0f296683e0e091947371a18",
+      "size": 113916
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1120_01.png",
+      "hash": "512de17c9c46d033d4766ca2f8b85098d54bc6ca87ec306f82e900a97be94d99",
+      "size": 130700
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1121_01.png",
+      "hash": "96d5559f45b15022198ad590a4bd7fba0258858f79abb096c1ab24147bf962a7",
+      "size": 103598
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1124_01.png",
+      "hash": "20af9a5f05a59ed6b8b128bf282a0eef3b21800e645e2a1697b2acba275abef3",
+      "size": 109961
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2001_01.png",
+      "hash": "7801b3551140956896dcf04af3d1b1e001ba68bb12c4891c4c0b03c2d53ac338",
+      "size": 133376
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2002_01.png",
+      "hash": "ac55f48fd82b04e4da760015d7980b6ee351c6c9b3e1b34c661fd06da99126be",
+      "size": 118110
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2003_01.png",
+      "hash": "20977b40de80a780f38232f070da734aa5686adfe1239d7c892ec19337378ad0",
+      "size": 130765
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2004_01.png",
+      "hash": "14288a717b67f700021510f10b14e80e4feb96cd07b7ac335b218e34c8017d02",
+      "size": 74137
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2005_01.png",
+      "hash": "09aa1da2b906b940c100878337dd7f6b767abd9714d22cbb913f400c0af1e327",
+      "size": 134750
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2006_01.png",
+      "hash": "d62552ad84fe8662061f5f786ded1a11e67d5309295c3d9f657189f14632b8cb",
+      "size": 139681
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_2007_01.png",
+      "hash": "544eabc48fdf5b61f9732e37f8db33926bffd64677293f0dce71b2b6e7a5d8e5",
+      "size": 159681
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9001_01.png",
+      "hash": "eba82ffd755f96cfe85ec11b3fad7a27a38f6f26efc92871cd78d005047589b7",
+      "size": 128666
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9002_01.png",
+      "hash": "81dbebca33f1f202fd212960bacd07b0f7cd5778fa673b0cba8f38e191fba64b",
+      "size": 151516
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9003_01.png",
+      "hash": "7bd47fa5088d5c13f886e6737bb545ba658cc253e8f628d408927172a9fdf431",
+      "size": 146027
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9004_01.png",
+      "hash": "aa086e1ced427d015f4535260148566e9ada553aa09a86a5c9971e48ec73cec1",
+      "size": 120545
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9005_01.png",
+      "hash": "9046560d554123f0e1aadfcdfe244e20e73c5f72c20a70d0018f3f16803aba14",
+      "size": 177964
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9006_01.png",
+      "hash": "d2fd956a97aba3585b2aea35131bd588097ad3ca2758d586800a34554bd879d1",
+      "size": 117269
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9008_01.png",
+      "hash": "a4a3ed28937dc7f910117ff6ef8753f5231fc35fe763d94aac285d93e2f5a33e",
+      "size": 119621
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9040_01.png",
+      "hash": "25e1bc7e7666d75196f795e50b0f8c095b79905ecc6180c99d74d43f65864e99",
+      "size": 145570
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9041_01.png",
+      "hash": "a4aa76ab244c74a92b2133636ce6a5f356c99be288a3e48200dc9c48efc09819",
+      "size": 166627
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9042_01.png",
+      "hash": "95e639913bee2c3312d1486e2792c2047b65418c9af72056b1da686465dbb356",
+      "size": 169861
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9043_01.png",
+      "hash": "b430e887adc20d7734b7d0a58b19d755a4c3ece8c7c4794761c2e988830f2587",
+      "size": 108155
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9044_01.png",
+      "hash": "e766231444df38e8f5ca1ae27f31b8aebc6d76e72261daca9f44e3f189804051",
+      "size": 150471
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9045_01.png",
+      "hash": "b3b8a9ea391081501e92514f48806c4cc9054e240377ee57db00ad65014d0b6c",
+      "size": 109100
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1001_02.png",
+      "hash": "59719c7b28d7919345a7eb5fe22080a6a0eee15dbd713defde11d8187cb1e4ee",
+      "size": 98801
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1002_02.png",
+      "hash": "de36163a81c29f3615209d6bf7aa63ee2ecb043f897867fd2f68e0bade54e181",
+      "size": 126649
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1003_02.png",
+      "hash": "7288d8d98adb8012b29a24a64209710221ace0ec5e42ed8033e0366767a41055",
+      "size": 121074
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1004_02.png",
+      "hash": "234180a2194e86ca152d8a6e4c4b9142170288c1082277791d48b469c7477be8",
+      "size": 122071
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1005_02.png",
+      "hash": "d910018780eaf55250092a082c9b690b49b831beee7aaa5ca4e6f9bd94db3d40",
+      "size": 113798
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1006_02.png",
+      "hash": "51a0d7bd088b9ff7884f38fbf5aa58018cb541f33b571459606fc75a9064b3b4",
+      "size": 102121
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1007_02.png",
+      "hash": "007c5dc481f1b42ae816529b88661302eb3ead619b5d54c58ac7f30ae3f60888",
+      "size": 101676
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1008_02.png",
+      "hash": "0826316dd9179ece552bb648794def6afa94b1555a1f146e128e1da7e0b0d770",
+      "size": 108574
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1009_02.png",
+      "hash": "44a23f653b77cb593354be5b206d95120299f23bae9a6b09f6c1032b5b140a0a",
+      "size": 135078
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1010_02.png",
+      "hash": "b6c0019659178d0cafd169221d802b791da659663a87f2849bf380566d283e5f",
+      "size": 136312
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1011_02.png",
+      "hash": "bb38e2a9789cd5eaea496ebb63069731d678d8cae30ca8244ee16781817ab25e",
+      "size": 102803
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1012_02.png",
+      "hash": "6d10d06660b4ff677935cfac036081c729db37a6090aac62be367bc3e654662d",
+      "size": 117859
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1013_02.png",
+      "hash": "5e00317409c2cc0c3b4ac57273fcf777276d31717bfaaf5606f03c2123767b42",
+      "size": 107461
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1014_02.png",
+      "hash": "51aa8ae30677634341a45fcc8d81f1744e0a44232823f4b81e971019ad673d1a",
+      "size": 82523
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1015_02.png",
+      "hash": "044a40db004717e9cb32c79c288fafafd69fc4863beb81f2f935f07dc62c9c1d",
+      "size": 104150
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1016_02.png",
+      "hash": "db62213f408ef20a53b7f377d83bcb10d16ca50d264275dcb5a25cba7f7a1cd1",
+      "size": 118620
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1017_02.png",
+      "hash": "5030300598dc9a18f8723ee1cc7619cbfa1ed3d9783516c5147e5535ad4d9df7",
+      "size": 145071
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1018_02.png",
+      "hash": "f18542bae4f2d7f39ede49f6aacc1aef7f56eff5e3ac8fc4db13bc5cc89bebb2",
+      "size": 76394
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1019_02.png",
+      "hash": "20287230941bfe1351cf121cc18c618fb43be8c7f71bb6274608fe130f3ea795",
+      "size": 120063
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1020_02.png",
+      "hash": "9c2e3a0afb326d3db657b376c8dba0a22de46168f91c7d598e7626a1a22d2909",
+      "size": 115698
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1021_02.png",
+      "hash": "35a65531da1de3da73a1e3da132169ce794d5f1e7d328db465c9f1071ae1815f",
+      "size": 121426
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1022_02.png",
+      "hash": "7ad74e4af9edb94eade0b4743d32284e16c447e2d64c56d3b6a4c4a057d32e9d",
+      "size": 137746
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1023_02.png",
+      "hash": "1f617036b8f7423a0ccc3b7135913f6c87635cd23b9beeefe274a4c99bd86a11",
+      "size": 112310
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1024_02.png",
+      "hash": "d6aaafd8e03408fd6cbd471cd2929cc0bc6f88037f9a455c13793e5b50ee8b9e",
+      "size": 115240
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1025_02.png",
+      "hash": "b774b4faecfe3561db5e561d7f924d87a218da9102122c7a0a8116241dd35b9f",
+      "size": 122812
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1026_02.png",
+      "hash": "8e1ff0eea4baf7adcbebc60d2fb589c74a6aea1e322da61261a34e2b9841b386",
+      "size": 131841
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1027_02.png",
+      "hash": "d53455730e125d13454caabc0aa85f2d3b896c04b8b4d88784e3d28f35576114",
+      "size": 110476
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1028_02.png",
+      "hash": "d8b15446b0b514748b48c4054751e96048d7538935197f8b152353ec1834182e",
+      "size": 77348
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1029_02.png",
+      "hash": "92ea2e4a8b21a22576a5d22ed64514988f87133c9581bc5d7fb65ff7a2391f11",
+      "size": 125800
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1030_02.png",
+      "hash": "96b4e5d63d3549f1db4d16e53849ca01f34654f537b9047f3edb6711cd7283d7",
+      "size": 93048
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1031_02.png",
+      "hash": "230e528bfc084d901a65fd81ae3bf697ec646e561dde235631e0c06524b22f62",
+      "size": 152260
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1032_02.png",
+      "hash": "628560d490a39b9177e528e5123b706df016bd943d8271642458672468fbb534",
+      "size": 116631
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1033_02.png",
+      "hash": "581f668a12e8b5e95fa3cf658cffd85da5ce4873cfb616d78ea38fbfc390e24b",
+      "size": 126485
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1034_02.png",
+      "hash": "f6373287caab2f93d3a49cb2405fc489de433ff34d39cc2eabc57a8442e00bb8",
+      "size": 90998
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1035_02.png",
+      "hash": "42e10067a9cf3f98824a31dd58af3d2e9e52137d22537aec05634b8682381835",
+      "size": 127746
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1036_02.png",
+      "hash": "9ecb5d04cf0ac0b1b02595712057bfda08cb979ef67db576cbad7979cd500555",
+      "size": 122010
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1037_02.png",
+      "hash": "7771dcb757259720908610c127cf00a3778bd935ba2d16e34300308e62559c32",
+      "size": 124166
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1038_02.png",
+      "hash": "98538f7a7305cdbffc7cfd2f682fc3367f218ef0781d4fdeae0b181c6da20398",
+      "size": 110057
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1039_02.png",
+      "hash": "8cb6570776bfa1e2d888ad2e93595ba7edab577041a7a6286319f38d432694a7",
+      "size": 128523
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1040_02.png",
+      "hash": "53eb2fb71bebec9b8cd1ebaa1fea29959a5a7bfbe7e6f4d8fc927810d50b8c89",
+      "size": 127190
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1041_02.png",
+      "hash": "6690d2b1ff05869f8d2aeabeaa6a2dbe0b6c98fca4d3dba20c7c227ab664113e",
+      "size": 117817
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1042_02.png",
+      "hash": "18a50f4313c53b14424bf9ec202c7f69ef9db1829ab4d161f836fcd6d6db30bd",
+      "size": 84898
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1043_02.png",
+      "hash": "8772c6ab3bff3bcbdd6fffc88095346b880ee79c5699033d5ec221a14fffed38",
+      "size": 111730
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1044_02.png",
+      "hash": "3d32ab584fba5e3c52e5b451e55570ee0d4ef2719d1b5fc0f0525370e84d0a34",
+      "size": 129617
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1045_02.png",
+      "hash": "0118d004bcdb4eb3bf4cf738c3254c44ac0aaca1dbaa6220758716bcc2d8e724",
+      "size": 133426
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1046_02.png",
+      "hash": "c6312a08d0e693e5372b6995c69005e9d0c6ca52721acaf649c1b45fb26e39e5",
+      "size": 116341
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1047_02.png",
+      "hash": "7041b2bb2e7a37f8001a508629e9cb1fb63d641c43e0166e2ae230af5ff8389f",
+      "size": 130867
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1048_02.png",
+      "hash": "41fa5425d7b58cba30c85401b05d21cb2c1553adc1f68227b3f71400acb21ee1",
+      "size": 131190
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1049_02.png",
+      "hash": "8c4866c87d1c2f1d5366d4093189c57f115b5149ac21448c048dabe5f8abdde9",
+      "size": 127442
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1050_02.png",
+      "hash": "00572f02a8acc014386bae39235343f50aab759fea4a3cce3883f1c447b1b146",
+      "size": 132600
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1051_02.png",
+      "hash": "9b1dc99ae118702d56d317b23fe660af3f3be23f8ac6d1083e6ffc12047f46d7",
+      "size": 96724
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1052_02.png",
+      "hash": "4405ef7dcba16386d17efdf6bff0a422044c731c2017a0475273a66635692778",
+      "size": 72970
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1053_02.png",
+      "hash": "b95ba614be22ed877af8c2fb639f80b2e3e527df3d24d1a81c2e87cde7b8c2cb",
+      "size": 116025
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1054_02.png",
+      "hash": "288705240067e011c191c8243195bb6b68ebc309c3060b8e08973e4cbf84296f",
+      "size": 135688
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1055_02.png",
+      "hash": "a718b8a72f373a37df349cc868b0e48475b52a5072d5f31e3c3a9218f4187347",
+      "size": 108387
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1056_02.png",
+      "hash": "f4ddca77df7e57975d6171b1231ed85463b33f0d71172495823c4a47083a6f3d",
+      "size": 122843
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1057_02.png",
+      "hash": "81b7b8ed72874b5e417314f19d4d65f9a666d49ed5c8cf3b354115b17808be7e",
+      "size": 129723
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1058_02.png",
+      "hash": "3cf281f573c2928d23455b7bc850a77f507bb74468fc26d78e966212b80028b5",
+      "size": 133171
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1059_02.png",
+      "hash": "3140924585988e8ac8fdb0ee6e1b9e978f338c2ddaa48a3dd04e3bc4befb42fb",
+      "size": 116943
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1060_02.png",
+      "hash": "1e5826c2733dd6a08dca4cca25697c026516d178bd8a938471e90d70f261f8fc",
+      "size": 127456
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1061_02.png",
+      "hash": "451719b604e41b0084981fa998617378ee3d3192014d35ed97275d9a19b9e813",
+      "size": 115532
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1062_02.png",
+      "hash": "3323557d72330ea8f7799384a91b91edcf380d627fb95a0db1b85f95d8ac8a8a",
+      "size": 146544
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1063_02.png",
+      "hash": "3e7049960a0e161dfde9d57272bac10f943a57d811ce62c1892a17d97b9b9f65",
+      "size": 143863
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1064_02.png",
+      "hash": "76b6dc12ebf76498af576c6efb47eb073f554f084ad5562e3cd8e080047d123c",
+      "size": 107143
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1065_02.png",
+      "hash": "6a2261e90a6f9f52b09f096bf57437bb3d735e382c3bc5077f11e36141b97f6b",
+      "size": 153464
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1066_02.png",
+      "hash": "0769d865726b69a425a990d9f660f7fdc4ae69dbdf75c6d87b117fd19dc73a76",
+      "size": 108081
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1067_02.png",
+      "hash": "d4280ce484b282195b823ae76cf95de858e8a51c6b08f90aa3908e0fd26c18b4",
+      "size": 116467
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1068_02.png",
+      "hash": "2889dafe6ad67914df18a4a6936d8a4b998f18fe9fa5617c03339ccf8b45fdf6",
+      "size": 128470
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1069_02.png",
+      "hash": "f156c3655c37f6fa1cc372948db00389842ae081d4a6aae92b1191b8cb61d090",
+      "size": 148733
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1070_02.png",
+      "hash": "7bfd3bf2d6ef02b04badf1d40937f72fea9225901a371ab97d2e865b1c317617",
+      "size": 141534
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1071_02.png",
+      "hash": "378cc3301930ef7622ad570690ba9790dab2ba27545dc3710be36c23a3a5db06",
+      "size": 138527
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1072_02.png",
+      "hash": "62fa8b3719dd78b539ba3ae454df3771f4a39db430b7e5451b97454526652409",
+      "size": 122339
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1073_02.png",
+      "hash": "102f9f9bcb434d7b7b6a5024aea5fdc22d6ee14ed7e992051a1fe5466515c45d",
+      "size": 127362
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1074_02.png",
+      "hash": "adf41ef9eb546944a093575941b5c2ff4f7f2fd5a667d3e9e0611130d103684a",
+      "size": 115899
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1075_02.png",
+      "hash": "9b89423a1326309b7556d191368f20050cebdeabbc450d883e6dd3eb18648e38",
+      "size": 119875
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1076_02.png",
+      "hash": "b116af7bfc7ae44d277439605c124042f3250c61ec4c9b5fda3560ce5e2bad27",
+      "size": 120983
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1077_02.png",
+      "hash": "18745ace4966551f7515d0db3ffbf6e5299e73c0e54383015d1fc86b9de6afd2",
+      "size": 99848
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1078_02.png",
+      "hash": "a59d95696237c4f6ccb63544f5bfe6154be609867e2e3b85a9d930c27e305331",
+      "size": 127100
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1079_02.png",
+      "hash": "311040626faea29d17aae111e3001d260f31f8dc569e3e816369fdea09b67cbc",
+      "size": 125241
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1080_02.png",
+      "hash": "145fd15df1e5aeb458d84f82b5f93e64e0b529b1e631696f1eee29f4199e66e3",
+      "size": 84413
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1081_02.png",
+      "hash": "3055f0ea6d4a417c8cd81b92ae81d94109a2ea51df14c6a11203160a58e2f1d2",
+      "size": 129213
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1082_02.png",
+      "hash": "c250928491f774e3cbc739f0abb76ecc9b2e4d3dbd59a45421bad7b728d77c02",
+      "size": 135274
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1083_02.png",
+      "hash": "0bce79a0d9497d7eeca2071c08f3d15891d650e312a66185c3508eba6f7a4343",
+      "size": 77901
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1084_02.png",
+      "hash": "cea05e984c8357a7249348facd6c638ffb58bcd34a23d4b189e53607935eac27",
+      "size": 122576
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1085_02.png",
+      "hash": "b75dbc22b7ca65cff8bc4660f537f631cc0718fa2e42dbc83e18a7ec2328ebda",
+      "size": 133824
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1086_02.png",
+      "hash": "1209ea9bc6395d4e3d5b0a2a00a33c820120eb65de11c86f8e06c2c860322c07",
+      "size": 110134
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1087_02.png",
+      "hash": "4bb662767bd0e61bbfecc9f02a0b4b209093fdd9a54a88c44e3d6bbaad43f463",
+      "size": 124455
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1088_02.png",
+      "hash": "0e9fe526eafdb23dfa39770467112555ef66f80c9d4331628e7723050da2eb99",
+      "size": 102623
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1089_02.png",
+      "hash": "a4dc7f7517e4d2cbc2c211409e5805a363cc971133d4f05b18a02ceb8c76b334",
+      "size": 124871
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1090_02.png",
+      "hash": "6f1932536a21a1200a7ba4920a7863d7fabeabd9bd47ad57727fe821057aa5a7",
+      "size": 84877
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1091_02.png",
+      "hash": "37ae9a66f94198205dc3a1ed37fa8558425dbbdc5fcaf74e9bf6f4809787ab35",
+      "size": 72990
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1092_02.png",
+      "hash": "8cf4aa0489511cc29c0cef0f60f8182f6417fa1248ad7601072b4d88d53b5824",
+      "size": 131704
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1093_02.png",
+      "hash": "6520dbefcc794a5b10a284629285a71f582cacebb147a15e87b4bb06f321239c",
+      "size": 128321
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1094_02.png",
+      "hash": "ce39b333b3b261d4c4b8e812c83b5882875c6711584670b1e939a8d11d577f4e",
+      "size": 132684
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1095_02.png",
+      "hash": "0161fe9a3607e330f00b29f9bf7ceee8ac070c263b490c488c00574cc1570e14",
+      "size": 85136
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1096_02.png",
+      "hash": "88c93b8ab10691eda790b648a7c3c60972c2c3bdf535c184b71dd86932fcf902",
+      "size": 129971
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1097_02.png",
+      "hash": "d16219cfdbc4f4e52feff0b62e4f55624509e5a10847dcc8f56ab08882000ffb",
+      "size": 125111
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1098_02.png",
+      "hash": "f36c1f2a0fd719ee48ddd87ec0418ba288ee7c99955b3c6731f1dc2df5f483dc",
+      "size": 132907
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1099_02.png",
+      "hash": "a881f8cc1cef273794700fe7d7c5704f9663a4a56688469c8552db1c5677d225",
+      "size": 136987
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1100_02.png",
+      "hash": "b5b38307630c38c9584055f9cc8a36d5ee109f7f109968143705a8dd24ae67e5",
+      "size": 105357
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1101_02.png",
+      "hash": "f8adf2ceada08cf93e2106ce060b5217bec2658b29834988a73405412cb8566d",
+      "size": 109259
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1102_02.png",
+      "hash": "e3af2e45fd196496fb8616fb07b26c1f3b0ae4b4e44f71e8b667223b9e23aa8c",
+      "size": 127514
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1103_02.png",
+      "hash": "0ff1f4b19bc939bfed0befea4ce23a5b413c5a798dd10c030c82785fd78914b7",
+      "size": 125943
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1104_02.png",
+      "hash": "366db4720749f8880187eb8cab86fe04fe34c9647b039c8727e37887cfbcd00d",
+      "size": 116045
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1105_02.png",
+      "hash": "ddadc3bf1fb517af67862902d1c6445824f0671b67dddeeec2b4495b18c1e05b",
+      "size": 104672
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1106_02.png",
+      "hash": "e4b78682f1313d8bde45b17ea6a78ca2c669fb37cad7a330110d2eb843ab41a6",
+      "size": 119430
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1107_02.png",
+      "hash": "ad46153e1ac1bf1fc06c045fb3d1ffa0b83c207b3d1029a8d467fae5ffb1e11c",
+      "size": 106790
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1108_02.png",
+      "hash": "5a9cf62494a5b366611c2e7c767f9781c4b07cac4df16233dd4d4f857f4f4538",
+      "size": 141502
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1109_02.png",
+      "hash": "a85070c3a8e5c20980922ca3538b13ff045d44ef779d8af42e89316bfbf2f81b",
+      "size": 118347
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1110_02.png",
+      "hash": "7b6ff8c2210c8f8bd22783a6b796819c9c97ddc078f1c8209d9a3b0d79583bce",
+      "size": 118856
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1111_02.png",
+      "hash": "722025cc2e32a2255578392b4ee9b440e888d4975172967f77ddb203cb8c3434",
+      "size": 124675
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1112_02.png",
+      "hash": "05cc8bfb18f29da97985dcd30a692db9646869b5d9c06e4a8932fd3ee39888d7",
+      "size": 132582
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1113_02.png",
+      "hash": "4ae3e03eeb6d9d4b521bcd565d62322b7fe75cd9492d5ffa99b19f972f84537d",
+      "size": 150256
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1114_02.png",
+      "hash": "f58cf536ea46d6c3282c29face59ede8518909fcf8a1e20b1e36997f11a42ff5",
+      "size": 135749
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1115_02.png",
+      "hash": "b275e29bc41a04b6b556be3cb968e0cec3425bc8de2bb5fc27442d9579bbea9f",
+      "size": 107351
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1116_02.png",
+      "hash": "94a2cfd76561cc2857bdd512b3dc808a6943f2f0906db21bfef8d288b895e085",
+      "size": 107954
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1117_02.png",
+      "hash": "97a1cf6346b6278d9c77c838a96ae6531708d75478ba5e7dcd758b0beb4d30da",
+      "size": 115544
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1119_02.png",
+      "hash": "2f0963a7fb6ea735d1e99f479ef28e7b4dcd20247899a89593ee58cd07907aa0",
+      "size": 115600
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1120_02.png",
+      "hash": "cc7fbd76bbcfe179b810ec67dd86fe58d27fcb00de496c1180d1b52486777321",
+      "size": 132060
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1121_02.png",
+      "hash": "8f08cde1d8abc2e19257841a4413aaf7091529e35d3bacd14092f85fc2bf01e6",
+      "size": 104888
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1124_02.png",
+      "hash": "0c2c643711d7750c980ddaeb28dff9b3a92659a16e81b3ad473ed7c219019573",
+      "size": 111837
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2001_02.png",
+      "hash": "fcaafaf01dc21dbb4ffd6b6647667355a50a9a1395510c23ada1442ae6da0693",
+      "size": 133844
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2002_02.png",
+      "hash": "e04f6ddda035c2eacf4a6288058d94416521244438686aa2bca9b8440b75d38e",
+      "size": 119074
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2003_02.png",
+      "hash": "02002cb6787431a97de143b52d487a5ff6cd7fdb62e3155544ba4973db985c87",
+      "size": 132477
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2004_02.png",
+      "hash": "916a0da2ac9b5fd1732c675585b5999d331852327242a2f60a9418823f691631",
+      "size": 74988
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2005_02.png",
+      "hash": "414c124724acee54f44626b2e4263fe3e7175caa4894fa8fbe7c01c56c69a9e6",
+      "size": 136023
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2006_02.png",
+      "hash": "38ee102e2f9ba188de9ced5d7b4dad0567f774748ec9e92c3e37a77d7cb7cb87",
+      "size": 140851
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_2007_02.png",
+      "hash": "6557125755e2b43cb8aba58f688be3a608e85e6408b9576dc18b0ebb1dc0a089",
+      "size": 161072
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9001_02.png",
+      "hash": "5030122fed91035f95885ae6f3298d4edd961cc121941685d1aa33fd9f0178f3",
+      "size": 130585
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9002_02.png",
+      "hash": "62c367cc9973578676baf030efe90189711a76ae337b41084639aa5991171890",
+      "size": 152947
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9003_02.png",
+      "hash": "ed8072ae566dd7fa4d3864b24f1d26aa8bd0989fa44f5a26fcb924a20d4deb08",
+      "size": 143572
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9004_02.png",
+      "hash": "f22d23531a516c039577b4baf39ee4746bc7f1a0615a4d21a8e557514426a3af",
+      "size": 121326
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9005_02.png",
+      "hash": "fb8b15c151efc81f5ddabb567cfc50a91a47057b89f9347a38df8e4df87820c7",
+      "size": 180205
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9006_02.png",
+      "hash": "a1a30a67d20f4cdb8f1d16682a530611d03a6e6dab728db9bb9986d190b084e2",
+      "size": 118049
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9008_02.png",
+      "hash": "0454925c7e516761327d39f59b72f219c29cc0d275faaedce0ecbe4be4db4ad6",
+      "size": 121353
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9040_02.png",
+      "hash": "b87470fb7cab512d87f51fc348eb367ac041d489cb08c387568ac94609ab789f",
+      "size": 146870
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9041_02.png",
+      "hash": "86c4b45cb4ec291c53294ef77e0dd35986550e67a44a007f4fb05cf3a07ac313",
+      "size": 167849
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9042_02.png",
+      "hash": "96dbd1ea818735fd8599178cb4b854bbc47ff1c3b68460356f95340c8ea48919",
+      "size": 171143
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9043_02.png",
+      "hash": "45399f9a8ce9093025e23d83829d9df0150d48e4b5eea69fd6109e5b15286763",
+      "size": 109047
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9044_02.png",
+      "hash": "eb8ff3b798b87b95c57f79aecd5fa9065fbac3fc81be3ef1c18af17a44803fd6",
+      "size": 151827
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9045_02.png",
+      "hash": "cc170811cafc89c1da2f32e8b7d44febc07816a44f770c328d6b30bc85581c0c",
+      "size": 110838
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1001_03.png",
+      "hash": "e352c6af80224eb71e576e8146efd61e32a7f87458bab9c42d31037dea64588f",
+      "size": 75141
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1002_03.png",
+      "hash": "0844db63bc187f66e0964c49fd12d16f878291ae277b07ecc5e4aaeacc92c018",
+      "size": 97455
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1003_03.png",
+      "hash": "0a766416c01abbf92e62652b4dc93f03594045b99a2c063d7db5fc02e558f9e6",
+      "size": 88803
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1004_03.png",
+      "hash": "5fc7400d9ae27bf06a9fbb11a5b010ed4e1771338d249a695f2319a45e836a55",
+      "size": 91525
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1005_03.png",
+      "hash": "050f522c61b343b9370b54e644e599fb80dc206760937a949838afc150ca265c",
+      "size": 87052
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1006_03.png",
+      "hash": "0f0e99986e6efab6c3dfa2a1d8a6e57217eacc280d1eec5471ca0cc566e23cfc",
+      "size": 79319
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1007_03.png",
+      "hash": "bab0db9eb22735d7ae8540b3814ceab00a51a05161cb1444e3cae191d572a9bf",
+      "size": 80150
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1008_03.png",
+      "hash": "cd3e367526bffb7e2d6b3c64efebca0bfae8305479c0eb79e261ff7bb101261f",
+      "size": 81781
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1009_03.png",
+      "hash": "61dd16d807b4c38c7cbaf3f5e89bb8e2a4c1049497f91f513cdfe5a29c26aa10",
+      "size": 103032
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1010_03.png",
+      "hash": "de2b9c38112df34950ac4500f04af211e87209ea19de85caa169ed19ed2cda6d",
+      "size": 103320
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1011_03.png",
+      "hash": "e35d2f89f8ac34035afc38788d1760263735ad2b54672c3644a6fa148d4b2502",
+      "size": 83213
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1012_03.png",
+      "hash": "a52c7b276a393d5218f166d8988125aaf0e2674f8b793ba1e621f7aacc3452de",
+      "size": 87741
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1013_03.png",
+      "hash": "729ee572bc99bee7daa36e5f5610fd687e8bada4481d89d6674a277edbf73cb7",
+      "size": 82208
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1014_03.png",
+      "hash": "a054ad78812de0a85029235202f88bfbad98a09529e8d10456cfa6e42c1c831e",
+      "size": 66443
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1015_03.png",
+      "hash": "132599fe20d7833b83cdd24cd66779ec919dde3a3dc3983c0858a664d8e77010",
+      "size": 80141
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1016_03.png",
+      "hash": "2abc30894b71edd6413ae00a0fc77a98ab8dcc03f4949551054f1a6c6a56e92c",
+      "size": 89324
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1017_03.png",
+      "hash": "b4e19eff96f236a58b0d48d08aecee4d057d155b74e66d50323e7fba355521a8",
+      "size": 108508
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1018_03.png",
+      "hash": "222b1908e644ea9b32e388c4bed901d774f5ffb3043cd31c1ee1e4cc041658b0",
+      "size": 62111
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1019_03.png",
+      "hash": "ce62477dfed9655038248210d99bd702e9e2516a6190682dc99c3dd00d2adbcf",
+      "size": 90585
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1020_03.png",
+      "hash": "9b127b71b7f3f00875b0a6c5ef93970030e92bf58af37ce535102f5654f2ae2e",
+      "size": 86320
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1021_03.png",
+      "hash": "9870a8d3847eefeaa48c506222ac776e76cda7f60a63e190dd8928ed59c68eb5",
+      "size": 94453
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1022_03.png",
+      "hash": "6792d26ab91d5ad235bee077ad51fa3b0139e6afd33abbcb4e693d449de964d9",
+      "size": 105575
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1023_03.png",
+      "hash": "3ae6bc8941f28199228a5f432d060ba2476c4274e39429b5e9bf082bbdaf0b23",
+      "size": 83115
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1024_03.png",
+      "hash": "191ad39b8ab6e65f5be14bf7ccf79f350fd5bc2f03e36d991ee6341e711a4b86",
+      "size": 88922
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1025_03.png",
+      "hash": "8ee2bf7911da1144209284a4c44e9ef640612b3d88a13f94ec4ec26c78e5cea8",
+      "size": 93834
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1026_03.png",
+      "hash": "80098e6f92186ef7f24d7cd9539366d3f5f13a34d582cf53da80990cade9d34d",
+      "size": 99811
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1027_03.png",
+      "hash": "2c5ed988b2a763f1bc71fdaddc7973b8b7c71b57bd583ab9a3c2aa68e15788d9",
+      "size": 85981
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1028_03.png",
+      "hash": "487b74a65004365cbf04ab47f78753a164ee7c86dffea4b906cd17eba83d86d7",
+      "size": 63034
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1029_03.png",
+      "hash": "9bf7c22f02d510e0176949adbd78466b5ee5cbd2f316718486d2d1cb553f11fd",
+      "size": 97981
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1030_03.png",
+      "hash": "70ec8a2d01211b1ebe7b813fc9140b2dcb02b900512192bece911be733de2c43",
+      "size": 72474
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1031_03.png",
+      "hash": "ad46b2a1d103f8d85f007ea111b3971e25a38def8b9355f82d7e1191f5bab5df",
+      "size": 110231
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1032_03.png",
+      "hash": "068f6b284adf7c63271a94b7f9388d42bc43a8f970aa5c5678f97ceafcdaee3f",
+      "size": 87475
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1033_03.png",
+      "hash": "d6e33750e17f8a6de743953b04cf56bdb656f935cb38ff329c4fcd12be2214a7",
+      "size": 94831
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1034_03.png",
+      "hash": "5c879d4c3c3051146b76b51a220cedb731eeaa6cef90c8bbdc3868039ad4b8de",
+      "size": 72699
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1035_03.png",
+      "hash": "a0808b459ab005513516a86b2b984df01f833d37861bb7fdf34bf0a02058455e",
+      "size": 94686
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1036_03.png",
+      "hash": "b5feea9b53580e4e8caeea3ae642b6aa6df122e7cc99df609283031e2c037e29",
+      "size": 93136
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1037_03.png",
+      "hash": "138fe1e1e15a6c3ad9f2f0ea8d8f1a86d9c33e4cfb5df03783f96b3749a24f2c",
+      "size": 91425
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1038_03.png",
+      "hash": "a0f6b03a7660f1fe30c7b161812ed6ac754fc0a79e2c001dcb9a0df31b9ff2b9",
+      "size": 85434
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1039_03.png",
+      "hash": "94245ba90132f0e8ff7e741e2e134ceec39ab9c5191d7a0e575203f87255d79b",
+      "size": 95491
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1040_03.png",
+      "hash": "23640baeb2b956bf6b9ee2bee474e42af0fd47f4d02720ee525485f595cd7293",
+      "size": 97087
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1041_03.png",
+      "hash": "bc28f12098e7507261ef696945640ce32c13cf8671ec1ce8cc29b4f0114ae0a3",
+      "size": 85454
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1042_03.png",
+      "hash": "00be6a95dde745578cd3cff60c9d90d33698fd5d854cdfda9c1f2a58cba99f0e",
+      "size": 66062
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1043_03.png",
+      "hash": "bc3e891bb7739f6ef4771bef4a18c6e9ecfcf6a33a9bfc1e1f6ed15450bf8f48",
+      "size": 85590
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1044_03.png",
+      "hash": "fd117429ee48cec5dd74b50526e126f640887c8d5077f9e4ed7ff7f618e2b10c",
+      "size": 96393
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1045_03.png",
+      "hash": "ca32e1d2ba2e25f6bbfa280fec44fb474e0d82db3f25a93b9eddcec0a37be619",
+      "size": 99875
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1046_03.png",
+      "hash": "0a5a4cfccec331bb3ffd602177ce7738fe43cb45dcb93bef347889fc443fd7e2",
+      "size": 90653
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1047_03.png",
+      "hash": "c0a76f22150d0741bcb79206f7da531bce1710ea7360d09877f5a7c86f0c1e77",
+      "size": 96007
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1048_03.png",
+      "hash": "0b86a4b1cab9075db7248629063c08746a82e54e116e6c5b0ec64414600d957b",
+      "size": 97891
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1049_03.png",
+      "hash": "c7f6b5a60611294ddb242e8f52b3a2cce8c1ff0f9b2cb45318775eda0721be86",
+      "size": 97084
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1050_03.png",
+      "hash": "bcce9bad21adff344b30423154ee0fd13c3e4dd10cad749321a7fc4b1691fe91",
+      "size": 98118
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1051_03.png",
+      "hash": "cb51dc436f04d813a4b3e8a5ab8e47cbe07907c26133d2cc067658447406cf19",
+      "size": 74261
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1052_03.png",
+      "hash": "3ec914e4b54854405e9a744d95e1c72bbd2551de0973634814300ef0f7a5f8da",
+      "size": 58509
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1053_03.png",
+      "hash": "03a8598420cef70c1dc13713daee6dacc8ebee4b2ab6a8f20d6b22b403ef7c23",
+      "size": 85862
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1054_03.png",
+      "hash": "3b7b1b43bf52f9a7d2fe0f0ee84cefe300626e63183d991210fff134ad2b40dc",
+      "size": 103695
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1055_03.png",
+      "hash": "52ad0e1a2d6c44c12133ef8db042edef7c9238e64e3073dc5011552e537f85c7",
+      "size": 81833
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1056_03.png",
+      "hash": "fa7de028d75f757fc56316ca8013d9c2930497b28324d47b6daf54373b4698b5",
+      "size": 91233
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1057_03.png",
+      "hash": "504849c87b90f6a642f11cea4a4fca9b39b0c8318dcd06b34ca188f4c0f11ced",
+      "size": 97561
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1058_03.png",
+      "hash": "1c624f661f86a7767eadf99e915050b4ea57c8b7562b71963a5da15c116cb6eb",
+      "size": 100433
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1059_03.png",
+      "hash": "0817b3ac160836e1a934d15a5abfd3c5a3044ac2400f17126a00e11089f31967",
+      "size": 90462
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1060_03.png",
+      "hash": "9118d3ed2a90f0c25a7d29b174105b347a6d970b74383220f0bf502a5141a04e",
+      "size": 94218
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1061_03.png",
+      "hash": "349df39a92d805b25572409d1465f1675eecad39e24c091dbb7f8609d30a4646",
+      "size": 83889
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1062_03.png",
+      "hash": "75d254e02f21566907669b7c3365234ac902a11dedc56b56d43f25a37469fc75",
+      "size": 107929
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1063_03.png",
+      "hash": "c075c7050e31a89e98d0fa73feabc75c0e1b2d6b923558cb07019222295c1759",
+      "size": 104182
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1064_03.png",
+      "hash": "f51b973b13cbe10594dfdc29e35da693efcee4fb7f3d18ef5c32c88bb5fc6804",
+      "size": 81948
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1065_03.png",
+      "hash": "76ef2cc179606e22805141738b9f846756c0faf4233d79a17ffc2c923807dee8",
+      "size": 112806
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1066_03.png",
+      "hash": "78ba25d85a7b0af0b98ddb08e2ccb400e624bcf435a0973e1c5083637a321224",
+      "size": 81999
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1067_03.png",
+      "hash": "41fb2debcffa13df188e402fd8670d261e3ad629392550f76707967e41820275",
+      "size": 85985
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1068_03.png",
+      "hash": "8e0c6966bdbe0803acf6fc3b5214e9a4e61105e6bf7e8957a3280fd203befa2a",
+      "size": 96096
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1069_03.png",
+      "hash": "24cf598de8ac739ec2eee884a87c09145938a293047d832c0847ad01267ac537",
+      "size": 110356
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1070_03.png",
+      "hash": "58ba818cf67d43d30d8a6cd9d5ee64c89c27bbb97ad1f96955b7711b24f5d85a",
+      "size": 104951
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1071_03.png",
+      "hash": "2faab089ab6abc7ce6a566cad2f9b9f45914222ffd47c69875cfb135ce5d5529",
+      "size": 103282
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1072_03.png",
+      "hash": "55b9feb8824ae38f8d9718427dd67ae58b6468791d98ae726239c9d02d996a59",
+      "size": 92688
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1073_03.png",
+      "hash": "331c558aa8179f069a0db8717a71b4578a1e0909ed0b2e06ac1672315b586e12",
+      "size": 97411
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1074_03.png",
+      "hash": "adf8bf1d09d3061994f216733e16b325d9269c3615224ec640a397ee5f7e763e",
+      "size": 87082
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1075_03.png",
+      "hash": "637a972735898b34aa732dcd8e0c4182494bbfca16b3129d27348c08c46f25a9",
+      "size": 90613
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1076_03.png",
+      "hash": "b10122118699de30d66ec2ad06da48119e47c898bb86799df35387d27d72a204",
+      "size": 89617
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1077_03.png",
+      "hash": "ba79de6fff743717429d4fb972b061281961e313a6393b150cc50db3858f5115",
+      "size": 76063
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1078_03.png",
+      "hash": "c9f79093e96b87bb32502beae4e6f806a8af36b00291426e6239edfd23434401",
+      "size": 96127
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1079_03.png",
+      "hash": "02a96930218a5a1e97e2bf2a34ed4ab46edb62afe4d9149eaf5905caa98e526f",
+      "size": 92710
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1080_03.png",
+      "hash": "24e75f85cf58fef896440f33f2ba69a383f7ecf364d09010a29f5105fe4ae6e7",
+      "size": 65676
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1081_03.png",
+      "hash": "c3e83651af0c29cbc8129c370d1d7e133b59d213bb93b554c3c689cc3546b778",
+      "size": 97261
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1082_03.png",
+      "hash": "e210e290413668a691e6a0a90630be15ef9d4c72dad6ec784d1897d6e3b9a6f6",
+      "size": 102536
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1083_03.png",
+      "hash": "42037335bac137926dac295c4348f74e9bdcbf7729e49288854a8755d3786409",
+      "size": 60960
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1084_03.png",
+      "hash": "c4dc485e809dd4645952ac12fab3703e24328f7253b2d0aa3c0087f400b69fb4",
+      "size": 91730
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1085_03.png",
+      "hash": "4f36b4c83b0901f78f4146f9c76eea961d9583d27649f7eb33421c2ba9d7a67a",
+      "size": 101601
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1086_03.png",
+      "hash": "533c99d0aeaa08e8828a45c4cd10cf26fff2279b3c8ecd9f3e867d220262c4fb",
+      "size": 86108
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1087_03.png",
+      "hash": "98c1bdd58c7b6647eeb1a900cf7e94dbefab59c87d7b131bc07a22bceca3e01f",
+      "size": 95519
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1088_03.png",
+      "hash": "8f6e4438c1f8f028087fc12bb77de615464927b9241ef7c166bbd0c2c0e37760",
+      "size": 77316
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1089_03.png",
+      "hash": "7d225bf44be70cea546799cc52103b6fea037ceaf546b21b0e9f3ec421057cae",
+      "size": 94998
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1090_03.png",
+      "hash": "ea69f52300ff20b5f538e2b1f853de0943e14804835a7fab1fe52062471f69e4",
+      "size": 69109
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1091_03.png",
+      "hash": "62898ad9526f60fbabe4628bd85b74223adc90ae0a30a742424098871b996132",
+      "size": 56983
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1092_03.png",
+      "hash": "8f2a87c1c4af4e50f8c67bbbeeb68f4e01b7ecd9af1a26a09f308562fcfbeb27",
+      "size": 97054
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1093_03.png",
+      "hash": "679839111d77d769932d608132bbe4523cc401cea543f4cda0dffe477f23601d",
+      "size": 96650
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1094_03.png",
+      "hash": "7f37f24b9d6e55657d9aad2e4cbb0ce9b8685149fc099a98ee4373912ea5fa5b",
+      "size": 98477
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1095_03.png",
+      "hash": "d6d68b994e3af4401ef5813bb11a67dd2c9093d7b78c67946f0f476a3e92c917",
+      "size": 67059
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1096_03.png",
+      "hash": "cafd6e66f7cb330358ba57d0622e7174bf3fc33336a85d270d0baf7d6929fd51",
+      "size": 97696
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1097_03.png",
+      "hash": "99c5b6082d83c4fbb0cbf92bd062bc452520cccc811a941df189acd2380264ff",
+      "size": 92147
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1098_03.png",
+      "hash": "d3f7b9c8236694193712c8d4ef33f244e0fe4006cb7249857280ac6d624e5725",
+      "size": 99658
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1099_03.png",
+      "hash": "dae6560c32ebc80f607779c087a86498f356093f3e223b4f4136da9db1c1c914",
+      "size": 100693
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1100_03.png",
+      "hash": "a86b6db58ff4d22ace0ead535bbfc54bd513d4d901c999006d18b09155e3880e",
+      "size": 80862
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1101_03.png",
+      "hash": "a1f01c32e12d82c05868ef61fd69cc41cfc360fbddddded34b13eca3a8cea320",
+      "size": 84597
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1102_03.png",
+      "hash": "0de8319e4953d5506d4d8c42026e2270b4b4b179df7b2cd7d3ec74853afaf8b8",
+      "size": 98058
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1103_03.png",
+      "hash": "82fb44e29b4c5d675ad22025e42b9e3e78768f9735dde00921f836c5bbfaa4b1",
+      "size": 92444
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1104_03.png",
+      "hash": "ddc52ecf7da04b1644ef578d006d8782cad81a5ae3d1409c05e46bec33988a14",
+      "size": 86569
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1105_03.png",
+      "hash": "144fedeb445f6e13f0e3ac0613d747b49c585ce7b6bf42e14258fb1c605d6860",
+      "size": 81405
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1106_03.png",
+      "hash": "2bfc6bdc328966b4fe8476f2dbae4a46c29b13c98b15a1a26b6bbc51c6127352",
+      "size": 88586
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1107_03.png",
+      "hash": "aea79b57a61aef0eb96801817cce8123bbb51ebfbd143e6b843a9638d218a68a",
+      "size": 84113
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1108_03.png",
+      "hash": "b81275c972e1c1de95e51f56f9f7f8be182e67692537ae106a6f1ef338cad268",
+      "size": 109455
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1109_03.png",
+      "hash": "6e1c0956852b0b8730b7691dbc0ed07b84c56627c77c19e36eef8377b2d66f1d",
+      "size": 88081
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1110_03.png",
+      "hash": "f7bb265736b3e833764729b7648e9525dfa4d92841878a030616c5b7f016a474",
+      "size": 90277
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1111_03.png",
+      "hash": "88aaaa5d9902b0fe5550eedd6b38b6e3b998fa00d668cd396108983d222d8a6b",
+      "size": 94603
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1112_03.png",
+      "hash": "f975000adfbe74a4b22f08bd10d4558634f946a287b655d65a5bb6bc720a9a35",
+      "size": 99911
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1113_03.png",
+      "hash": "ca8785f4de750f965826bd5b4ce7adfe550b8e5f60cc706d544d8ff45656f89c",
+      "size": 114628
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1114_03.png",
+      "hash": "bbb7f6e7705d24853462c7366c853366c34b544bb2ed3ba18ee88446e7641446",
+      "size": 104418
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1115_03.png",
+      "hash": "0990abb5562d07100577719baa9214951121367cb88c9d42b618dc742aaf2748",
+      "size": 80379
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1116_03.png",
+      "hash": "c1df4637d4afd27792c400bb9b0b34b2e6a19b2439b5ca50b293d76716cbf482",
+      "size": 84418
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1117_03.png",
+      "hash": "47bb1a1e3641e78cc00940371d44eff16b3e0528e30adca932cd65160548e981",
+      "size": 86630
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1119_03.png",
+      "hash": "2beb43edc0de6f73bc5d4da0cda47f3fe5c83646efb05e1e75aefacaa3e17751",
+      "size": 89594
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1120_03.png",
+      "hash": "b798403884035b8883b2cc1afc5020a9db10311bca171b053dc6be2f59cb5f0b",
+      "size": 97510
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1121_03.png",
+      "hash": "ec91b0c1182d305d9ca3c2f3a93e578ea43e0191b2347a01dcf138cc4b5a3c26",
+      "size": 79104
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1124_03.png",
+      "hash": "98c340be372a8603389f1f53497ca846a0358920a5a2af2748a5fe5c33f758c0",
+      "size": 87056
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2001_03.png",
+      "hash": "d23707c2d4ab338e9c2a73a9c3dec1a6e4b43dcbf0c382cd05aec8a8e0d45c12",
+      "size": 98911
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2002_03.png",
+      "hash": "ba0119634a2d6bf5bcc90d3c2bc9ebd6d3080337918bb3b199179070d821467c",
+      "size": 88653
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2003_03.png",
+      "hash": "e8ee7c39d6da849799f3fa2879bd4a9ec1f7ef159e417a0a379a81ce9bfcfb64",
+      "size": 101172
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2004_03.png",
+      "hash": "7deb1253a48a036476b1eeebc10f68fe9b3cf0ff0668267ed0de38c80f1397a2",
+      "size": 58740
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2005_03.png",
+      "hash": "f661fb98a0cf045574e0c046fe86a39cb0b2b53ff27f1787533328ffc4455801",
+      "size": 99518
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2006_03.png",
+      "hash": "438d20ae2a32da27d4a1ded586bc4e2d187db7e90464cf56764957573412da6a",
+      "size": 103447
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_2007_03.png",
+      "hash": "4c1fc018f774c0f31d8eba15cb032f2fb01cdcfa19aae71966248a8ea2c2769a",
+      "size": 116692
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9001_03.png",
+      "hash": "a0eed5e3028ac2d83d5bf514193e7c43849ec8d0a53c3e505588ca4992b2902b",
+      "size": 97271
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9002_03.png",
+      "hash": "00a040c6d632a202e0cc5d92b34c60c878820f4d0353fafea3a2db9a64136a9a",
+      "size": 111151
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9003_03.png",
+      "hash": "afc88df2e15389b272c3417b53a90cb9753743314acdb9ca918489bc29883680",
+      "size": 108188
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9004_03.png",
+      "hash": "6b2148673393ae554e1f01a2778cdabcc4092fd190b2c2e0a671a69ed259d773",
+      "size": 90911
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9005_03.png",
+      "hash": "160cbc240091a527027571640065cf71ea4a022794dc029e4e3f6a05f7205db6",
+      "size": 132811
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9006_03.png",
+      "hash": "1b373cc8b929df327b37640928f82b6feeb6a7e9c36dc059fa307c74a07822c0",
+      "size": 88309
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9008_03.png",
+      "hash": "136d2831614ba56bd1b8e0149c9d8ee1b590778614f133a58ce149eba5b57d19",
+      "size": 90225
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9040_03.png",
+      "hash": "f7c14ec613ceb8cc76b51f319a8499b5a10803268b1804cf86e8b0503433c800",
+      "size": 105496
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9041_03.png",
+      "hash": "8eb3cc607a8950606e3ff3722497e447b8796d116deecc3fd0c5c21fd7a546d7",
+      "size": 120893
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9042_03.png",
+      "hash": "d68099ca5a02f88867fde9a9affdc9eafc20ac0658deb54e2cb7bd2d6857016c",
+      "size": 125648
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9043_03.png",
+      "hash": "71f7c619986ffee016f693402e4326be3782f0ca132c6a6ed18275570fff0c60",
+      "size": 78375
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9044_03.png",
+      "hash": "bce14cb1c4fc867b28e9ba2da45f5f7c1ab449a208fe2ab3e60227060425acd1",
+      "size": 111058
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9045_03.png",
+      "hash": "2a6bc5b1b983d6ad8cfad951ab75c30f5f6c5a588921b49469673711879867e5",
+      "size": 84544
+    },
+    {
+      "path": "assets/textures/item/item_icon_00042.png",
+      "hash": "a70ac7933d5070b48c268fad79ad2555118a4b6803ed2ef36639c7edfdfc0227",
+      "size": 57121
+    },
+    {
+      "path": "assets/textures/item/item_icon_00112.png",
+      "hash": "9d0e6f1142b881d931ae8820c8cbba0079469012acaa2124e954bf7de5518b34",
+      "size": 53552
+    },
+    {
+      "path": "assets/textures/item/item_icon_00113.png",
+      "hash": "e0aa0f0f699ce8f9927ccb25eff075c49bd25618ca365cc399d74afb488a0537",
+      "size": 56770
+    },
+    {
+      "path": "assets/textures/item/item_icon_00114.png",
+      "hash": "8a066e10df91f2d27d2d4a905b2c76ef25603ce982bfb78f1531b2ba5a1b14dd",
+      "size": 56909
+    },
+    {
+      "path": "assets/textures/item/item_icon_00130.png",
+      "hash": "2ab760f089280be14813f082916d2d6bb9aca99a541f96f87ca22f735fab677d",
+      "size": 54624
+    },
+    {
+      "path": "assets/textures/item/item_icon_00131.png",
+      "hash": "b4333aab88560bc33033567d8d45e389a92694de35173eb19dad29432961cd79",
+      "size": 56809
+    },
+    {
+      "path": "assets/textures/item/item_icon_00135.png",
+      "hash": "529ed0ef1ad2f18881608d9b86fb068c0147808dfa1c48350b1e06994fe40456",
+      "size": 53982
+    },
+    {
+      "path": "assets/textures/item/item_icon_00136.png",
+      "hash": "09579e76290c84c33a0dd68549fe07766ec81283189e5c855f7bb47d17ba0f27",
+      "size": 54052
+    },
+    {
+      "path": "assets/textures/item/item_icon_00140.png",
+      "hash": "417bcfa79e25c5d787fab907818cbabebfd5472e32508e85264e21ce43f26c5b",
+      "size": 54782
+    },
+    {
+      "path": "assets/textures/item/item_icon_00141.png",
+      "hash": "bba0d74ffad1762e38577672efbc7c66075c7ee0742d9361c9454dfb205750e3",
+      "size": 58811
+    },
+    {
+      "path": "assets/textures/item/utx_ico_aoharu_item_01.png",
+      "hash": "4525b5197fbd88088eeae8b5a7548da1ffc27646e2437b5bb8987474a798ec4b",
+      "size": 31793
+    },
+    {
+      "path": "assets/textures/item/utx_ico_aoharu_item_02.png",
+      "hash": "3d64398fdcde507c2bee48db48d6a3512622a9bb06eba263e14c31d8739b64fe",
+      "size": 35736
+    },
+    {
+      "path": "assets/textures/item/utx_ico_ending_item_02.png",
+      "hash": "c032afc6c1cce0d4936087e8fdfe1d4e1514d182ea9624cf6ea88def39c9fccd",
+      "size": 38171
+    },
+    {
+      "path": "assets/textures/item/utx_ico_rival_item_01.png",
+      "hash": "c72c9c759558d0ad39185b8b1655c10f681a106f1faa96775ac7309d5994491e",
+      "size": 40600
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1001_01.png",
+      "hash": "5f25187c04880c604571664c73e2be1e2111cb3ce04879a71b1fab2c5214ab28",
+      "size": 546451
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1001_02.png",
+      "hash": "aa0d49c341a061aba7e136a929e14e421c64d98018e0af5e74a8b24c0ffe0dcc",
+      "size": 498036
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1002_01.png",
+      "hash": "04879fc76599b1aad66de631401c0fae5dd1a5c102b6e9087b6e7406aca517c6",
+      "size": 499325
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1002_02.png",
+      "hash": "b2ae47a91c577ba0c5e09945189dd7a50331e654f9288eeabef92d358be84bb0",
+      "size": 637394
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1003_01.png",
+      "hash": "b0316777ebbe14a059c173a2e37d5d6ae2a55851f248f9e5289fcfe818926cb8",
+      "size": 621744
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1003_02.png",
+      "hash": "e3757a02f64037d73f9a54a7cc98266d6c6f0e11ca7bd94c3555dd05f1aa8d2c",
+      "size": 651160
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1004_01.png",
+      "hash": "4f3985a322eec27b11c9bdde15031061f0d1b879cc95fa1da952627886db3744",
+      "size": 526885
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1005_01.png",
+      "hash": "f4a14398a5ed5600bc50eaf2eec570f58bdbc26c2a1d2898c830b74b9abf2af2",
+      "size": 752945
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1006_01.png",
+      "hash": "5b65b7ec7678b232e9d2a1cf5386dea129638504bf4988516a1891afa695190f",
+      "size": 597879
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1007_01.png",
+      "hash": "092f2abd506f28fe198feaf60e9d3b049dd6e4f7122d662cdfce2a6924da873b",
+      "size": 617653
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1007_02.png",
+      "hash": "a1b44589100ab634e4f168b875638b65d17fa4182205930432131d85d9cd552f",
+      "size": 545611
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1008_01.png",
+      "hash": "a5cf445c41f955d270434e1107314fc0ab14fabe54fe999b9450e68278a5d77b",
+      "size": 574653
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1009_01.png",
+      "hash": "fe74fc4bba381e407e5e751354e126056c427005021ca4b837675cd90b8b32bf",
+      "size": 593701
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1010_01.png",
+      "hash": "2bd1056cfbff0e312267f2eb4e3563aa7b7cfe5392467964ffee533657b7d23b",
+      "size": 553539
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1011_01.png",
+      "hash": "c7fa49d6edd5f9b4757cb600f4f049d50e234bd629010cb2784f111dec8c83a8",
+      "size": 688886
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1012_01.png",
+      "hash": "3121fbb1cef29199b0954cb156d443271701953cee91c079b93cb7af9a06ab4c",
+      "size": 698908
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1013_01.png",
+      "hash": "7608d89a1d90f82217f73aee1d85733ca2bddec68ea637927fd91ecb42c33eb8",
+      "size": 509084
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1013_02.png",
+      "hash": "f45aff7057a16e40e3096ceebcc1d2fb9b5ca6f226042e3ade7420526b9fbee2",
+      "size": 529054
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1014_01.png",
+      "hash": "0c1fb5ce63393472f10c176e76c42703a6aeb40146ab293c0701269fd21736d1",
+      "size": 728983
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1014_02.png",
+      "hash": "00bc999dae139cb5529f3f634f3b29a664c54dfbd9c51220bc54704a1e3858da",
+      "size": 610640
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1015_01.png",
+      "hash": "0e62b4dea08c2181516d6a734ba0547106826232d801f59d308998a4ac43a7d7",
+      "size": 578740
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1015_02.png",
+      "hash": "d1ed3bd7b85a7f807747e9bd97520f89d7268238e0abe1f860b7096dbb2204d2",
+      "size": 517124
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1016_01.png",
+      "hash": "c4155a2fe54af0ca88305c37b5ebe97ac536bb2ae1312ca4f7cc9c0c292ae839",
+      "size": 526617
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1016_02.png",
+      "hash": "005d92680c7de1b68cfae23f1c9d3b0f637cd223509132b64b8bb9240f70ac52",
+      "size": 589403
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1017_01.png",
+      "hash": "99b75346c3e3d0fcf9f9a5f2ccc5702523e8864f0cb481c4d4027394dee7bfdb",
+      "size": 637167
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1017_02.png",
+      "hash": "f298821234d388447dee957a1a728fae1c0e28b2fec9694ef82206a8e26c590a",
+      "size": 688827
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1018_01.png",
+      "hash": "79fb1110f46cbe7fb1f8eb3bd0b6d555e8baa34763427204e55d40f286ae4b77",
+      "size": 660440
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1019_01.png",
+      "hash": "4e3c301c11b5e9d72d6a692d375898810da26d363efddec37bbb1763557c0e4c",
+      "size": 552210
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1020_01.png",
+      "hash": "f9247e4df060cabc46f8d166432ec3c0a109a0fb874a02339c47a25b59bd4351",
+      "size": 667826
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1021_01.png",
+      "hash": "a4f79810a6a489bbc5e51e6859e7846cf8cc62c9a0f5a718499fab1a10d6070e",
+      "size": 675950
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1022_01.png",
+      "hash": "53e87a59f98df46b1ab8da184f406f5ad7440a62dbe8a774ef076d92530d103a",
+      "size": 517511
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1023_01.png",
+      "hash": "c83682430c06023d8ecdb9d29ea6048dbf25d3f3fe0b3132db1545521059404d",
+      "size": 487279
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1024_01.png",
+      "hash": "b3ad966d43dde166c32316f2d990f2df94ad058605868bcc164c21bc03c2a3b9",
+      "size": 516084
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1024_02.png",
+      "hash": "cab98fdc271e4875b8ce9de4f6a450ec085d8485b8e48c6775c9aaebec8c5618",
+      "size": 596426
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1025_01.png",
+      "hash": "be35e13f612d463be3b726d721265ff93329dc58ef9378bd8ce507448ea03ddf",
+      "size": 563455
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1025_02.png",
+      "hash": "b583df59857d756d7fd90457bbf7b9864ee303897a757e6d58d2fc102d50a456",
+      "size": 568300
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1026_01.png",
+      "hash": "b0ffb80a1b634a7b6015832feb545699f7ff3ff467a86ff95aa6653cd61bca03",
+      "size": 652096
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1026_02.png",
+      "hash": "0b44afe08b9688ad77ae6b457f1b8bf78abc233128760392feb72160ea2a9d90",
+      "size": 639054
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1027_01.png",
+      "hash": "ecb4fb5c31cc74740e57c6afec21b1aa35577d9c85ad650d7c27923f7ec6af7b",
+      "size": 538653
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1027_02.png",
+      "hash": "2f4fe6f922e8457e8fe5d08da23a2209ed363ba11caaae17c923951d6caf7377",
+      "size": 624205
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1028_01.png",
+      "hash": "d08142fb3fce4c2f826be55dec98c30e1ea8aeeafdc7bfb72cd7b09b18ee4cb0",
+      "size": 577546
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1029_01.png",
+      "hash": "231e89cd49b658b6345077a3e1fb880baae3444dc7661aa5e217debf887b0c71",
+      "size": 588323
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1030_01.png",
+      "hash": "1286c3efd57d8a194449f042e4b8bcf64571ca909a3dfe9b765e96b8b3d2ff33",
+      "size": 669294
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1030_02.png",
+      "hash": "a54828a6b00bc2a30846d5cfd4a15e96611e3cff91cae96e532819057dd4d98f",
+      "size": 541932
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1031_01.png",
+      "hash": "c1aa8990cf31a8cd53bf19b15108f34452d623cfb0954d7cfe0e40c926aae2ba",
+      "size": 583554
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1032_01.png",
+      "hash": "53b58dc65fbf0784903c45bf689371cf8e330a53986eb155d620f54c082ea4da",
+      "size": 579356
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1032_02.png",
+      "hash": "3bed982e7f8c35552211715f5eeddde67ecced66433981b814e00ece64e16960",
+      "size": 520628
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1033_01.png",
+      "hash": "a414fd86fcee59ef41513e779de5d12c891a5ed38de1a17eea89d8c65aa07b11",
+      "size": 665314
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1033_02.png",
+      "hash": "d7b97eaf41da6b1cbbe16460cf81285a03d4ad0030fa134171b4f6f4b7892bd9",
+      "size": 568793
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1034_01.png",
+      "hash": "8f8f76fcf1d8492dcd5250a1a0e55e1ca26e18c17e7bf6b49813a2ab8cf0c37d",
+      "size": 619228
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1035_01.png",
+      "hash": "faef82b1afeab2b60666e94566748b8856b4bd3548fa10b2fbf56c18edefcebe",
+      "size": 696845
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1036_01.png",
+      "hash": "f6ac4293095ab31b19f9626caa9b06e2f9b93dca30892f72cb98d68376db95c7",
+      "size": 552360
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1036_02.png",
+      "hash": "b2ceeb173f4f4e23caf4eace832301a09b437bdf8901c48494374c4ce418d5d9",
+      "size": 647348
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1037_01.png",
+      "hash": "e5454a0a1e91d3c91abdf5b41802811b404f82848a100d81b7cc73c3a2810872",
+      "size": 592451
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1038_01.png",
+      "hash": "b1c7db03546285d742df9fc7501f35ecdc138a4c1d069e83b55bb93f81db5dae",
+      "size": 546460
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1039_01.png",
+      "hash": "c9b3daeab64501287c965e9ba67b596b0c46795d3d1a518dca5f5c7baf0fc1dc",
+      "size": 635877
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1040_01.png",
+      "hash": "4a6f3c3010bf2d04406f470f662ce7ab89cd58b7b5e13ef23c17abfecfee1ba2",
+      "size": 632143
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1041_01.png",
+      "hash": "f3c935dadffb0986017e0ac0408601a6f49eeda448593fd84df361c7ed4aabe4",
+      "size": 570843
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1041_02.png",
+      "hash": "b2231d7ec43ed5f3d460bd1b55e55afe7542c6894bd15b0f1d1bb040702bb379",
+      "size": 506109
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1042_01.png",
+      "hash": "59fc5960afcd655e75435b2bfeff2aa62423aadf1d6997979496ee7efa5d597a",
+      "size": 622496
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1042_02.png",
+      "hash": "2408792bfd338156ce97acadea269d194e4026c3f2f06092e289772e070a4cef",
+      "size": 640345
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1043_01.png",
+      "hash": "34f7831d6275dfe1c76b77559b311fbf791cf4be2225265c36862d6a55865600",
+      "size": 585121
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1044_01.png",
+      "hash": "028c189bfcc3f527b5137ad2f877536f9b39a9abc824cb0477b4d44caaf5c64d",
+      "size": 625403
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1044_02.png",
+      "hash": "3ee1eed3a677b759ea84d0ad92123fa3d286dc2c9ad77b2556b86340ad94e0c3",
+      "size": 596961
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1045_01.png",
+      "hash": "0e30e2e9a24df4dc868ea2ea2c45474c2857ab68c59ece7eb6fafae46dab6c67",
+      "size": 507809
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1046_01.png",
+      "hash": "7559012c10cf03cf003202c1ee8210f464f9dcdefcffe72374e64fb127ef6dc5",
+      "size": 599347
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1046_02.png",
+      "hash": "f5145d2e706dad45216cd40f4079e5a93aa75c485bbab1b6f4d901b5b55865e2",
+      "size": 579979
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1047_01.png",
+      "hash": "702b725cc1dfd9d00683030c45415198998c1e34e431f473101f069fb90524e5",
+      "size": 643255
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1048_01.png",
+      "hash": "2c26a7a3b8d31f1ca790d7f05483b588a7025be568cbd61ef57ae90448be9a08",
+      "size": 562154
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1049_01.png",
+      "hash": "c1ce5db8e6a46f05eacf78fe195fecf220784b62bcdb69ef6a6293933eedf290",
+      "size": 671371
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1049_02.png",
+      "hash": "4492ca31fb3b632e6d88c3fccc3dee64a6234fc02289cfc5fb68008c93fb9865",
+      "size": 580339
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1050_01.png",
+      "hash": "90160caa783f08c009335ba2e86953ce60f13f13cca2db97019579e00d124ab7",
+      "size": 533470
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1051_01.png",
+      "hash": "7bcde08b9fbf623a50e9e04e943378f1340c91b356efe9b526f8c37465df6df6",
+      "size": 496578
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1052_01.png",
+      "hash": "fb957717c857f2cf01cfd7851fb9875394214ab85cc0e80da18600dc33d82bdb",
+      "size": 515543
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1053_01.png",
+      "hash": "769e1ca87ad27c31c78eba40b17c370d9fdff7a292351e78b59f4ad5d97054ec",
+      "size": 600733
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1053_02.png",
+      "hash": "8c6dd82c978a2447c2d06eaf557ef7f7a0497d85a76ace4b2deaee11e1501a4f",
+      "size": 680645
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1054_01.png",
+      "hash": "3cbe9ad8acad0e78e535de4a95b950ff2e7a2bb124a1b45808163d2a79c01849",
+      "size": 526099
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1055_01.png",
+      "hash": "8808cff39f54d90457efabef4fe45c19c82ce2ebbe4845a589652498a32e97f4",
+      "size": 681117
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1055_02.png",
+      "hash": "1fa23d728fc2ef1a3a11d7927870f0c1ee71d26ea070954f53f596691b3f5e3e",
+      "size": 590901
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1056_01.png",
+      "hash": "467b010c0edd9c1c8722ddcc8f8189a09e2e662099b04d707f1d2d6631656f12",
+      "size": 633387
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1057_01.png",
+      "hash": "680b3588957819a89e1b19e7fa62c53570ec1320a6f44ead56e89da79a0d8943",
+      "size": 578739
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1057_02.png",
+      "hash": "03feaa0cb01489857c346a036ffa9c1146647b476f0fa278d42935232dda4745",
+      "size": 598160
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1058_01.png",
+      "hash": "4e1631cca4c5ed822569e54964171e036ba5bb37ebcb8759be996adf6dc8c28d",
+      "size": 607974
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1059_01.png",
+      "hash": "e623062bc62efa69cdaa64395a93ff38511b430de65e4e420f757ff0d27dd153",
+      "size": 573309
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1060_01.png",
+      "hash": "c8f0a8b974b223b6136b6c56c439bf6992a55a4656f063a54a7e29c7394a792a",
+      "size": 575786
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1061_01.png",
+      "hash": "11113b452288129812d3fc8f8bc732880468b3e408aaf1b834fb8d3b597cc803",
+      "size": 536796
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1062_01.png",
+      "hash": "b60e71db9be9254747f443000e22de45c54ee644dd6d31ca40383b4768014b61",
+      "size": 514813
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1062_02.png",
+      "hash": "efde8cd6e78490559f1a15bbc31138ebb93fdcac22ee7cb8646f7dbda4e473c3",
+      "size": 573746
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1063_01.png",
+      "hash": "2614ef36813b773cf0ae6275278fc38a9078980bb2deb9d752dd48b7317bacb0",
+      "size": 517096
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1064_01.png",
+      "hash": "bd6020300445567d6d4619e72c4f528c9e2c3bc55bab4a664d3ac273b60c8282",
+      "size": 625587
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1065_01.png",
+      "hash": "1bfece2fea88b3ae790df62fbe34065bd4c2717cc4dc9ccfb0b2dc0d50b78959",
+      "size": 564489
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1066_01.png",
+      "hash": "02250cfe01d70a40fa9d76c09abc03123e76a22b90e3ed99ed42fdc6b7b9f108",
+      "size": 635141
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1067_01.png",
+      "hash": "f36589d121bde1a048614694ccbcb684bb22f5cef04198e8ca575add020031a2",
+      "size": 614289
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1067_02.png",
+      "hash": "f5e23ca2bbdc21ea9c3ef9e8d0cb333094479679bbccd6b162784c37adb17482",
+      "size": 622908
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1068_01.png",
+      "hash": "20afa5bbafcd20940644bccc98c692a10200c18848884dc5c9e1009c2b77e46c",
+      "size": 605238
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1068_02.png",
+      "hash": "f683f22ba00ea1f104465e240015cf3ffe803c3580ae50ba1286487bb1d514b5",
+      "size": 621867
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1069_01.png",
+      "hash": "718a273e4d7bc0d3286389eda0b606e102f9c1d98472a53e34e5c27d215bcfaa",
+      "size": 464900
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1069_02.png",
+      "hash": "8d6cb6f1e2a5e2e5deab9bd6bdd3df249143b5fce0ad6a75fe2deedd0c202d9e",
+      "size": 570321
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1070_01.png",
+      "hash": "3c20f699c2bb77f4c12b50d0f5869c850df1a0855320a56a7c86adf46efb03e2",
+      "size": 637725
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1071_01.png",
+      "hash": "1833a90145de1c9ec3320de585dae90c01aba44f737173070842bee81ee55358",
+      "size": 529210
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1071_02.png",
+      "hash": "dd20c4e0c2d9619e031c543c3301fac3781bc72a28a50a5a4e1f8bdd74ade77c",
+      "size": 669885
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1072_01.png",
+      "hash": "ec9e1207829f06d07a054efde79f98138853f568d1d42eb9684aa3e27568dd27",
+      "size": 513964
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1072_02.png",
+      "hash": "7677175b6bc490e9242e3d757eff8e41715ca84883a43844cc036a97fdb87295",
+      "size": 635385
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1073_01.png",
+      "hash": "10d44a0c4fd716ab1134e5bfc8290d6428cceff9e4791c93e92903675d06ff0f",
+      "size": 613377
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1074_01.png",
+      "hash": "9f4e578c6441e59e847febf2dcb60d6be2e659b77116b02335812662c468900d",
+      "size": 693035
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1076_01.png",
+      "hash": "7706f332c5154d191c04fbf7c31722e978c5fbea14467d1adf06ad281cc16629",
+      "size": 627855
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1076_02.png",
+      "hash": "ffb44282d5b6184fd77fa78254acc7770e7b237d3313f33b104531d2975ec037",
+      "size": 579683
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1077_01.png",
+      "hash": "c31becca26d84b7416c7f9c7e5c26bc13858bf2a83898a16a94607cf809d8da5",
+      "size": 578828
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1077_02.png",
+      "hash": "75193656a14fce6f0e11629e7247f243a587149195c5cc0b971de7238a1de43c",
+      "size": 611455
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1078_01.png",
+      "hash": "f82598f5735b61685da086c1d5a1d1f3e72f24fb3bc920cc31a60c69c0c8d14b",
+      "size": 645568
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1083_01.png",
+      "hash": "5a3c46aafef790daa983d9bcc4edc42a50ade043f0ff1edf78c180e18598a2b5",
+      "size": 524039
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1084_01.png",
+      "hash": "b9b55cb3fcd04f58ade3ec681f47a61753c76c847d663dba4c9e5ee0b6d2f1fb",
+      "size": 566180
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1085_01.png",
+      "hash": "d18e50305aed2373f31f531120b76c09049e9f2d9f495cb401599f1681260664",
+      "size": 634041
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1086_01.png",
+      "hash": "8b824b761e7d657b448b6c7028abe573bccb79b06404637929d0f0c57ccff4c5",
+      "size": 741594
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1087_01.png",
+      "hash": "80f144fa5d96a4c915e670591cc837b7d8b82259af88838f5545b967ea436237",
+      "size": 525450
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1088_01.png",
+      "hash": "d40f5af90f7cbfbe78721dd216b4d6db8a03add39e3c8e16012dd11880e96305",
+      "size": 552826
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1089_01.png",
+      "hash": "16359b852e93c5af15f7533b7c78196c74054567b3fa068060678724ec71a574",
+      "size": 604822
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1093_01.png",
+      "hash": "27e9147dd665907922f14d085edcd1527e49a7e5f664aa45f228201a1b56707b",
+      "size": 523961
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1094_01.png",
+      "hash": "5ab88063b091eacfb7df087b39d4af84fd9403134f043ed56dd56321221de958",
+      "size": 614120
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1098_01.png",
+      "hash": "3b9d27298b8524cd12bf367a643de4fe0a5df55c1de8b6c6502acc79e560000e",
+      "size": 627965
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1099_01.png",
+      "hash": "99fd4bdb859627eb3b78c18ef1798bd8d4311da99e956b8d16714d226217cfd3",
+      "size": 517883
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1100_01.png",
+      "hash": "65fb0ee78e145a36dd055573187e2f9e5328f788024bc0c93f6bf639b24dd39b",
+      "size": 592250
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1104_01.png",
+      "hash": "0c565ff6495c1f4e9d39d4cddfb7efb44a787fd327b6019f481f0df268b6db2c",
+      "size": 573690
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1105_01.png",
+      "hash": "d98a07d327953cd98d4500884a43afa9aa428093bd688c93357a34f4bff07f8d",
+      "size": 786287
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1106_01.png",
+      "hash": "08188bb5c0ca23afc4c84486442743f6c1cc226cd32d00fd1d6a099007e5acc0",
+      "size": 643045
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1107_01.png",
+      "hash": "7959de94b880919b33bfb42b89180aa56ee8679b79e56713da5a97e768dfda8e",
+      "size": 746430
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_2001_01.png",
+      "hash": "ac62906d88b0c4a63134a7835294e21f6d545646faa519f23b4084547d16aed6",
+      "size": 556573
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_2002_01.png",
+      "hash": "6b22adfbd61384c940ca1fbda461d30f14e87154e26a273962a470ed3e10eaf4",
+      "size": 656054
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_2003_01.png",
+      "hash": "61abc1b79f1971fe76f8efbebfc561ac594384f745c2c9e97524b6ac66df2f19",
+      "size": 562752
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9001_01.png",
+      "hash": "d63e55191fc6a9e909938e2f3a0020f9899a6cf0d16a77ed08a0f8a9f5c8e93d",
+      "size": 504820
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9002_01.png",
+      "hash": "2a33072b6c12b70467ae3961e2ec0c382b3d9cb8237937e2d6a8d4ee782698e0",
+      "size": 556140
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9003_01.png",
+      "hash": "bb9d606f2d183c35ea9706f78df915a1b105baa6fe41bf716faf0eee591e8ba8",
+      "size": 529202
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9004_01.png",
+      "hash": "9d697e4e823d37b2f3e27accab310dd7771d6869ce641e4a37ccfaec521bb158",
+      "size": 532176
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9005_01.png",
+      "hash": "3166fdd152e37803590612f975d5dae4c4e41759389038fa59f028c82a8069f9",
+      "size": 571440
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9006_01.png",
+      "hash": "1264ab38322ac0c10c2f9effd4e5571e46188200223e73e0f2fdf72d8937cc57",
+      "size": 538076
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9008_01.png",
+      "hash": "b408c8f455e8881e0842b64174780d897e37077acce97c238a9c2f2e071828f2",
+      "size": 537976
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9040_01.png",
+      "hash": "9061430297ba35da84b1a39473f6067e271fc3e0503e625de41d36aae6a85319",
+      "size": 714490
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9041_01.png",
+      "hash": "81cc386435e551acb3609aa0594a2a5f37ba988d185decac27f93d68781c15a1",
+      "size": 519968
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9042_01.png",
+      "hash": "5a25ee0ddaa3acef89ffc0cd49b892637116bbdee5f14a9b97ee70ed89862b40",
+      "size": 793153
+    },
+    {
       "path": "character_system_text_dict.json",
       "hash": "c6e844a3668ffa1888c4dd345b91fa4a23208c925d7ac460ab1026badd77f650",
       "size": 2258482
@@ -78645,8 +81745,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "edbc519e8b1acdb40b00bee8aae1de497213ec39b1630e08b4df6198f4368f0c",
-      "size": 327579
+      "hash": "3b593113aa351351472a5ba8da143b0e73ae05c49906400d01533c94da2c6a90",
+      "size": 337681
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -78660,8 +81760,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "75df09474780274aaee9a1530a6cdaec44503e43acb45645c9c6a02e0eb4f8ec",
-      "size": 4574215
+      "hash": "9f80a7bafe8525f10075887240ff798f761dbd3ef9277e6db7deee756d3420ba",
+      "size": 4589646
     }
   ]
 }
