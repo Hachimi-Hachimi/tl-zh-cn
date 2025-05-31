@@ -1,0 +1,347 @@
+{
+  "Title": "东京大赏典にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "对战绯红新星、三连战的最终战。\n『东京大赏典』近在眼前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "今年的收官之战……。我在这场比赛的表现、\n可能会极大影响外界对船桥的印象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "若能有精彩的发挥就能得到认可、\n如果表现平平则一切照旧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――我们就是挑战者。\n所以我们无所畏惧！",
+      "ChoiceDataList": [
+        "没错、让他们见识下船桥之魂吧！",
+        "没错、让他们见识下船桥之魂吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我们已经做好了破釜沉舟的觉悟、但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "绯红新星……。\n不知道中央那边此刻作何感想呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "她们似乎有着与我们截然不同的顾虑……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然无法准确揣度对面的心思……。",
+      "ChoiceDataList": [
+        "试着想像一下吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "想像……？\u3000想像中央那边的想法吗？",
+      "ChoiceDataList": [
+        "嗯啊、也许能搞明白什么",
+        "嗯啊、也许能搞明白什么"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……说的是呢。\n或许猜到的对手的心境、\n能成为胜负的关键。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "想像……。\n中央选手的心境……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（汇集了全国强者的、中央特雷森学院。\n君临其顶点的赛马娘、也就是――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（――绝对的强者！\n那样的人、在奔跑的时候会想些什么呢）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（『全能』、『兴奋』、『幸福』、\n亦或是践踏弱者的『愉悦』……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（究竟、会怎么想呢……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当晚、我和狂怒乐章共进晚餐、\n看着电视时……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视主持人",
+      "Text": "那么、当前即将到来的『东京大赏典』。\n对于迎战地方的中央方面而言……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视主持人",
+      "Text": "是一场绝对不能输的战斗啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "听到电视里传来的声音、\n狂怒乐章突然停下了动作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视解说员",
+      "Text": "确实、因为中央与地方的交战成绩差距悬殊啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视解说员",
+      "Text": "希望她们能堂堂正正取胜、\n彰显中央的强大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视主持人",
+      "Text": "是啊。参赛阵营想必\n也怀抱着必胜的决心吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "必胜……。\n绝对不能输的战斗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "与我们立场相反……。\n即是说……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……原来如此、莫非。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "狂怒乐章微微点头――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……\n我似乎有些头绪了。",
+      "ChoiceDataList": [
+        "中央阵营的心境吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。我听了刚才电视里播出的内容、\n突然想到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我们赢了就是爆冷门。\n即使输了也没有损失。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "而对方的胜利被认作是理所当然。\n所以如果输了、就会饱受苛责。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "王者就该强势、王者应当从容。\n我曾经是这样认为的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但或许、实际情况并非如此。",
+      "ChoiceDataList": [
+        "原来如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我与狂怒乐章一样、\n对中央身处的立场一知半解。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "赢是理所当然。\n而长期被这样看待的中央阵营、\n她们的心境恐怕……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『东京大赏典』开幕。\n绯红新星、今天依然威风凛凛地登场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "一如既往的从容。\n尽显王者的威严！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "只是静静地闭目养神、\n对周遭的喧嚣毫不在意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（不对……多半……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（她并非不在乎周遭。\n或许是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（中央阵营、根本无暇顾及周遭）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（――必胜、长胜、绝对的太阳。\n胜利天经地义、失败绝不容许）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（若是败北、不仅自身蒙尘、\n还会伤及中央的威信）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（要是每次都要背负此等重压奔跑……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "哪里还有余力……开口说话啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "那个身影……\n并非傲慢的王者……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "而是身负千钧重担的、孤高的王者。\n那我该――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我该怀着怎样的心情奔跑？\n该以怎样的心境去挑战……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "冲啊――！\n超了她、小乐章――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "是呀。我们早就不是任人宰割的弱者啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "追逐着中央的狂怒乐章。\n她的突飞猛进令船桥阵营士气大振。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与中央并驾齐驱的目标已非遥不可及的梦了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "心绪还没有整理好……\n即便这样――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只能拼尽全力了！\u3000既然对手压力巨大、\n必定有机可乘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

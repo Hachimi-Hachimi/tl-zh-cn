@@ -1,0 +1,195 @@
+{
+  "Title": "夏季集训（第2年）开始！",
+  "TextBlockList": [
+    {
+      "Name": "训练员",
+      "Text": "――夏季集训。\n是赛马娘们的集中强化特训期。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正好狂怒乐章也要开始最后的赛前调整。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――差不多要到了呢。\n目标『日本沙土德比』。",
+      "ChoiceDataList": [
+        "是啊、到最后冲刺阶段了！",
+        "是啊、到最后冲刺阶段了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好的。这个集训地靠海……。\n让人不禁联想到船桥的环境啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "就把这里当做是船桥、开始特训吧。",
+      "ChoiceDataList": [
+        "好、就这么干！",
+        "好、就这么干！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我们开始了奔跑训练，不过――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这里与我们熟悉的海边完全不同啊……。",
+      "ChoiceDataList": [
+        "是啊、确实大不相同……",
+        "是啊、确实大不相同……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "说到沿海、就应该是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "填海造陆的混凝土地。\n成排的仓库、来往的大型拖车。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "相比之下、这里的风景\n未免太过诗情画意了……。",
+      "ChoiceDataList": [
+        "凑合看吧。专心训练就是。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――是呢。这里是这里、而且\n景色也不错呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员",
+      "Text": "在充分完成了训练后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员。这片沙滩该不会、\n能做“那个”吧？",
+      "ChoiceDataList": [
+        "“那个”啊、还真是！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和狂怒乐章、\n就像以前在海边常玩的那样――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "狂怒乐章同学、来玩吧来玩吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "诶、双手撑在沙滩上是在做什么？\n隐形眼镜掉了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "搞毛呢……难不成被海边的混混找茬\n逼着在这土下座？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啧、哪来的魂淡！\n老娘要把他们干到狗叫！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不是的。我们这是在――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "赶海、拾潮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊？\u3000干海、尸潮？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "没错。就是在捡贝壳。\n要说海边必玩的项目、非这个莫属。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "在船桥可是有很多人玩的。\n还有在三番濑、江戸川河口也一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "这、这样啊……。提到海边、\n我还以为就是沙滩排球或者拍写真什么的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这有什么意思啊。\n难得天气这么好、非要把脸怼地上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "这也可以兼做绝佳的专注力训练哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "好了开挖吧、训练员。\n现在可不是偷懒的时候。",
+      "ChoiceDataList": [
+        "好、我挖我挖……",
+        "好、我挖我挖……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊、真是对怪胎。\n你俩、简直了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在希望城傻眼的注视下、\n我和狂怒乐章专心致志地挖着贝壳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

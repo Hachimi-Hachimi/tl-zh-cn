@@ -1,0 +1,180 @@
+{
+  "Title": "チャンピオンズCにむけて",
+  "TextBlockList": [
+    {
+      "Name": " ",
+      "Text": "『冠军杯』。\n赛场从大井换到中京的、\nvs绯红新星的第2战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员。上次、我们面对的是\n刚从海外远征归来状态尚未恢复的敌人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "但是如今的她――已经完全取回了原本的实力。",
+      "ChoiceDataList": [
+        "是啊、明显对面的状态更胜一筹啊",
+        "是啊、明显对面的状态更胜一筹啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": " ",
+      "Text": "经验差距再加上、实力回升的势头\n一场苦战在所难免、但是――",
+      "ChoiceDataList": [
+        "即便如此、也要全力以赴紧咬不放！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是的。上次我们甚至没有被放在眼里、\n但是这回――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "一定要让她认识到。\n船桥――不可小觑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "差不多……了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "啊……来啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": " ",
+      "Text": "（咔呲、咔呲、咔呲、咔呲）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "绯红同学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "绯红"
+      ]
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "醒目飞鹰？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "那个～……人家来为你加油了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "处境很艰难吧……。\n不过、要加油啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "处境艰难吗……。\n我本以为没人会这么想的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "――你能明白吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "当然啦。因为人家是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "马娘偶像呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "马娘偶像……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "没错、人家每次都怀着与绯红同学、\n同样的心情站上舞台的啦。而且……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "只要是中央的沙土赛马娘、\n多少都能理解这种感受的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "好嘞选手登场了！\n绯红新星、以及狂怒乐章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "中央与地方的王牌对决、第2战。\n这次会展开怎样的激斗呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "绯红新星",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（一如上回……那双眼睛\n根本没有看向这边……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（是觉得船桥赛马娘根本不值一提吗\n但是……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（我们怎能郁郁久居人下。\n相反越是被看扁……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（我们越是会变强。\n这份层层累积的不甘――\n终有一日、定将超越你！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "Title": "二月锦标にむけて",
+  "TextBlockList": [
+    {
+      "Name": "狂怒乐章",
+      "Text": "哈啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（『二月锦标』！\u3000究竟谁会参赛呢。\n飞鹰子同学、希望同学……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（无论是谁、都将会是……\n船桥vs中央新世代的战斗……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "嘿呀啊啊啊啊啊啊！",
+      "ChoiceDataList": [
+        "狂怒乐章、稍微控制点！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "随着与熟悉的对手交战之日的逼近。\n狂怒乐章拚命地压抑着情感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呜呜呜……。不管曾经受到过多少关照\n……都没有关系……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "一定要战胜她们……！\u3000希望同学……\n飞鹰子同学……或者两个人都……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "究竟、谁会出战呢。\n然后终于――到了公布参赛赛马娘的日子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "宣布参加『二月锦标』的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "哈喽哈喽、是咱创升。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "首先作为新世代的一员、\n就让咱先挑战一下乐章吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "创升同学……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "创升"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "创升也是、\n与狂怒乐章关系好的赛马娘。\n还是提供过珍贵情报的恩人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "好喽好喽、看看目前的比赛预测、\n有了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『王者级的狂怒乐章占据绝对优势』。\n呼姆呼姆、原来如此……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "嘛、既然如此、\n咱就轻松上阵吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "既然没被盯上、倒是能自由发挥喽。\n这算是最理想的情况呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第一次身处被挑战的立场。\n这对我们而言是未曾见识过的风景……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人",
+      "Text": "对身为迎战方的狂怒乐章来说、\n是一场絶対不能输的战斗啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解说",
+      "Text": "是啊。若是面对新鋭对手表现不济、\n难免会让人产生\n『地方赛马娘果然还是……』的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "是啊……。如果在这里跑得难看、\n我们一直以来努力提升的船桥形象会……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "要赢……。不能输……。\n无论如何……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "原来如此。\n这就是迎战者的……心境……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……。",
+      "ChoiceDataList": [
+        "是啊……压力、太沉重了……",
+        "是啊……压力、太沉重了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但像绯红新星那些中央的强者们、\n一直都是背负着这样的压力取胜的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她们的精神力实在令人敬畏。\n不、应该说超越了敬畏的范畴……。",
+      "ChoiceDataList": [
+        "真是了不起的赛马娘们啊……",
+        "真是了不起的赛马娘们啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "训练员……？",
+      "ChoiceDataList": [
+        "只是单纯地、尊敬她们"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "确实……如此……。\n说的……没错……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "不对！\u3000可是！\u3000对方可是敌人。\n决不能心慈手软！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "即便对方再怎么优秀……。\n即便对方是再怎么亲密的赛马娘……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "都不能产生共情。\n我们从船桥远征而来、\n决不退缩……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "打倒中央。直到实现关键的『闪长岩纪念』\n复仇之前！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后到了『二月锦标』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・萨米",
+      "Text": "小乐章、要赢啊――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥赛马娘・缪",
+      "Text": "船桥最强～！！\u3000加～油、加～油！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "哼哼哼……。\n乐章、你的情报、咱可都掌握了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "现在精神上相当疲惫不是嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "创升同学……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "嘛、咱倒没有趁虚而入的打算就是啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "毕竟咱也有想要堂堂正正地跨过这里后、\n去完成的事情呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "那么、就聊到这里吧\n比赛请多指教喽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "呜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "收到了看似轻松的战书。即便如此\n它压在狂怒乐章肩上的重量仍超出想象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "（要赢、不能输。\n不论谁来挑戦都要击溃、然后――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "迎接下一场『闪长岩纪念』。\n无论如何都要了结这宿命！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
