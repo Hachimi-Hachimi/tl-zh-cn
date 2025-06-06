@@ -25,3 +25,5 @@ This is the Simplified Chinese translation repository for Hachimi.
 其相应内容的贡献者请参见 [`Trainers' Legend G 翻译进度表`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/blob/master/translation-progress.md)。
 
 **来自 [`Trainers' Legend G 译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 的译文文件并非使用 Hachimi 原生翻译工具翻译，转译后的文件可能仍然与 Hachimi 有格式兼容问题。如果您遇到了相关问题，请提出 [`Issues`](https://github.com/Hachimi-Hachimi/tl-zh-cn/issues) 以便我们更好的改进译文仓库。**
+
+**部分游戏材质版权属于上海幻电信息科技有限公司及株式会社Cygames。相关翻译内容版权归相应企业所有，本译文仓库中仅供用户交流学习与研究使用。**
