@@ -1,0 +1,81 @@
+{
+    "windows": {
+        "bundle_name": "5MHI4NQZMIO7DB2GQWE6BK6PGNEFKUBM"
+    },
+    "android": {
+        "bundle_name": "XNCNGPE7GUIFLY3ARCJPWTPA5NCMMUCU"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "剩余"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "结 束"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合结束后\n将举办DreamFest"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合",
+                        "position_offset": {
+                            "x": -1.975,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "距DreamFest剩"
+                    }
+                }
+            }
+        }
+    }
+}
