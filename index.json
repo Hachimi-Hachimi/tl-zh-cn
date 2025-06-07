@@ -1,7 +1,7 @@
 {
-  "base_url": "http://185.200.65.108:7890/zh-cn/root",
-  "zip_url": "http://185.200.65.108:7890/zh-cn/zip/latest.zip",
-  "zip_dir": "localized_data",
+  "base_url": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-zh-cn/main/localized_data",
+  "zip_url": "https://codeload.github.com/Hachimi-Hachimi/tl-zh-cn/zip/refs/heads/main",
+  "zip_dir": "tl-zh-cn-main/localized_data",
   "files": [
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
