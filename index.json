@@ -8144,6 +8144,41 @@
       "size": 9320
     },
     {
+      "path": "assets/story/data/04/1132/storytimeline_041132001.json",
+      "hash": "a20f2f2d47f6a9bdf4ade2568f4537bee49b8a9ea85f49703e9a02d5db52b36b",
+      "size": 9125
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132002.json",
+      "hash": "df7a2c2f1e0fa9a285a5a9625a08e544d4820794e3e56be9babb03f3467b92f4",
+      "size": 9045
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132003.json",
+      "hash": "e10d67c98af405881fa229b450b79668b79bd3f0d7f36df6f0204607e131f8ea",
+      "size": 11719
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132004.json",
+      "hash": "263a1a3f8d592aac3a3ec10270a782b3161101e6c876821b5a608530b5d52fa1",
+      "size": 9727
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132005.json",
+      "hash": "88bf3c8ca721b30449bcc86ed27b25b9fd3f3d9002c24f9ca31ebf8bf8e3aed2",
+      "size": 6314
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132006.json",
+      "hash": "77537840f7f961a93c8055c1e3d90c441e46a8e4c9e0c90375d94196106d8030",
+      "size": 11476
+    },
+    {
+      "path": "assets/story/data/04/1132/storytimeline_041132007.json",
+      "hash": "e0847f205f620ec8e1b6ce4d8c120afb9f7e61644200ea8105dc350d652bd96d",
+      "size": 9043
+    },
+    {
       "path": "assets/story/data/08/0000/storytimeline_080000001.json",
       "hash": "0f57d03c40fe2df94cd4bfea5a80b4ba5488306f7bab300ee9ac5e9b15661e0d",
       "size": 3684
@@ -82040,13 +82075,13 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "9d82cf3f8cd4bc5728a97691614384119c8df2a4b014769e00e3b3cbde510ecc",
-      "size": 2280818
+      "hash": "4468693e699c2ed23d2423edcb6619c7709a9a8ae3237b6a0185af06bddd3f9b",
+      "size": 2297872
     },
     {
       "path": "config.json",
-      "hash": "74633883baacce97580a47f6131d7e4580c08ee54c43465850e06151eb0a292c",
-      "size": 613
+      "hash": "2ae6dcccd96471c40156cfa2269bcb5a8b0923b31489bc9382534470aa3e76fc",
+      "size": 663
     },
     {
       "path": "extra_asset_bundle_android",
@@ -82065,8 +82100,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "f8f13a7ee4e2ff3b0fba48a5701c394324f85f0c16e50ac44a039ad7ea3aa329",
-      "size": 388484
+      "hash": "235958ffdca22d8f3184082d6bc759ac082f257d470f09aa3b1f97f79e9800eb",
+      "size": 388545
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -82080,8 +82115,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f8ff1f2fe523f08e6434aa740497e09974e6e8dc61b7459256960046b887fe1b",
-      "size": 4626232
+      "hash": "a2a617e5837625bda66b123483eeb63df56b671febb81ce0e710f238c0e3f5fb",
+      "size": 4638998
     }
   ]
 }
