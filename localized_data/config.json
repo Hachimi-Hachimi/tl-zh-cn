@@ -13,5 +13,7 @@
     "replacement_font_name": "assets/umamusume_zh_cn.otf",
 
     "text_common_allow_overflow": true,
-    "remove_ruby": true
+    "remove_ruby": true,
+
+    "news_url": "https://fuwanews.yingqwq.cn/"
 }
