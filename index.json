@@ -86789,6 +86789,11 @@
       "size": 553539
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1010_02.png",
+      "hash": "582f968c3d54fbe21dacbd0f628f2a8f4d65b24ae93f988c5172ebdd160f751e",
+      "size": 1222407
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1011_01.png",
       "hash": "c7fa49d6edd5f9b4757cb600f4f049d50e234bd629010cb2784f111dec8c83a8",
       "size": 688886
@@ -87369,6 +87374,66 @@
       "size": 1231887
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1126_01.png",
+      "hash": "4e57a9f1fdad890ad91b8c694d91ff0a28ff5849098703128d243ef3ca996cc8",
+      "size": 797389
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1129_02.png",
+      "hash": "815073250fc46c52510f6957d064f867fe0f3a65bf546aa9d0fd33fd140cd629",
+      "size": 1276390
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1132_02.png",
+      "hash": "952cb752e9d2c42ba15b8482e6c688b6edaf8937ebab581b0132d0854e3eaed6",
+      "size": 1196747
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1136_01.png",
+      "hash": "3159ddf521162b15e15babb7a46159387b600968ee985b4001bc79077a5da7bc",
+      "size": 1314439
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1137_01.png",
+      "hash": "6265daf1a52d9ceb099ba122568518787a98a574dd45a3dd6a8f350623b949cb",
+      "size": 1830077
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1138_01.png",
+      "hash": "d371e50a25b07999dced994c6fe118957098a853a3ceadbdbf799ca353f06530",
+      "size": 1209560
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1140_01.png",
+      "hash": "432754564821ebe8a45ba8c86039f53c5fe1ec46cecef06b4bea73a702401301",
+      "size": 1227422
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1141_01.png",
+      "hash": "87c220d61b90b22bc1de40fdf74c61747ed368096607a732e93e36d277869dc9",
+      "size": 1069678
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1142_01.png",
+      "hash": "e48494959afe8f6a0a4e69178b0fdc4333fea5facc8d08d73944eedf15a20979",
+      "size": 1072016
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1143_01.png",
+      "hash": "838c24babfb466728deec9a6b125a58b2e686631d1e330182f9b950351b7f84a",
+      "size": 1083527
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1144_01.png",
+      "hash": "2aa0de70495066894970b0b4f1e433100d5420099290ecadaa6195c16eb00a36",
+      "size": 1278417
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1145_01.png",
+      "hash": "d5eda6a2f878cedf4c29a541a916b16a991c0c1b329e70702efa22337c451021",
+      "size": 1181005
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_2001_01.png",
       "hash": "ac62906d88b0c4a63134a7835294e21f6d545646faa519f23b4084547d16aed6",
       "size": 556573
@@ -87432,6 +87497,16 @@
       "path": "assets/textures/outgame/comic/tex_comic_9042_01.png",
       "hash": "5a25ee0ddaa3acef89ffc0cd49b892637116bbdee5f14a9b97ee70ed89862b40",
       "size": 793153
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9050_01.png",
+      "hash": "a73b5b70034031be6770280156837c3d871cc46ffdc3b3fe06f4323c2193caaa",
+      "size": 1236693
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_9051_01.png",
+      "hash": "f417fc34c14e3bf093833523721eed35e0392d17dda83194bdfcde5b33fd9ce2",
+      "size": 1338668
     },
     {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_01.png",
@@ -87560,8 +87635,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "f5d358c686f8cf12e8b3adec1c593b76ad1ab6beaee390046f248c07ac938654",
-      "size": 2463064
+      "hash": "9870346fbc3c1f7f610e755620f6193a71608017320c4692c1dc0343a25d806a",
+      "size": 2461183
     },
     {
       "path": "config.json",
@@ -87600,8 +87675,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "64a7e6c9f7339acc6bab5094fe9468b039fa4c8c84f54dbef5ff69986c8c3791",
-      "size": 5067762
+      "hash": "e80586342cce05f35c98ef8cc3b371b4683f93988dd335e308715ea4e7b9622d",
+      "size": 5071755
     }
   ]
 }
