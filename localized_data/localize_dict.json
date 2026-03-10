@@ -4601,7 +4601,7 @@
     "SingleMode0120": "EASY",
     "SingleMode0125": "{0} 中取得第{1}名",
     "SingleMode0126": "{0} 中取得前{1}名以内的成绩",
-    "SingleMode0127": "<atlas=Single sprite=utx_ico_fun_00/>{0} 以上",
+    "SingleMode0127": "{0} 以上",
     "SingleMode0128": "剩余<color=#{1}>{0}回合</color>",
     "SingleMode0129": "挑战中",
     "SingleMode0130": "上场",
