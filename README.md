@@ -7,7 +7,7 @@ This is the Simplified Chinese translation repository for Hachimi.
 
 ---
 
-欢迎加入我们的 [QQ频道](https://pd.qq.com/s/ghab2rsuy) 以提出反馈/问题或参与游戏内容讨论。
+欢迎加入我们的 [QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=8mDENlQSqP9aPuQKAZmENAAUDGh0e5sJ&jump_from=webapi&authKey=G2R8S1HAmovpCT2A9DFEaHUWlD1mG0iq795gukas66iGAEIjH6PJp6OHNjTKSZWX) 以提出反馈/问题或参与游戏内容讨论。
 
 # 感谢
 - 维护者: yingyingyingqwq
