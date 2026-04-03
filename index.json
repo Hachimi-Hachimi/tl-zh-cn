@@ -295,8 +295,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "f5479afde33bd4a4223d9f8dbcaa71551374c1e366da9d957b493f6f6c4e8a5c",
-      "size": 123296
+      "hash": "c0822d9f3a083932e367f8e88643d256cd1697194808085582cc659801adc7ca",
+      "size": 1385263
     },
     {
       "path": "assets/atlas/heroes/heroes.diff.png",
@@ -5217,6 +5217,11 @@
       "path": "assets/lyrics/m1177_lyrics.json",
       "hash": "c89a02067528fb79cf87307d98c2d6690a2a66db7d3963efcbb5703d8a94f804",
       "size": 2361
+    },
+    {
+      "path": "assets/lyrics/m3180_lyrics.json",
+      "hash": "3e58a1d90aac66e6d1a60e8096da730c1765add4f59dc87f1ef57bb0556d6944",
+      "size": 237
     },
     {
       "path": "assets/lyrics/m9051_lyrics.json",
@@ -88680,8 +88685,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "b5e8360108e9839feae719ddac4a8675d3796d29551b6447f6827dbe9f9b51df",
-      "size": 5241053
+      "hash": "7c6876b3004aae44f52ab5cc34f6b5b48ffc5beb755f4dcbf1c762be0f90858b",
+      "size": 5277658
     }
   ]
 }
