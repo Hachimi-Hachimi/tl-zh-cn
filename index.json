@@ -90750,8 +90750,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "270afc507fb2edf250de4e2d1cff17c116f4c1db57d4833d8c6f934fe665ab51",
-      "size": 2565357
+      "hash": "271251b443522f6bba78fc35a8a25e5a07c1e6375c30f94fa96e5462156b7d7f",
+      "size": 2564665
     },
     {
       "path": "config.json",
@@ -90777,6 +90777,16 @@
       "path": "hashed_dict.json",
       "hash": "e971026cb0bbff06208e66347bd8dde2d8323077cdf7e294f5e4392f6189402b",
       "size": 414066
+    },
+    {
+      "path": "icon.png",
+      "hash": "fb405907bbddce6d133c2aae904b44cc8f78018c5c8d9ca80085a819b08017cd",
+      "size": 136770
+    },
+    {
+      "path": "info.json",
+      "hash": "0ce96dd9edeeeafa1fbaad45f44adba8046604ec94192f4e04cf568b9070c47f",
+      "size": 518
     },
     {
       "path": "localize_dict.json",
