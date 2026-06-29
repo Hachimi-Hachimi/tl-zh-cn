@@ -1,0 +1,253 @@
+{
+  "data": {
+    "motion_parameter_list": {
+      "0": {
+        "_name_": "fl_singlemode_header_turncounter01",
+        "text_param_list": {
+          "0": {
+            "_obj_name_": "object5",
+            "text": "A14820",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "1": {
+            "_obj_name_": "object6",
+            "text": "A14820",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "2": {
+            "_obj_name_": "object7",
+            "text": "A14820",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "4": {
+        "_name_": "clr_txt_turn00",
+        "text_param_list": {
+          "0": {
+            "text": "上场",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": -0.025,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "5": {
+        "_name_": "txt_num_turn00",
+        "text_param_list": {
+          "0": {
+            "text": "99",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": -0.025,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "7": {
+        "_name_": "clr_txt_turn_base_turn00",
+        "text_param_list": {
+          "0": {
+            "text": "回合",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "8": {
+        "_name_": "clr_txt_turn_base_remaining00",
+        "text_param_list": {
+          "0": {
+            "text": "剩余",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "13": {
+        "_name_": "txt_start00",
+        "text_param_list": {
+          "0": {
+            "text": "?",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "14": {
+        "_name_": "txt_target01",
+        "text_param_list": {
+          "0": {
+            "text": "结 束",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "15": {
+        "_name_": "txt_target00_00",
+        "text_param_list": {
+          "0": {
+            "text": "回合结束后",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "16": {
+        "_name_": "txt_target00_01",
+        "text_param_list": {
+          "0": {
+            "text": "开展评价会",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "17": {
+        "_name_": "txt_num_turn01",
+        "text_param_list": {
+          "0": {
+            "_obj_name_": "clr_num_turn01",
+            "text": "99",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.0,
+              "y": -0.025,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "19": {
+        "_name_": "clr_txt_turn_base_turn01",
+        "text_param_list": {
+          "0": {
+            "_obj_name_": "clr_txt_turn_base_turn00",
+            "text": "回合",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": 0.0,
+              "z": 0.0
+            }
+          }
+        }
+      },
+      "20": {
+        "_name_": "clr_txt_turn_base_remaining01",
+        "text_param_list": {
+          "0": {
+            "text": "距离评价会",
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "position_offset": {
+              "x": 0.025,
+              "y": -0.0,
+              "z": 0.0
+            }
+          }
+        }
+      }
+    }
+  }
+}
