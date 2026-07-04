@@ -1,0 +1,65 @@
+{
+  "windows": {
+    "bundle_name": "JFC66ZERLXXWETDSNJOXKUKTZYAUMLC2"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "11": {
+          "_name_": "txt_num_turn00",
+          "text_param_list": {
+            "0": {
+              "text": "1",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position_offset": {
+                "x": 0.02500000037252903,
+                "y": -0.02500000037252903,
+                "z": 0.0
+              }
+            }
+          }
+        },
+        "13": {
+          "_name_": "txt_turn00",
+          "text_param_list": {
+            "0": {
+              "text": "回合",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position_offset": {
+                "x": 0.02500000037252903,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        },
+        "14": {
+          "_name_": "txt_ato00",
+          "text_param_list": {
+            "0": {
+              "text": "剩余",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position_offset": {
+                "x": 0.02500000037252903,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
