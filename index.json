@@ -5665,8 +5665,13 @@
     },
     {
       "path": "assets/lyrics/m1181_lyrics.json",
-      "hash": "63cd92919d7ff35c0d0add270ac150840f1a7026ff7eb5a5d861dff8d447fc8e",
-      "size": 3491
+      "hash": "c0dc083faf42e37111e66d7060f71e90bf9f0e404413bbfc3c52c440d4a64274",
+      "size": 3489
+    },
+    {
+      "path": "assets/lyrics/m1193_lyrics.json",
+      "hash": "6f27e268f21cf13653ba6eefca5972a9240e96c834ed7fbaaa3470fe44fe0e1b",
+      "size": 2847
     },
     {
       "path": "assets/lyrics/m3180_lyrics.json",
@@ -12782,6 +12787,46 @@
       "path": "assets/story/data/09/0055/storytimeline_090055008.json",
       "hash": "aa218eed66cf9e4f79bbb695bccf7cbc1b0ca951bc3c50eca78cb7d668fd032f",
       "size": 7052
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056001.json",
+      "hash": "ff28958816bfff9e3e77144303ef0789a237be8ae6ea93aa6ccad571ba389fb2",
+      "size": 8271
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056002.json",
+      "hash": "890b939c06f6c7e5a1df184b9c0415f4971ace145564c817fd1700d2558d4256",
+      "size": 9180
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056003.json",
+      "hash": "77121f0bcd9af3713a680abd60938fb497a4ccab26e137b84d276e3d554dc387",
+      "size": 6128
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056004.json",
+      "hash": "7b92611632653cc49c7b4f381d0a595a730e1af7996a4bbdeb36b3c0a4aea0c5",
+      "size": 10563
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056005.json",
+      "hash": "f6f39dea205568dccb419392dc92140a9f456612853062ad36b147a387c91517",
+      "size": 11887
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056006.json",
+      "hash": "79ad18ea62e35bebcbb2c567d512d57a848c1c635117d7be270690be8c027293",
+      "size": 8287
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056007.json",
+      "hash": "aa2033e4d47c8b719238391cbb94b723a06d1f3411cc454ff8faa529d767e3c6",
+      "size": 6551
+    },
+    {
+      "path": "assets/story/data/09/0056/storytimeline_090056008.json",
+      "hash": "72d8d8eb18bfa1b41c76c51304ba87f449d282b6aa4b5576aa79f1c59f668e90",
+      "size": 9175
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000001.json",
@@ -92109,6 +92154,51 @@
       "size": 6237
     },
     {
+      "path": "assets/story/data/83/0314/storytimeline_830314001.json",
+      "hash": "6752827576ce2e4defa627ddfa16fd203a4a025cc0ef7cfd769be64e39cf6b53",
+      "size": 5742
+    },
+    {
+      "path": "assets/story/data/83/0314/storytimeline_830314002.json",
+      "hash": "89557fdd99d0258770dcbad77de8ce0020a4b0e317b1b37c1cc35c1a9e2ca353",
+      "size": 7023
+    },
+    {
+      "path": "assets/story/data/83/0314/storytimeline_830314003.json",
+      "hash": "1e3f06c0a2b4990cab591a39edcda0736abc72e0ef16e4eaf7352abe9907f53f",
+      "size": 7385
+    },
+    {
+      "path": "assets/story/data/83/0315/storytimeline_830315001.json",
+      "hash": "8df6a96b4e9e79336de9b75ce627f4ff5b1ecbb95c2f98f19bef64ab134deff6",
+      "size": 8395
+    },
+    {
+      "path": "assets/story/data/83/0315/storytimeline_830315002.json",
+      "hash": "ed61d1d4bc90d6f233fc2a5c1126f0e79c91cc542dcd4815c019361f4364ca5b",
+      "size": 7258
+    },
+    {
+      "path": "assets/story/data/83/0315/storytimeline_830315003.json",
+      "hash": "b706683f5ac72d3d9bd7cc1a14b7560ced6c708120fbc7e694b5533b2c3b0606",
+      "size": 8867
+    },
+    {
+      "path": "assets/story/data/83/0316/storytimeline_830316001.json",
+      "hash": "5cb3767eab7a8fcc70d4f1ef032ff0f1f0412a967d8abd76901ea0b6d2175181",
+      "size": 5277
+    },
+    {
+      "path": "assets/story/data/83/0316/storytimeline_830316002.json",
+      "hash": "71d3b148d48491d1da5a4c81c1812a27a3ca12d105c7a26ed7b05ca12b07ff1f",
+      "size": 7292
+    },
+    {
+      "path": "assets/story/data/83/0316/storytimeline_830316003.json",
+      "hash": "e3bd743a06841969994ec75ab6cfa2b2fdcf02bd587a261d8c4d579fcc7d9483",
+      "size": 7777
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
       "hash": "fa5c13f590b3edc1ba48282e888c13004deb30c497c7e1acfb53c1651bea0ce7",
       "size": 97978
@@ -95815,8 +95905,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "b855321db9f3ed56eb55004f5125597b9291f390f8d2e4d344469c443f3c6b0c",
-      "size": 2575987
+      "hash": "000e45924dd6f239e5073dd24a9cf613911a8ff8aa0e32bacd260405a145a915",
+      "size": 2578285
     },
     {
       "path": "config.json",
@@ -95870,8 +95960,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "b9e3c1ae2d060a59e5ba8083de4b28320ae7f839e8608d1c7e2b1757cd3baf84",
-      "size": 5643684
+      "hash": "f2e994b46f186691e32e49c17c109c7f49a3306a27934390e43a16f6d5d88dfd",
+      "size": 5704294
     }
   ]
 }
