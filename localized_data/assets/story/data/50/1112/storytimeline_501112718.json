@@ -1,0 +1,29 @@
+{
+    "title": "恢复完毕",
+    "text_block_list": [
+        {
+            "name": "勇敢之心",
+            "text": "Hi, Trainer!\nThe air sure is refreshing\nthis morning, isn't it?"
+        },
+        {
+            "name": "勇敢之心",
+            "text": "――哎呀，说成英语了呢！\n因为一直和那边的朋友\n通着话，一不小心！",
+            "choice_data_list": [
+                "看来玩得很开心呢",
+                "看来玩得很开心哦"
+            ]
+        },
+        {
+            "name": "勇敢之心",
+            "text": "Yeah!　大家都unique呢♪\n也想让你加入哦！"
+        },
+        {
+            "name": "勇敢之心",
+            "text": "对了！　给你上英语课！\n呵呵，are you ready?"
+        },
+        {
+            "name": "独白",
+            "text": "勇敢之心和朋友们的通话中，\n度过了愉快的假日！"
+        }
+    ]
+}
