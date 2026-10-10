@@ -340,13 +340,23 @@
     },
     {
       "path": "assets/atlas/championsmeeting/championsmeeting.diff.png",
-      "hash": "bcbb62c1f719bd2295cf0807de43131e718e80a7063b50a7d93a9a2e8071e4d8",
-      "size": 1276223
+      "hash": "aacb41ac0f33270dd84384942215622e08315ddb2045a7fbaf75720f0712a4ab",
+      "size": 1630222
+    },
+    {
+      "path": "assets/atlas/championsmeeting/championsmeeting.json",
+      "hash": "ba1e414cf9bcaa228a5d65c16aa0235428047ca6b93b2dae8e115fa282be64ac",
+      "size": 85
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "404fc1f50da6ceef9f0d08887a92c2a2ebf7e4440f8993b8c3cf51c675392e15",
-      "size": 39783
+      "hash": "0fdea9a5caf249c9ee3720378eec50e42691b026369aaa600d9a3cc08133b664",
+      "size": 179604
+    },
+    {
+      "path": "assets/atlas/common/common.json",
+      "hash": "1417cc93b11239b2a17f3c47a75f2efd371ce2aaa50ffefc7f657109359ec848",
+      "size": 85
     },
     {
       "path": "assets/atlas/heroes/heroes.diff.png",
@@ -359,9 +369,29 @@
       "size": 22712
     },
     {
+      "path": "assets/atlas/mission/mission.diff.png",
+      "hash": "6ac0a01c8773a86ab038f747984d05dbc8de9b17390e439e41aa35a4c348a38c",
+      "size": 89824
+    },
+    {
+      "path": "assets/atlas/mission/mission.json",
+      "hash": "f91d1d32467806ffc16baecd631ad405aa0390e41a947cad17a0ac531102306d",
+      "size": 85
+    },
+    {
       "path": "assets/atlas/photostudio/photostudio.diff.png",
       "hash": "7ad03d7a88b18973fa8404b3684d51b8b3b6f604d8c982d61f0d9d8e723f5e8a",
       "size": 2289
+    },
+    {
+      "path": "assets/atlas/race/race.diff.png",
+      "hash": "79924a60b55aedb28cd39455136962106691465c997d474108b0d8b35306e3b3",
+      "size": 330977
+    },
+    {
+      "path": "assets/atlas/race/race.json",
+      "hash": "301ebd7d0b7f072086e9ac26c873ca160c03f198c0d61319a17f5a30c1046f93",
+      "size": 85
     },
     {
       "path": "assets/atlas/racecommon/RaceCommon.diff.png",
@@ -399,9 +429,44 @@
       "size": 147177
     },
     {
+      "path": "assets/atlas/storyevent/storyevent.diff.png",
+      "hash": "6cb6074cef99e125a82035c99373aa355817e032bce821a02c5122f7a6b14044",
+      "size": 224032
+    },
+    {
+      "path": "assets/atlas/storyevent/storyevent.json",
+      "hash": "fc863e7a9ee259466dcf3e85be1b9f9680d60b5bd5d34055086f09ffe2f6f9ee",
+      "size": 85
+    },
+    {
       "path": "assets/atlas/teamstadium/teamstadium.diff.png",
-      "hash": "2f34b77859ea48580f7b670b2e36baa2a17533a78243d3c9b013e8f0943863c6",
-      "size": 22712
+      "hash": "7cd10ca4a0a31b5a3bb9fe4372c56701f8425023f8790753e721742e9a50fc1e",
+      "size": 640779
+    },
+    {
+      "path": "assets/atlas/teamstadium/teamstadium.json",
+      "hash": "397e7a20baf8e9fccda1daed531367494f60ee6911d0d17782ac694d472f8387",
+      "size": 85
+    },
+    {
+      "path": "assets/atlas/trainingreport/trainingreport.diff.png",
+      "hash": "8896fbfafb0d92989c1893551faf620a271551d8ff62be638d3ea816add21624",
+      "size": 90245
+    },
+    {
+      "path": "assets/atlas/trainingreport/trainingreport.json",
+      "hash": "68b9e8eb6c7fadffb920a15319f743fcc2a47d0b0b098697c3e0387a242df9e6",
+      "size": 85
+    },
+    {
+      "path": "assets/atlas/transferevent/transferevent.diff.png",
+      "hash": "36bc39c65f7b2d03ae05ce50a76b5c6655907281ef8ae16feb7893379be3f950",
+      "size": 133074
+    },
+    {
+      "path": "assets/atlas/transferevent/transferevent.json",
+      "hash": "589b27a60b97db11d3f30aa086b912aafb70cc1c22e37b6c3421a2cdf6357370",
+      "size": 85
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -99310,13 +99375,13 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "3fcc65e878ddd89534810b42b838198647a32c58d15b5be949877570126017aa",
-      "size": 2695637
+      "hash": "00d613f692766588ff711df46ad44d6842390ec3ac4a78d21bb79d4735d467e3",
+      "size": 2723210
     },
     {
       "path": "config.json",
-      "hash": "c70ec9a957e95cc596140b89a302afee351b2af0d2339a263fafb566515a6597",
-      "size": 1059
+      "hash": "16099636bcc6d37d72ccc7d6e47b3f4e9de0aa21f3de15202434f2c902de8df3",
+      "size": 1108
     },
     {
       "path": "extra_asset_bundle_android",
