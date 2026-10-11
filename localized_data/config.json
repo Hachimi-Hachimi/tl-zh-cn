@@ -12,9 +12,6 @@
         "ios": "extra_asset_bundle_ios"
     },
 
-
-    "text_frame_line_spacing_multiplier": 1.5,
-
     "use_text_wrapper": true,
     "line_width_multiplier": 2,
     "text_common_best_fit": true,

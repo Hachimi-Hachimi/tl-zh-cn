@@ -99380,8 +99380,8 @@
     },
     {
       "path": "config.json",
-      "hash": "16099636bcc6d37d72ccc7d6e47b3f4e9de0aa21f3de15202434f2c902de8df3",
-      "size": 1108
+      "hash": "c70ec9a957e95cc596140b89a302afee351b2af0d2339a263fafb566515a6597",
+      "size": 1059
     },
     {
       "path": "extra_asset_bundle_android",
@@ -99400,8 +99400,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "206bcd5e170e45f0929cee528a2cf900925ff76d7e92e8aa2c50cc4b51ccfaec",
-      "size": 414400
+      "hash": "0e8109aa1e1f657b0cb06e29dcf12dd976464b4c5d784e4e11b1013ed745336a",
+      "size": 414545
     },
     {
       "path": "icon.png",
