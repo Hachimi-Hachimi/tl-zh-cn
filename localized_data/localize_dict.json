@@ -9434,5 +9434,13 @@
     "TrainingRoadmap740002": "一致",
     "TrainingRoadmap740003": "不一致",
     "TrainingRoadmap740004": "赛事中无法移动至剧本选择画面",
-    "TrainingRoadmap740005": "赛事中无法移动至批量获取继承专用赛马娘画面"
+    "TrainingRoadmap740005": "赛事中无法移动至批量获取继承专用赛马娘画面",
+    "TrainingRoadmap688275": "目标泛用因子优先顺序",
+    "TrainingRoadmap688278": "请设置目标泛用因子",
+    "TrainingRoadmap688277": "要放弃设置\n并返回目标泛用因子设置吗",
+    "TrainingRoadmap688276": "请设置目标泛用因子的获得优先顺序",
+    "Outgame718001": "请选择散步对象",
+    "Outgame740001": "不能再降低了",
+    "Outgame740002": "不能再提高了",
+    "Outgame740003": "性能解放"
 }
