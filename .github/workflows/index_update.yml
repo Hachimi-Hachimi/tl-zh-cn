@@ -6,66 +6,77 @@ on:
 jobs:
   build-and-merge:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-    - name: Checkout dev branch
-      uses: actions/checkout@v4
-      with:
-        ref: dev
-        fetch-depth: 0
+      - name: Checkout dev branch
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          fetch-depth: 0
 
-    - name: 安装 libgit2 开发包
-      run: sudo apt-get update && sudo apt-get install -y libgit2-dev
+      - name: 安装 libgit2 开发包
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgit2-dev
 
-    - name: 设置 Python 环境
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-    - name: 安装依赖
-      run: pip install -r requirements.txt
+      - name: 安装依赖
+        run: pip install -r requirements.txt
 
-    - name: 生成 index.json
-      run: python gen_index.py
+      - name: 生成 index.json
+        run: python gen_index.py
 
-    - name: 备份 index.json
-      run: |
-        cp index.json /tmp/index.json
-        rm index.json
+      - name: 临时保存 index.json
+        run: mv index.json /tmp/index.json
 
-    - name: 合并 dev 到 main 并提交
-      env:
-        TZ: Asia/Shanghai
-      run: |
-        set -e
+      - name: 合并 dev 到 main 并提交
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          set -e
 
-        git config user.name  "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-        git fetch origin main
+          git fetch origin main dev
 
-        git switch main
+          git switch -C main origin/main
 
-        git merge --no-ff --no-commit origin/dev
+          if ! git merge --no-ff --no-commit origin/dev; then
+            conflicts=$(git diff --name-only --diff-filter=U)
 
-        cp /tmp/index.json ./index.json
-        git add index.json
+            if [ "$conflicts" != "index.json" ]; then
+              echo "出现了非预期的合并冲突："
+              echo "$conflicts"
+              exit 1
+            fi
 
-        if git ls-files -u | grep .; then
-          for f in $(git ls-files -u | cut -f2 | sort -u); do
-            git checkout origin/dev -- "$f" || true
-            git add "$f" || true
-          done
-        fi
+            echo "检测到 index.json 的预期冲突，使用新生成的版本。"
+          fi
 
-        if git diff --cached --quiet; then
-          echo "Nothing to commit, workflow ends."
-          exit 0
-        fi
+          cp /tmp/index.json ./index.json
+          git add index.json
 
-        COMMIT_DATE=$(date +'%Y/%m/%d')
-        git commit -m "Hachimi 简体中文仓库更新 ${COMMIT_DATE}"
+          if git diff --name-only --diff-filter=U | grep -q .; then
+            echo "仍有尚未解决的合并冲突："
+            git diff --name-only --diff-filter=U
+            exit 1
+          fi
 
-        git push origin main
+          if git diff --cached --quiet && \
+             ! git rev-parse -q --verify MERGE_HEAD >/dev/null; then
+            echo "没有需要提交的更新。"
+            exit 0
+          fi
+
+          COMMIT_DATE=$(date +'%Y/%m/%d')
+
+          git commit -m "Hachimi 简体中文仓库更新 ${COMMIT_DATE}"
+          git push origin main

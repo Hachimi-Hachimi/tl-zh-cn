@@ -11,9 +11,24 @@
         "android": "extra_asset_bundle_android",
         "ios": "extra_asset_bundle_ios"
     },
+
+    "use_text_wrapper": true,
+    "line_width_multiplier": 2,
+    "text_common_best_fit": true,
+    "systext_cue_lines": {
+        "training": 3
+    },
+    "wrapper_penalties": {
+        "nline_penalty": 18,
+        "overflow_penalty": 9,
+        "short_last_line_fraction": 4,
+        "short_last_line_penalty": 18,
+        "hyphen_penalty": 0
+    },
+
     "replacement_font_name": "assets/umamusume_zh_cn.otf",
 
-    "text_common_allow_overflow": true,
+    "text_common_allow_overflow": false,
     "remove_ruby": true,
 
     "news_url": "https://fuwanews.yingqwq.cn/"
