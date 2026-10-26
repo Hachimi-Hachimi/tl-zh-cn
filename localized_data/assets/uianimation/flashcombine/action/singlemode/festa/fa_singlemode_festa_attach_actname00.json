@@ -1,0 +1,43 @@
+{
+    "data": {
+        "an_root": {
+            "motion_parameter_list": {
+                "2": {
+                    "_name_": "txt_act_name00",
+                    "text_param_list": {
+                        "0": {
+                            "text": "やぶさめ",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0,
+                                "y": 0,
+                                "z": 0
+                            },
+                            "_obj_name_": "txt_act_name01"
+                        },
+                        "1": {
+                            "text": "流镝马",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0.02500000037252903,
+                                "y": -0.02500000037252903,
+                                "z": 0
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "windows": {
+        "bundle_name": "6MZHI3YH2A666RMYU32COQYSNFNDYEXL"
+    }
+}
