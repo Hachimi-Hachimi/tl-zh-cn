@@ -1,0 +1,81 @@
+{
+    "data": {
+        "an_root": {
+            "motion_parameter_list": {
+                "1": {
+                    "_name_": "mc_txt_remaining00",
+                    "text_param_list": {
+                        "0": {
+                            "text": "演目",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0,
+                                "y": 0,
+                                "z": 0
+                            },
+                            "_obj_name_": "object2"
+                        },
+                        "1": {
+                            "text": "剩余",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0,
+                                "y": 0,
+                                "z": 0
+                            },
+                            "_obj_name_": "object3"
+                        }
+                    }
+                },
+                "2": {
+                    "_name_": "txt_goal00",
+                    "text_param_list": {
+                        "0": {
+                            "text": "全演目达成！",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0.02500000037252903,
+                                "y": 0,
+                                "z": 0
+                            },
+                            "_obj_name_": "object0"
+                        }
+                    }
+                },
+                "3": {
+                    "_name_": "txt_num00",
+                    "text_param_list": {
+                        "0": {
+                            "text": "3",
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            },
+                            "position_offset": {
+                                "x": 0,
+                                "y": 0,
+                                "z": 0
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "windows": {
+        "bundle_name": "MLSDSTIJMH4CT5L6GXS6OWG2EKDFAKWK"
+    }
+}
