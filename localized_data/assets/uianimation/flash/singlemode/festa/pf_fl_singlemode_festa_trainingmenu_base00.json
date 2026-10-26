@@ -1,0 +1,42 @@
+{
+    "data": {
+        "motion_parameter_list": {
+            "8": {
+                "_name_": "mc_txt_camp_turn00",
+                "text_param_list": {
+                    "1": {
+                        "text": "合宿时间剩余",
+                        "scale": {
+                            "x": 1,
+                            "y": 1,
+                            "z": 1
+                        },
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": -0.02500000037252903,
+                            "z": 0
+                        },
+                        "_obj_name_": "txt_precamp00"
+                    },
+                    "2": {
+                        "text": "回合",
+                        "scale": {
+                            "x": 1,
+                            "y": 1,
+                            "z": 1
+                        },
+                        "position_offset": {
+                            "x": 0,
+                            "y": -0.02500000037252903,
+                            "z": 0
+                        },
+                        "_obj_name_": "txt_turn00"
+                    }
+                }
+            }
+        }
+    },
+    "windows": {
+        "bundle_name": "QVJGT7Z75VAOP5C23OA5JESHVBDLW6QV"
+    }
+}
