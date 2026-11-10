@@ -93989,6 +93989,16 @@
       "size": 5429
     },
     {
+      "path": "assets/story/data/82/0102/storytimeline_820102001.json",
+      "hash": "1de198f0d582899e7ab7d20b6eedaacf26549046d95156a027ff38d3661bc594",
+      "size": 5896
+    },
+    {
+      "path": "assets/story/data/82/0102/storytimeline_820102002.json",
+      "hash": "d5741e4422d669673c0538cc545b9cec20cd35092741987e0157a9499247e89b",
+      "size": 8008
+    },
+    {
       "path": "assets/story/data/83/0001/storytimeline_830001001.json",
       "hash": "b585ef55bc467d712ddc23defb0a9f255b3ae9e0ddd22120b19075d3f72fad6a",
       "size": 4607
@@ -97117,6 +97127,11 @@
       "path": "assets/story/data/83/0322/storytimeline_830322003.json",
       "hash": "a106506219c506154c6cf56e7f12b16b2896456b6575c9b4983f024c4114095b",
       "size": 9040
+    },
+    {
+      "path": "assets/story/data/83/0324/storytimeline_830324001.json",
+      "hash": "9684f61882f05b2a2231c583fc530077749dbd38212ed707e48a0733755826cd",
+      "size": 16652
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
@@ -102255,8 +102270,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "492cf95b3be3e6757021e905112e4ee0f76c37914095ff6cfa345402a4a0333a",
-      "size": 5808002
+      "hash": "365c9b76d58f380d5dd300c9d82587d1b8c2d7c15541f571e107fd08435c6ac4",
+      "size": 5817782
     }
   ]
 }
