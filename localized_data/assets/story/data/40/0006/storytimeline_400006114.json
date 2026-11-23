@@ -1,0 +1,27 @@
+{
+    "title": "收到联络了！",
+    "text_block_list": [
+        {
+            "name": "独白",
+            "text": "在<chrname>的公开训练后，\n<support>用手机给我发来了一条消息。"
+        },
+        {
+            "name": "独白",
+            "text": "说起来，我记得以前还和<support>\n针对<chrname>的训练\n交换过意见……",
+            "choice_data_list": [
+                "（那时候把联系方式告诉了她……）"
+            ]
+        },
+        {
+            "name": "独白",
+            "text": "她大概一直都在关注着<chrname>吧。\n特别是这次的公开训练，\n应该也在网上进行了直播。",
+            "choice_data_list": [
+                "（向她道个谢吧！）"
+            ]
+        },
+        {
+            "name": "独白",
+            "text": "趁着还没忘记，\n我给<support>回了消息！"
+        }
+    ]
+}
